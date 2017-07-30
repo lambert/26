@@ -1,10 +1,10 @@
 License Information
 ===================
 
-I use two different licenses for files — one for hardware and one for code.
+I use two different licenses for files — one for hardware and one for source code.
 
-Hardware
----------
+Hardware files (docs, ecad and mcad directories)
+------------------------------------------
 
 **This hardware is released under [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).**
 
@@ -27,8 +27,8 @@ You do not have to comply with the license for elements of the material in the p
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
 
-Source Code
------------
+Source Code (source directory)
+------------------------------
 
 **Source code, firmware, and software is released under the GPLv2+ License).**
 
