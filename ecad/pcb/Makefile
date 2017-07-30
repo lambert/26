@@ -1,0 +1,60 @@
+PROJNAME = 26_OCTAVE_FILTER
+
+LAYOUTS = \
+	26.001.00.01.01.pcb \
+	26.002.00.01.01.pcb \
+	26.003.00.01.01.pcb \
+	26.006.00.01.01.pcb \
+	26.006.01.01.01.pcb \
+	26.006.02.01.01.pcb \
+	26.007.01.01.01.pcb
+
+#	26.004.00.01.01.pcb \
+#	26.005.00.01.01.pcb \
+
+notarget:
+	@echo "Please specify a target:"
+	@echo ""
+	@echo "${MAKE} bom            Creates bom files"
+	@echo "${MAKE} gerber         Creates Gerber files"
+	@echo "${MAKE} eyecandy       Creates eyecandy files"
+	@echo "${MAKE} ps             Creates ps plotfiles"
+	@echo "${MAKE} all            Creates all of the above"
+
+bom: $(LAYOUTS)
+	for S in $(LAYOUTS); \
+	do \
+	pcb -x bom --xy-in-mm --bomfile $$S.bom $$S; \
+	done;
+	mv -u *.xy pnp/
+	mv -u *.bom bom/
+
+gerber: $(LAYOUTS)
+	for S in $(LAYOUTS); \
+	do \
+	pcb -x gerber $$S; \
+	done;
+	mv -u *.gbr fab/
+	mv -u *.cnc fab/
+
+eyecandy: $(LAYOUTS)
+	for S in $(LAYOUTS); \
+	do \
+	pcb -x png --photo-mode --as-shown --only-visible --dpi 600 --outfile $$S.top.png $$S; \
+	pcb -x png --photo-mode --as-shown --photo-flip-x --only-visible --dpi 600 --outfile $$S.bottom.png $$S; \
+	done;
+	mv -u *.png eyecandy/
+
+ps: $(LAYOUTS)
+	for S in $(LAYOUTS); \
+	do \
+	pcb -x ps --media A4 --align-marks --outline --drill-copper --drill-helper --show-legend --psfile $$S.ps $$S; \
+	done;
+	mv -u *.ps plotfiles/
+
+.DEFAULT_GOAL := gerber
+
+all: bom gerber eyecandy ps
+
+# EOF #
+
