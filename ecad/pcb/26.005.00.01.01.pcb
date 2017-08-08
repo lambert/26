@@ -1212,6 +1212,7 @@ Symbol['~' 12.00mil]
 )
 Attribute("PCB::grid::unit" "mm")
 Attribute("PCB::grid::size" "0.5000mm")
+Attribute("import::src0" "/home/bert/workspace/git/projects/26_Octave_Filter/ecad/gschem/26.005.00.01.01.sch")
 
 Element["lock" "PIN165X102____" "p1" "" 13.0000mm 45.5000mm 60.00mil -50.00mil 0 100 ""]
 (

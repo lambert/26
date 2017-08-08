@@ -1214,7 +1214,7 @@ Symbol('~' 12)
 	SymbolLine(34 36 36 30 8)
 	SymbolLine(36 30 36 26 8)
 )
-Attribute("import::src0" "/home/bert/workspace/git/work/26_Octave_Filter/electrical/gschem/26.006.00.01.01.sch")
+Attribute("import::src0" "/home/bert/workspace/git/projects/26_Octave_Filter/ecad/gschem/26.006.00.01.01.sch")
 Via[352500 155000 6000 2000 0 3200 "" ""]
 Via[12500 132500 6000 2000 0 3200 "" ""]
 

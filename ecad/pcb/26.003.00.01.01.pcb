@@ -777,6 +777,7 @@ Symbol('~' 12)
 	SymbolLine(15 25 20 25 8)
 	SymbolLine(20 25 25 20 8)
 )
+Attribute("import::src0" "/home/bert/workspace/git/projects/26_Octave_Filter/ecad/gschem/26.003.00.01.01.sch")
 
 Element["lock" "____MIN-XY" "" "MIN-XY" 0 392500 0 0 0 100 ""]
 (

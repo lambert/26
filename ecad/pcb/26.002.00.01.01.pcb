@@ -777,7 +777,7 @@ Symbol('~' 12)
 	SymbolLine(15 25 20 25 8)
 	SymbolLine(20 25 25 20 8)
 )
-Attribute("import::src0" "/home/bert/workspace/git/work/26_Octave_Filter/electrical/gschem/26.002.00.01.01.sch")
+Attribute("import::src0" "/home/bert/workspace/git/projects/26_Octave_Filter/ecad/gschem/26.002.00.01.01.sch")
 
 Element["lock" "01_front_pcb_assembly" "P102" "01_front_pcb_assembly" 15748 196850 -1969 -155512 1 100 ""]
 (

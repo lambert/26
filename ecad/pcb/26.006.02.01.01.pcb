@@ -797,6 +797,7 @@ Symbol('~' 12)
 	SymbolLine(15 35 20 35 8)
 	SymbolLine(20 35 25 30 8)
 )
+Attribute("import::src0" "/home/bert/workspace/git/projects/26_Octave_Filter/ecad/gschem/26.006.02.01.01.sch")
 Via[25000 57500 4000 2000 0 2000 "" "thermal(1X)"]
 Via[62500 57500 4000 2000 0 2000 "" "thermal(1X)"]
 Via[65000 87500 4000 2000 0 2000 "" ""]

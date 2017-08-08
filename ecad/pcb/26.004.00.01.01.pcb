@@ -1212,6 +1212,7 @@ Symbol['~' 12.00mil]
 )
 Attribute("PCB::grid::unit" "mm")
 Attribute("PCB::grid::size" "0.5000mm")
+Attribute("import::src0" "/home/bert/workspace/git/projects/26_Octave_Filter/ecad/gschem/26.004.00.01.01.sch")
 
 Element["" "____MIN-XY" "" "MIN-XY" 5.0000mm 95.0000mm 0.0000 -5.3900mm 0 100 ""]
 (

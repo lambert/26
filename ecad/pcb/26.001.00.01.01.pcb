@@ -777,6 +777,7 @@ Symbol('~' 12)
 	SymbolLine(15 25 20 25 8)
 	SymbolLine(20 25 25 20 8)
 )
+Attribute("import::src0" "/home/bert/workspace/git/projects/26_Octave_Filter/ecad/gschem/26.001.00.01.01.sch")
 Via[120079 196850 40000 40000 40000 40000 "R108" "hole"]
 Via[80709 78740 2000 2000 2000 2000 "D104" "hole"]
 Via[41339 78740 2000 2000 2000 2000 "S102" "hole"]
