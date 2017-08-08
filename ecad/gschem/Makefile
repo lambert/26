@@ -19,8 +19,8 @@ DFM = \
 	26.002.00.01.01.sch \
 	26.003.00.01.01.sch \
 	26.006.00.01.01.sch \
-	26.006.00.01.02.sch \
 	26.006.01.01.01.sch \
+	26.006.02.01.01.sch \
 	26.007.01.01.01.sch \
 	26.008.01.01.01.sch
 
@@ -83,7 +83,7 @@ pcb: $(DFM)
 
 printpdf: $(PROJNAME).ps
 	ps2pdf -dOptimize=true -dUseFlateCompression=true -sPAPERSIZE=a4 $< $(PROJNAME)-schematics.pdf
-	mv $(PROJNAME)-schematics.pdf ../../documentation
+	mv $(PROJNAME)-schematics.pdf ../../docs
 	mv $(PROJNAME).ps plotfiles
 
 $(PROJNAME).ps: printps
