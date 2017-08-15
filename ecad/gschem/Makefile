@@ -16,6 +16,7 @@ DFS = \
 	26.006.00.01.53.sch
 
 DFM = \
+	26.001.00.01.01.sch \
 	26.002.00.01.01.sch \
 	26.003.00.01.01.sch \
 	26.006.00.01.01.sch \
@@ -23,6 +24,8 @@ DFM = \
 	26.006.02.01.01.sch \
 	26.007.01.01.01.sch \
 	26.008.01.01.01.sch
+
+# Generic stuff follows from here.
 
 ALL_SCHEMATICS = \
 	$(DESIGN) \
