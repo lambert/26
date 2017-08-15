@@ -15,7 +15,7 @@
       </affiliation>
     </author>
 
-    <pubdate>20170730</pubdate>
+    <pubdate>20170813</pubdate>
   </bookinfo>
 
   <chapter>
@@ -567,28 +567,28 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/26.000.00.00.01.sch">26.000.00.00.01.sch</ulink></entry>
+                  url="../ecad/gschem/26.000.00.00.01.sch">26.000.00.00.01.sch</ulink></entry>
 
                   <entry>Octave Filter | front page (cover sheet).</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/26.000.00.01.01.sch">26.000.00.01.01.sch</ulink></entry>
+                  url="../ecad/gschem/26.000.00.01.01.sch">26.000.00.01.01.sch</ulink></entry>
 
                   <entry>Octave Filter | block diagram.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/26.000.00.01.02.sch">26.000.00.01.02.sch</ulink></entry>
+                  url="../ecad/gschem/26.000.00.01.02.sch">26.000.00.01.02.sch</ulink></entry>
 
                   <entry>Octave Filter | schematic.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/26.000.00.01.03.sch">26.000.00.01.03.sch</ulink></entry>
+                  url="../ecad/gschem/26.000.00.01.03.sch">26.000.00.01.03.sch</ulink></entry>
 
                   <entry>Octave Filter 31.5 Hz and 63 Hz module |
                   schematic.</entry>
@@ -596,7 +596,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/26.000.00.01.04.sch">26.000.00.01.04.sch</ulink></entry>
+                  url="../ecad/gschem/26.000.00.01.04.sch">26.000.00.01.04.sch</ulink></entry>
 
                   <entry>Octave Filter 125 Hz and 250 Hz module |
                   schematic.</entry>
@@ -604,7 +604,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/26.000.00.01.05.sch">26.000.00.01.05.sch</ulink></entry>
+                  url="../ecad/gschem/26.000.00.01.05.sch">26.000.00.01.05.sch</ulink></entry>
 
                   <entry>Octave Filter 500 Hz and 1 kHz module |
                   schematic.</entry>
@@ -612,7 +612,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/26.000.00.01.06.sch">26.000.00.01.06.sch</ulink></entry>
+                  url="../ecad/gschem/26.000.00.01.06.sch">26.000.00.01.06.sch</ulink></entry>
 
                   <entry>Octave Filter 2 kHz and 4 kHz module |
                   schematic.</entry>
@@ -620,7 +620,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/26.000.00.01.07.sch">26.000.00.01.07.sch</ulink></entry>
+                  url="../ecad/gschem/26.000.00.01.07.sch">26.000.00.01.07.sch</ulink></entry>
 
                   <entry>Octave Filter 8 kHz and 16 kHz module |
                   schematic.</entry>
@@ -646,28 +646,28 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/DRC/26.000.00.00.01.sch.txt">26.000.00.00.01.sch.txt</ulink></entry>
+                  url="../ecad/gschem/DRC/26.000.00.00.01.sch.txt">26.000.00.00.01.sch.txt</ulink></entry>
 
                   <entry>Octave Filter | front page (cover sheet).</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/DRC/26.000.00.01.01.sch.txt">26.000.00.01.01.sch.txt</ulink></entry>
+                  url="../ecad/gschem/DRC/26.000.00.01.01.sch.txt">26.000.00.01.01.sch.txt</ulink></entry>
 
                   <entry>Octave Filter | block diagram.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/DRC/26.000.00.01.02.sch.txt">26.000.00.01.02.sch.txt</ulink></entry>
+                  url="../ecad/gschem/DRC/26.000.00.01.02.sch.txt">26.000.00.01.02.sch.txt</ulink></entry>
 
                   <entry>Octave Filter | schematic.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/DRC/26.000.00.01.03.sch.txt">26.000.00.01.03.sch.txt</ulink></entry>
+                  url="../ecad/gschem/DRC/26.000.00.01.03.sch.txt">26.000.00.01.03.sch.txt</ulink></entry>
 
                   <entry>Octave Filter 31.5 Hz and 63 Hz module |
                   schematic.</entry>
@@ -675,7 +675,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/DRC/26.000.00.01.04.sch.txt">26.000.00.01.04.sch.txt</ulink></entry>
+                  url="../ecad/gschem/DRC/26.000.00.01.04.sch.txt">26.000.00.01.04.sch.txt</ulink></entry>
 
                   <entry>Octave Filter 125 Hz and 250 Hz module |
                   schematic.</entry>
@@ -683,7 +683,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/DRC/26.000.00.01.05.sch.txt">26.000.00.01.05.sch.txt</ulink></entry>
+                  url="../ecad/gschem/DRC/26.000.00.01.05.sch.txt">26.000.00.01.05.sch.txt</ulink></entry>
 
                   <entry>Octave Filter 500 Hz and 1 kHz module |
                   schematic.</entry>
@@ -691,7 +691,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/DRC/26.000.00.01.06.sch.txt">26.000.00.01.06.sch.txt</ulink></entry>
+                  url="../ecad/gschem/DRC/26.000.00.01.06.sch.txt">26.000.00.01.06.sch.txt</ulink></entry>
 
                   <entry>Octave Filter 2 kHz and 4 kHz module |
                   schematic.</entry>
@@ -699,7 +699,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/DRC/26.000.00.01.07.sch.txt">26.000.00.01.07.sch.txt</ulink></entry>
+                  url="../ecad/gschem/DRC/26.000.00.01.07.sch.txt">26.000.00.01.07.sch.txt</ulink></entry>
 
                   <entry>Octave Filter 8 kHz and 16 kHz module |
                   schematic.</entry>
@@ -726,7 +726,7 @@
 
               <row>
                 <entry><ulink
-                url="../electrical/calculations/LED Series Resistor Calculation.pdf">LED
+                url="../ecad/calculations/LED Series Resistor Calculation.pdf">LED
                 Series Resistor Calculation.pdf</ulink></entry>
 
                 <entry>.</entry>
@@ -734,14 +734,14 @@
 
               <row>
                 <entry><ulink
-                url="../electrical/gschem/26.006.00.01.52.sch">.</ulink></entry>
+                url="../ecad/gschem/26.006.00.01.52.sch">.</ulink></entry>
 
                 <entry>.</entry>
               </row>
 
               <row>
                 <entry><ulink
-                url="../electrical/gschem/26.006.00.01.53.sch">.</ulink></entry>
+                url="../ecad/gschem/26.006.00.01.53.sch">.</ulink></entry>
 
                 <entry>.</entry>
               </row>
@@ -775,7 +775,7 @@
 
                     <row>
                       <entry><ulink
-                      url="../electrical/gschem/26.006.00.01.51.sch">26.006.00.01.51.sch</ulink></entry>
+                      url="../ecad/gschem/26.006.00.01.51.sch">26.006.00.01.51.sch</ulink></entry>
 
                       <entry>Octave Filter 31.5 Hz module (for simulation) |
                       schematic.</entry>
@@ -783,7 +783,7 @@
 
                     <row>
                       <entry><ulink
-                      url="../electrical/gschem/26.006.00.01.52.sch">26.006.00.01.52.sch</ulink></entry>
+                      url="../ecad/gschem/26.006.00.01.52.sch">26.006.00.01.52.sch</ulink></entry>
 
                       <entry>Octave Filter 63 Hz module (for simulation) |
                       schematic.</entry>
@@ -791,7 +791,7 @@
 
                     <row>
                       <entry><ulink
-                      url="../electrical/gschem/26.006.00.01.53.sch">26.006.00.01.53.sch</ulink></entry>
+                      url="../ecad/gschem/26.006.00.01.53.sch">26.006.00.01.53.sch</ulink></entry>
 
                       <entry>Octave Filter 63 Hz module BPF (for simulation) |
                       schematic.</entry>
@@ -817,7 +817,7 @@
 
                     <row>
                       <entry><ulink
-                      url="../electrical/gschem/DRC/26.006.00.01.51.sch.txt">26.006.00.01.51.sch.txt</ulink></entry>
+                      url="../ecad/gschem/DRC/26.006.00.01.51.sch.txt">26.006.00.01.51.sch.txt</ulink></entry>
 
                       <entry>Octave Filter 31.5 Hz module (for simulation) |
                       schematic.</entry>
@@ -825,7 +825,7 @@
 
                     <row>
                       <entry><ulink
-                      url="../electrical/gschem/DRC/26.006.00.01.52.sch.txt">26.006.00.01.52.sch.txt</ulink></entry>
+                      url="../ecad/gschem/DRC/26.006.00.01.52.sch.txt">26.006.00.01.52.sch.txt</ulink></entry>
 
                       <entry>Octave Filter 63 Hz module (for simulation) |
                       schematic.</entry>
@@ -833,7 +833,7 @@
 
                     <row>
                       <entry><ulink
-                      url="../electrical/gschem/DRC/26.006.00.01.53.sch.txt">26.006.00.01.53.sch.txt</ulink></entry>
+                      url="../ecad/gschem/DRC/26.006.00.01.53.sch.txt">26.006.00.01.53.sch.txt</ulink></entry>
 
                       <entry>Octave Filter 63 Hz module BPF (for simulation) |
                       schematic.</entry>
@@ -860,14 +860,14 @@
 
                   <row>
                     <entry><ulink
-                    url="../electrical/gnucap/26.006.00.01.51.ckt">26.006.00.01.51.ckt</ulink></entry>
+                    url="../ecad/gnucap/26.006.00.01.51.ckt">26.006.00.01.51.ckt</ulink></entry>
 
                     <entry>31.5 Hz module circuit.</entry>
                   </row>
 
                   <row>
                     <entry><ulink
-                    url="../electrical/gnucap/26.006.00.01.51.gnuplot">26.006.00.01.51.gnuplot</ulink></entry>
+                    url="../ecad/gnucap/26.006.00.01.51.gnuplot">26.006.00.01.51.gnuplot</ulink></entry>
 
                     <entry>31.5 Hz module circuit.</entry>
                   </row>
@@ -892,14 +892,14 @@
 
                   <row>
                     <entry><ulink
-                    url="../electrical/gnucap/26.006.00.01.51.ckt">26.006.00.01.51.?</ulink></entry>
+                    url="../ecad/gnucap/26.006.00.01.51.ckt">26.006.00.01.51.?</ulink></entry>
 
                     <entry>31.5 Hz module circuit.</entry>
                   </row>
 
                   <row>
                     <entry><ulink
-                    url="../electrical/gnucap/26.006.00.01.51.gnuplot">26.006.00.01.51.??</ulink></entry>
+                    url="../ecad/gnucap/26.006.00.01.51.gnuplot">26.006.00.01.51.??</ulink></entry>
 
                     <entry>31.5 Hz module circuit.</entry>
                   </row>
@@ -925,7 +925,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/ktechlab/26.006.00.01.61.circuit">26.006.00.01.61.circuit</ulink></entry>
+                  url="../ecad/ktechlab/26.006.00.01.61.circuit">26.006.00.01.61.circuit</ulink></entry>
 
                   <entry>31.5 Hz module.</entry>
                 </row>
@@ -951,7 +951,7 @@
 
               <row>
                 <entry><ulink
-                url="../electrical/fritzing/26.006.00.01.50.fz">26.006.00.01.50.fz</ulink></entry>
+                url="../ecad/fritzing/26.006.00.01.50.fz">26.006.00.01.50.fz</ulink></entry>
 
                 <entry>31.5 Hz module.</entry>
               </row>
@@ -983,21 +983,21 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/26.002.00.01.01.sch">26.002.00.01.01.sch</ulink></entry>
+                  url="../ecad/gschem/26.002.00.01.01.sch">26.002.00.01.01.sch</ulink></entry>
 
                   <entry>Octave Filter front pcb (DFM) | schematic.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/26.003.00.01.01.sch">26.003.00.01.01.sch</ulink></entry>
+                  url="../ecad/gschem/26.003.00.01.01.sch">26.003.00.01.01.sch</ulink></entry>
 
                   <entry>Octave Filter main pcb (DFM) | schematic.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/26.006.00.01.01.sch">26.006.00.01.01.sch</ulink></entry>
+                  url="../ecad/gschem/26.006.00.01.01.sch">26.006.00.01.01.sch</ulink></entry>
 
                   <entry>Octave Filter 31.5 Hz and 63 Hz module (DFM - PTH) |
                   schematic.</entry>
@@ -1005,7 +1005,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/26.006.00.01.51.sch">26.006.00.01.51.sch</ulink></entry>
+                  url="../ecad/gschem/26.006.00.01.51.sch">26.006.00.01.51.sch</ulink></entry>
 
                   <entry>Octave Filter 31.5 Hz module (for simulation) |
                   schematic.</entry>
@@ -1013,7 +1013,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/26.006.00.01.52.sch">26.006.00.01.52.sch</ulink></entry>
+                  url="../ecad/gschem/26.006.00.01.52.sch">26.006.00.01.52.sch</ulink></entry>
 
                   <entry>Octave Filter 63 Hz module (for simulation) |
                   schematic.</entry>
@@ -1021,7 +1021,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/26.006.00.01.53.sch">26.006.00.01.53.sch</ulink></entry>
+                  url="../ecad/gschem/26.006.00.01.53.sch">26.006.00.01.53.sch</ulink></entry>
 
                   <entry>Octave Filter 63 Hz module BPF (for simulation) |
                   schematic.</entry>
@@ -1029,7 +1029,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/26.006.01.01.01.sch">26.006.01.01.01.sch</ulink></entry>
+                  url="../ecad/gschem/26.006.01.01.01.sch">26.006.01.01.01.sch</ulink></entry>
 
                   <entry>Octave Filter 31.5 Hz and 63 Hz module (DFM -
                   PTH+SMT) | schematic.</entry>
@@ -1037,7 +1037,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/26.007.01.01.01.sch">26.007.01.01.01.sch</ulink></entry>
+                  url="../ecad/gschem/26.007.01.01.01.sch">26.007.01.01.01.sch</ulink></entry>
 
                   <entry>Octave Filter 125 Hz and 250 Hz module (DFM -
                   PTH+SMT) | schematic.</entry>
@@ -1045,7 +1045,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/26.008.01.01.01.sch">26.008.01.01.01.sch</ulink></entry>
+                  url="../ecad/gschem/26.008.01.01.01.sch">26.008.01.01.01.sch</ulink></entry>
 
                   <entry>Octave Filter 500 Hz and 1 kHz module (DFM - PTH+SMT)
                   | schematic.</entry>
@@ -1071,21 +1071,21 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/DRC/26.002.00.01.01.sch.txt">26.002.00.01.01.sch.txt</ulink></entry>
+                  url="../ecad/gschem/DRC/26.002.00.01.01.sch.txt">26.002.00.01.01.sch.txt</ulink></entry>
 
                   <entry>Octave Filter front pcb (DFM) | schematic.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/DRC/26.003.00.01.01.sch.txt">26.003.00.01.01.sch.txt</ulink></entry>
+                  url="../ecad/gschem/DRC/26.003.00.01.01.sch.txt">26.003.00.01.01.sch.txt</ulink></entry>
 
                   <entry>Octave Filter main pcb (DFM) | schematic.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/DRC/26.006.00.01.01.sch.txt">26.006.00.01.01.sch.txt</ulink></entry>
+                  url="../ecad/gschem/DRC/26.006.00.01.01.sch.txt">26.006.00.01.01.sch.txt</ulink></entry>
 
                   <entry>Octave Filter 31.5 Hz and 63 Hz module (DFM - PTH) |
                   schematic.</entry>
@@ -1093,7 +1093,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/DRC/26.006.00.01.51.sch.txt">26.006.00.01.51.sch.txt</ulink></entry>
+                  url="../ecad/gschem/DRC/26.006.00.01.51.sch.txt">26.006.00.01.51.sch.txt</ulink></entry>
 
                   <entry>Octave Filter 31.5 Hz module (for simulation) |
                   schematic.</entry>
@@ -1101,7 +1101,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/DRC/26.006.00.01.52.sch.txt">26.006.00.01.52.sch.txt</ulink></entry>
+                  url="../ecad/gschem/DRC/26.006.00.01.52.sch.txt">26.006.00.01.52.sch.txt</ulink></entry>
 
                   <entry>Octave Filter 63 Hz module (for simulation) |
                   schematic.</entry>
@@ -1109,7 +1109,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/DRC/26.006.00.01.53.sch.txt">26.006.00.01.53.sch.txt</ulink></entry>
+                  url="../ecad/gschem/DRC/26.006.00.01.53.sch.txt">26.006.00.01.53.sch.txt</ulink></entry>
 
                   <entry>Octave Filter 63 Hz module BPF (for simulation) |
                   schematic.</entry>
@@ -1117,7 +1117,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/DRC/26.006.01.01.01.sch.txt">26.006.01.01.01.sch.txt</ulink></entry>
+                  url="../ecad/gschem/DRC/26.006.01.01.01.sch.txt">26.006.01.01.01.sch.txt</ulink></entry>
 
                   <entry>Octave Filter 31.5 Hz and 63 Hz module (DFM -
                   PTH+SMT) | schematic.</entry>
@@ -1125,7 +1125,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/DRC/26.007.01.01.01.sch.txt">26.007.01.01.01.sch.txt</ulink></entry>
+                  url="../ecad/gschem/DRC/26.007.01.01.01.sch.txt">26.007.01.01.01.sch.txt</ulink></entry>
 
                   <entry>Octave Filter 125 Hz and 250 Hz module (DFM -
                   PTH+SMT) | schematic.</entry>
@@ -1133,7 +1133,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/gschem/DRC/26.008.01.01.01.sch.txt">26.008.01.01.01.sch.txt</ulink></entry>
+                  url="../ecad/gschem/DRC/26.008.01.01.01.sch.txt">26.008.01.01.01.sch.txt</ulink></entry>
 
                   <entry>Octave Filter 500 Hz and 1 kHz module (DFM - PTH+SMT)
                   | schematic.</entry>
@@ -1263,49 +1263,49 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/26.002.00.01.01.pcb">26.001.00.01.01.pcb</ulink></entry>
+                  url="../ecad/pcb/26.002.00.01.01.pcb">26.001.00.01.01.pcb</ulink></entry>
 
                   <entry>Front panel layout.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/26.002.00.01.01.pcb">26.002.00.01.01.pcb</ulink></entry>
+                  url="../ecad/pcb/26.002.00.01.01.pcb">26.002.00.01.01.pcb</ulink></entry>
 
                   <entry>Front pcb layout.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/26.003.00.01.01.pcb">26.003.00.01.01.pcb</ulink></entry>
+                  url="../ecad/pcb/26.003.00.01.01.pcb">26.003.00.01.01.pcb</ulink></entry>
 
                   <entry>Main pcb layout.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/26.004.00.01.01.pcb">26.004.00.01.01.pcb</ulink></entry>
+                  url="../ecad/pcb/26.004.00.01.01.pcb">26.004.00.01.01.pcb</ulink></entry>
 
                   <entry>Shielding pcb layout.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/26.005.00.01.01.pcb">26.005.00.01.01.pcb</ulink></entry>
+                  url="../ecad/pcb/26.005.00.01.01.pcb">26.005.00.01.01.pcb</ulink></entry>
 
                   <entry>Strut pcb layout.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/26.006.00.01.01.pcb">26.006.00.01.01.pcb</ulink></entry>
+                  url="../ecad/pcb/26.006.00.01.01.pcb">26.006.00.01.01.pcb</ulink></entry>
 
                   <entry>31.5 Hz + 63 Hz Filter module pcb layout PTH.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/26.006.01.01.01.pcb">26.006.01.01.01.pcb</ulink></entry>
+                  url="../ecad/pcb/26.006.01.01.01.pcb">26.006.01.01.01.pcb</ulink></entry>
 
                   <entry>31.5 Hz + 63 Hz Filter module pcb layout PTH
                   (reworked for revision 1).</entry>
@@ -1313,35 +1313,35 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/26.006.02.01.01.pcb">26.006.02.01.01.pcb</ulink></entry>
+                  url="../ecad/pcb/26.006.02.01.01.pcb">26.006.02.01.01.pcb</ulink></entry>
 
                   <entry>31.5 Hz + 63 Hz Filter module pcb layout SMT.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/26.007.01.01.01.pcb">26.007.01.01.01.pcb</ulink></entry>
+                  url="../ecad/pcb/26.007.01.01.01.pcb">26.007.01.01.01.pcb</ulink></entry>
 
                   <entry>125 Hz + 250 Hz Filter module pcb layout SMT.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/26.008.01.01.01.pcb">26.008.01.01.01.pcb</ulink></entry>
+                  url="../ecad/pcb/26.008.01.01.01.pcb">26.008.01.01.01.pcb</ulink></entry>
 
                   <entry>500 Hz + 1 kHz Filter module pcb layout SMT.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/26.009.01.01.01.pcb">26.009.01.01.01.pcb</ulink></entry>
+                  url="../ecad/pcb/26.009.01.01.01.pcb">26.009.01.01.01.pcb</ulink></entry>
 
                   <entry>2 kHz + 4 kHz Filter module pcb layout SMT.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/26.010.01.01.01.pcb">26.010.01.01.01.pcb</ulink></entry>
+                  url="../ecad/pcb/26.010.01.01.01.pcb">26.010.01.01.01.pcb</ulink></entry>
 
                   <entry>8 kHz + 16 kHz Filter module pcb layout SMT.</entry>
                 </row>
@@ -1366,7 +1366,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/eyecandy/26.001.00.01.01.pcb.top.png">26.001.00.01.01.pcb.top.png</ulink></entry>
+                  url="../ecad/pcb/eyecandy/26.001.00.01.01.pcb.top.png">26.001.00.01.01.pcb.top.png</ulink></entry>
 
                   <entry>Front panel layout 600 DPI rendered (top
                   view).</entry>
@@ -1374,7 +1374,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/eyecandy/26.001.00.01.01.pcb.bottom.png">26.001.00.01.01.pcb.bottom.png</ulink></entry>
+                  url="../ecad/pcb/eyecandy/26.001.00.01.01.pcb.bottom.png">26.001.00.01.01.pcb.bottom.png</ulink></entry>
 
                   <entry>Front panel layout 600 DPI rendered (bottom
                   view).</entry>
@@ -1382,14 +1382,14 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/eyecandy/26.002.00.01.01.pcb.top.png">26.002.00.01.01.pcb.top.png</ulink></entry>
+                  url="../ecad/pcb/eyecandy/26.002.00.01.01.pcb.top.png">26.002.00.01.01.pcb.top.png</ulink></entry>
 
                   <entry>Front pcb layout 600 DPI rendered (top view).</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/eyecandy/26.002.00.01.01.pcb.bottom.png">26.002.00.01.01.pcb.bottom.png</ulink></entry>
+                  url="../ecad/pcb/eyecandy/26.002.00.01.01.pcb.bottom.png">26.002.00.01.01.pcb.bottom.png</ulink></entry>
 
                   <entry>Front pcb layout 600 DPI rendered (bottom
                   view).</entry>
@@ -1397,14 +1397,14 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/eyecandy/26.003.00.01.01.pcb.top.png">26.003.00.01.01.pcb.top.png</ulink></entry>
+                  url="../ecad/pcb/eyecandy/26.003.00.01.01.pcb.top.png">26.003.00.01.01.pcb.top.png</ulink></entry>
 
                   <entry>Main pcb layout 600 DPI rendered (top view).</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/eyecandy/26.003.00.01.01.pcb.bottom.png">26.003.00.01.01.pcb.bottom.png</ulink></entry>
+                  url="../ecad/pcb/eyecandy/26.003.00.01.01.pcb.bottom.png">26.003.00.01.01.pcb.bottom.png</ulink></entry>
 
                   <entry>Main pcb layout 600 DPI rendered (bottom
                   view).</entry>
@@ -1412,7 +1412,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/eyecandy/26.006.00.01.01.pcb.top.png">26.006.00.01.01.top.png</ulink></entry>
+                  url="../ecad/pcb/eyecandy/26.006.00.01.01.pcb.top.png">26.006.00.01.01.top.png</ulink></entry>
 
                   <entry>31.5 Hz and 63 Hz module pcb layout 600 DPI rendered
                   (top view).</entry>
@@ -1420,7 +1420,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/eyecandy/26.006.00.01.01.pcb.bottom.png">26.006.00.01.01.bottom.png</ulink></entry>
+                  url="../ecad/pcb/eyecandy/26.006.00.01.01.pcb.bottom.png">26.006.00.01.01.bottom.png</ulink></entry>
 
                   <entry>31.5 Hz and 63 Hz module pcb layout 600 DPI rendered
                   (bottom view).</entry>
@@ -1428,7 +1428,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/eyecandy/26.006.01.01.01.pcb.top.png">26.006.01.01.01.top.png</ulink></entry>
+                  url="../ecad/pcb/eyecandy/26.006.01.01.01.pcb.top.png">26.006.01.01.01.top.png</ulink></entry>
 
                   <entry>31.5 Hz and 63 Hz module pcb layout 600 DPI rendered
                   (top view).</entry>
@@ -1436,7 +1436,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/eyecandy/26.006.01.01.01.pcb.bottom.png">26.006.01.01.01.bottom.png</ulink></entry>
+                  url="../ecad/pcb/eyecandy/26.006.01.01.01.pcb.bottom.png">26.006.01.01.01.bottom.png</ulink></entry>
 
                   <entry>31.5 Hz and 63 Hz module pcb layout 600 DPI rendered
                   (bottom view).</entry>
@@ -1444,7 +1444,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/eyecandy/26.007.01.01.01.pcb.top.png">26.007.01.01.01.top.png</ulink></entry>
+                  url="../ecad/pcb/eyecandy/26.007.01.01.01.pcb.top.png">26.007.01.01.01.top.png</ulink></entry>
 
                   <entry>125 Hz and 250 Hz module pcb layout 600 DPI rendered
                   (top view).</entry>
@@ -1452,7 +1452,7 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/eyecandy/26.007.01.01.01.pcb.bottom.png">26.007.01.01.01.bottom.png</ulink></entry>
+                  url="../ecad/pcb/eyecandy/26.007.01.01.01.pcb.bottom.png">26.007.01.01.01.bottom.png</ulink></entry>
 
                   <entry>125 Hz and 250 Hz module pcb layout 600 DPI rendered
                   (bottom view).</entry>
@@ -1484,56 +1484,56 @@
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/fab/26.001.00.01.01.gvp">26.001.00.01.01.gvp</ulink></entry>
+                  url="../ecad/pcb/fab/26.001.00.01.01.gvp">26.001.00.01.01.gvp</ulink></entry>
 
                   <entry>Front panel layout.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/fab/26.002.00.01.01.gvp">26.002.00.01.01.gvp</ulink></entry>
+                  url="../ecad/pcb/fab/26.002.00.01.01.gvp">26.002.00.01.01.gvp</ulink></entry>
 
                   <entry>Front pcb layout.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/fab/26.003.00.01.01.gvp">26.003.00.01.01.gvp</ulink></entry>
+                  url="../ecad/pcb/fab/26.003.00.01.01.gvp">26.003.00.01.01.gvp</ulink></entry>
 
                   <entry>Main pcb layout.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/fab/26.004.00.01.01.gvp">26.004.00.01.01.gvp</ulink></entry>
+                  url="../ecad/pcb/fab/26.004.00.01.01.gvp">26.004.00.01.01.gvp</ulink></entry>
 
                   <entry>Shielding pcb layout.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/fab/26.005.00.01.01.gvp">26.005.00.01.01.gvp</ulink></entry>
+                  url="../ecad/pcb/fab/26.005.00.01.01.gvp">26.005.00.01.01.gvp</ulink></entry>
 
                   <entry>Strut pcb layout.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/fab/26.006.00.01.01.gvp">26.006.00.01.01.gvp</ulink></entry>
+                  url="../ecad/pcb/fab/26.006.00.01.01.gvp">26.006.00.01.01.gvp</ulink></entry>
 
                   <entry>31.5 Hz and 63 Hz module pcb layout.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/fab/26.006.01.01.01.gvp">26.006.01.01.01.gvp</ulink></entry>
+                  url="../ecad/pcb/fab/26.006.01.01.01.gvp">26.006.01.01.01.gvp</ulink></entry>
 
                   <entry>31.5 Hz and 63 Hz module pcb layout.</entry>
                 </row>
 
                 <row>
                   <entry><ulink
-                  url="../electrical/pcb/fab/26.007.01.01.01.gvp">26.007.01.01.01.gvp</ulink></entry>
+                  url="../ecad/pcb/fab/26.007.01.01.01.gvp">26.007.01.01.01.gvp</ulink></entry>
 
                   <entry>125 Hz and 250 Hz module pcb layout.</entry>
                 </row>
@@ -2089,7 +2089,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="pics/op-amp_circuit_symbol.gif"/>
+            <imagedata fileref="../docs/pics/op-amp_circuit_symbol.gif"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -2297,7 +2297,8 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="pics/op-amp_basic_inv.gif" width="250"/>
+              <imagedata fileref="../docs/pics/op-amp_basic_inv.gif"
+                         width="250"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -2331,7 +2332,8 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="pics/op-amp_basic_non_inv.gif" width="250"/>
+              <imagedata fileref="../docs/pics/op-amp_basic_non_inv.gif"
+                         width="250"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -2410,7 +2412,8 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="pics/op-amp_basic_inv.gif" width="250"/>
+              <imagedata fileref="../docs/pics/op-amp_basic_inv.gif"
+                         width="250"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -2493,7 +2496,8 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="pics/op-amp_basic_non_inv.gif" width="250"/>
+              <imagedata fileref="../docs/pics/op-amp_basic_non_inv.gif"
+                         width="250"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -2569,7 +2573,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="pics/op-amp_non_inv_with_capinput.gif"
+              <imagedata fileref="../docs/pics/op-amp_non_inv_with_capinput.gif"
                          width="250"/>
             </imageobject>
           </mediaobject>
@@ -2625,7 +2629,8 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="pics/op-amp_with_lf_rolloff.gif" width="250"/>
+            <imagedata fileref="../docs/pics/op-amp_with_lf_rolloff.gif"
+                       width="250"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -2647,7 +2652,8 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="pics/op-amp_highpassfilter.gif" width="250"/>
+              <imagedata fileref="../docs/pics/op-amp_highpassfilter.gif"
+                         width="250"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -2665,7 +2671,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="pics/op-amp_highpassfilter_equations.gif"
+              <imagedata fileref="../docs/pics/op-amp_highpassfilter_equations.gif"
                          width="250"/>
             </imageobject>
           </mediaobject>
@@ -2719,7 +2725,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="pics/op-amp_non_inv_withrolloff.gif"
+            <imagedata fileref="../docs/pics/op-amp_non_inv_withrolloff.gif"
                        width="250"/>
           </imageobject>
         </mediaobject>
@@ -2753,7 +2759,8 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="pics/op-amp_lowpassfilter.gif" width="250"/>
+              <imagedata fileref="../docs/pics/op-amp_lowpassfilter.gif"
+                         width="250"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -2769,7 +2776,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="pics/op-amp_lowpassfilter_equations.gif"
+              <imagedata fileref="../docs/pics/op-amp_lowpassfilter_equations.gif"
                          width="250"/>
             </imageobject>
           </mediaobject>
@@ -2800,7 +2807,8 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="pics/op-amp_bandpassfilter.gif" width="250"/>
+              <imagedata fileref="../docs/pics/op-amp_bandpassfilter.gif"
+                         width="250"/>
             </imageobject>
           </mediaobject>
         </figure>As only one operational amplifier is used in the filter
@@ -2822,7 +2830,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="pics/op-amp_bandpassfilter_equations.gif"
+              <imagedata fileref="../docs/pics/op-amp_bandpassfilter_equations.gif"
                          width="300"/>
             </imageobject>
           </mediaobject>
@@ -2859,7 +2867,8 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="pics/op-amp_variablegain.gif" width="250"/>
+            <imagedata fileref="../docs/pics/op-amp_variablegain.gif"
+                       width="250"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -2908,7 +2917,8 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="pics/op-amp_notch_filter.gif" width="250"/>
+              <imagedata fileref="../docs/pics/op-amp_notch_filter.gif"
+                         width="250"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -2989,7 +2999,8 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="pics/op-amp_twin_t_varq.gif" width="350"/>
+              <imagedata fileref="../docs/pics/op-amp_twin_t_varq.gif"
+                         width="350"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -3064,7 +3075,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="pics/op-amp_multivibrator_osc.gif"
+              <imagedata fileref="../docs/pics/op-amp_multivibrator_osc.gif"
                          width="250"/>
             </imageobject>
           </mediaobject>
@@ -3110,7 +3121,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="pics/op-amp_bistable_multivibrator.gif"
+            <imagedata fileref="../docs/pics/op-amp_bistable_multivibrator.gif"
                        width="250"/>
           </imageobject>
         </mediaobject>
@@ -3134,7 +3145,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="pics/op-amp_bistable_waveforms.gif"
+            <imagedata fileref="../docs/pics/op-amp_bistable_waveforms.gif"
                        width="250"/>
           </imageobject>
         </mediaobject>
@@ -3210,7 +3221,8 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="pics/op-amp_comparator.gif" width="250"/>
+            <imagedata fileref="../docs/pics/op-amp_comparator.gif"
+                       width="250"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -3270,7 +3282,8 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="pics/op-amp_schmitt_trigger.gif" width="250"/>
+            <imagedata fileref="../docs/pics/op-amp_schmitt_trigger.gif"
+                       width="250"/>
           </imageobject>
         </mediaobject>
       </figure>
