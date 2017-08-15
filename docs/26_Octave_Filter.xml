@@ -1706,13 +1706,2040 @@
       <section>
         <title>Quotations.</title>
 
-        <para>.</para>
+        <section>
+          <title>OSH Park.</title>
+
+          <para><emphasis role="bold">Fabrication Services.</emphasis></para>
+
+          <para>OSH Park is a community printed circuit board (PCB) order that
+          brings you high quality, lead-free boards which are manufactured in
+          the United States and shipped for free to anywhere in the
+          world.</para>
+
+          <para>We offer purple soldermask over bare copper (SMOBC) and an
+          ENIG (Electroless Nickel Immersion Gold) finish.</para>
+
+          <para>Full stackups and design rules are linked under Services
+          below.</para>
+
+          <para>Please email us at support@oshpark.com with questions!</para>
+
+          <para><emphasis role="bold">Two Layer Boards.</emphasis></para>
+
+          <para>All two-layer boards ship with FR4 substrate, purple mask over
+          bare copper, and ENIG (immersion gold) finish.</para>
+
+          <para>Minimum design rules are 6 mil trace clearance, 6 mil trace
+          width, 10 mil drill size, and 5 mil annular ring.</para>
+
+          <table>
+            <title>Two Layer Boards (table).</title>
+
+            <tgroup cols="5">
+              <tbody>
+                <row>
+                  <entry>Service</entry>
+
+                  <entry>Cost</entry>
+
+                  <entry>Time to Ship</entry>
+
+                  <entry>Board Thickness</entry>
+
+                  <entry>Copper Weight</entry>
+                </row>
+
+                <row>
+                  <entry>Prototype</entry>
+
+                  <entry>$5 per square inch for a set of three boards</entry>
+
+                  <entry>12 Calendar Days</entry>
+
+                  <entry>63mil (1.6mm)</entry>
+
+                  <entry>1 oz</entry>
+                </row>
+
+                <row>
+                  <entry>Super Swift</entry>
+
+                  <entry>$10 per square inch for a set of three boards</entry>
+
+                  <entry>5 Business Days</entry>
+
+                  <entry>63mil (1.6mm)</entry>
+
+                  <entry>1 oz</entry>
+                </row>
+
+                <row>
+                  <entry>2oz 0.8mm</entry>
+
+                  <entry>$5 per square inch for a set of three boards</entry>
+
+                  <entry>2-3 weeks</entry>
+
+                  <entry>32mil (0.8mm)</entry>
+
+                  <entry>2 oz</entry>
+                </row>
+
+                <row>
+                  <entry>medium run</entry>
+
+                  <entry>$1 per square inch. 100 sq inch minimum.</entry>
+
+                  <entry>15 Calendar Days</entry>
+
+                  <entry>63mil (1.6mm)</entry>
+
+                  <entry>1 oz</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+
+          <para>One-sided boards can be ordered on any of our 2 Layer
+          services.</para>
+
+          <para><emphasis role="bold">Four Layer Boards.</emphasis></para>
+
+          <para>All 4 layer boards ship with FR408 substrate, purple mask over
+          bare copper, and ENIG (immersion gold) finish.</para>
+
+          <para>Minimum design rules are 5 mil trace clearance, 5 mil trace
+          width, 10 mil drill size, and 4 mil annular ring.</para>
+
+          <para>We do not support blind or buried vias.<table>
+              <title>Four Layer Boards (table).</title>
+
+              <tgroup cols="5">
+                <tbody>
+                  <row>
+                    <entry>Service</entry>
+
+                    <entry>Cost</entry>
+
+                    <entry>Time to Ship</entry>
+
+                    <entry>Board Thickness</entry>
+
+                    <entry>Copper Weight</entry>
+                  </row>
+
+                  <row>
+                    <entry>Prototype</entry>
+
+                    <entry>$10 per square inch for a set of three
+                    boards</entry>
+
+                    <entry>9-21 Calendar Days</entry>
+
+                    <entry>63mil (1.6mm)</entry>
+
+                    <entry>1 oz outer, 1/2oz inner</entry>
+                  </row>
+
+                  <row>
+                    <entry>medium run</entry>
+
+                    <entry>$2 per square inch. 150 sq inch minimum.</entry>
+
+                    <entry>2-4 Weeks</entry>
+
+                    <entry>63mil (1.6mm)</entry>
+
+                    <entry>1 oz outer, 1/2oz inner</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table></para>
+
+          <section>
+            <title>2 Layer Prototype Service.</title>
+
+            <para>Our famous 2 layer purple prototype production.</para>
+
+            <para><emphasis role="bold">Pricing.</emphasis></para>
+
+            <para>$5 per square inch, which includes three copies of your
+            design.</para>
+
+            <para>For example, a 2 square inch board would cost $10 and you’d
+            get three copies of your board.</para>
+
+            <para>You can order as many copies as you want, as long as they’re
+            in multiples of three.</para>
+
+            <para><emphasis role="bold">Turn Times.</emphasis></para>
+
+            <para>Orders are sent to fabrication daily, and will ship within
+            12 days.</para>
+
+            <para>95% of our 2 layer orders ship in 8 days.</para>
+
+            <para>You can get a quote, approve a design, and pay for an order
+            at OSH Park.</para>
+
+            <para>For a faster turn time, you may be interested in our Super
+            Swift Service.</para>
+
+            <para>For thinner, lighter, or high current boards, you may be
+            interested in our 2oz-0.8mm Service.</para>
+
+            <para>Need more than 100 square inches of boards?</para>
+
+            <para>Our 2 Layer Medium Run Service is a less expensive option
+            for larger orders.</para>
+
+            <para><emphasis role="bold">Fabrication Specs.</emphasis></para>
+
+            <para>Quick Specs:</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>2 Layer PCB</para>
+              </listitem>
+
+              <listitem>
+                <para>6 mil minimum trace width.</para>
+              </listitem>
+
+              <listitem>
+                <para>6 mil minimum trace spacing.</para>
+              </listitem>
+
+              <listitem>
+                <para>10 mil minimum drill.</para>
+              </listitem>
+
+              <listitem>
+                <para>5 mil annular ring.</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB thickness of 1.6mm (.063”).</para>
+              </listitem>
+
+              <listitem>
+                <para>1oz copper on both sides (1.4mil, 35um).</para>
+              </listitem>
+            </itemizedlist>
+
+            <para>Detailed Specs:</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>ENIG (gold) finish for superior soldering and
+                environmental resistance.</para>
+              </listitem>
+
+              <listitem>
+                <para>Solder resist and silkscreen on both sides.</para>
+              </listitem>
+
+              <listitem>
+                <para>Minimum 15 mil keepout distance from traces to the board
+                edge.</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB substrate is FR4 (170 Tg).</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB substrate is compatible with a lead-free
+                process.</para>
+              </listitem>
+
+              <listitem>
+                <para>The boards themselves are also lead free and RoHS
+                compliant.</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB Substrate dielectric constant of 4.6 at 1MHz.</para>
+              </listitem>
+
+              <listitem>
+                <para>Minimum 4 mil soldermask web.</para>
+              </listitem>
+
+              <listitem>
+                <para>Maximum soldermask expansion, retraction, or shift is
+                3mil.</para>
+              </listitem>
+
+              <listitem>
+                <para>Minimum 100 mil width on internal cutouts. See our Slots
+                page for further information.</para>
+              </listitem>
+
+              <listitem>
+                <para>Manufactured in the United States.</para>
+              </listitem>
+
+              <listitem>
+                <para>Castellations are allowed, but not officially
+                supported.</para>
+              </listitem>
+
+              <listitem>
+                <para>Non-plated slots wider than 100 mil are not officially
+                supported.</para>
+              </listitem>
+
+              <listitem>
+                <para>Plated slots and smaller slots are possible, but not
+                officially supported. See our Slots page for more.</para>
+              </listitem>
+            </itemizedlist>
+
+            <para><emphasis role="bold">2 Layer Stackup.</emphasis></para>
+
+            <table>
+              <title>2 Layer Stackup (table).</title>
+
+              <tgroup cols="3">
+                <tbody>
+                  <row>
+                    <entry>Thickness</entry>
+
+                    <entry>Layer</entry>
+
+                    <entry>Tolerance</entry>
+                  </row>
+
+                  <row>
+                    <entry>1mil</entry>
+
+                    <entry>solder resist</entry>
+
+                    <entry>+/-0.2mil</entry>
+                  </row>
+
+                  <row>
+                    <entry>1.4 mil</entry>
+
+                    <entry>1 oz copper</entry>
+
+                    <entry/>
+                  </row>
+
+                  <row>
+                    <entry>60 mil</entry>
+
+                    <entry>core</entry>
+
+                    <entry>+/-6mil</entry>
+                  </row>
+
+                  <row>
+                    <entry>1.4 mil</entry>
+
+                    <entry>1 oz copper</entry>
+
+                    <entry/>
+                  </row>
+
+                  <row>
+                    <entry>1mil</entry>
+
+                    <entry>solder resist</entry>
+
+                    <entry>+/-0.2mil</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+
+            <para><ulink
+            url="purchase/OSH_Park/IS-410-compatible-FR4-(S1141-170)-Datasheet.pdf">IS
+            410 Compatible FR4 (S1141 170) Datasheet.pdf</ulink></para>
+
+            <para><emphasis role="bold">2 layer Drill Specs.</emphasis></para>
+
+            <itemizedlist>
+              <listitem>
+                <para>Minimum 10 mil drills with 5 mil annular rings.</para>
+              </listitem>
+
+              <listitem>
+                <para>Maximum plated hole size is 265 mils.</para>
+
+                <para>Unplated holes do not have a maximum size.</para>
+              </listitem>
+            </itemizedlist>
+          </section>
+
+          <section>
+            <title>2 Layer Super Swift Service.</title>
+
+            <para>Need 2-layer boards in a hurry?</para>
+
+            <para>Our Super Swift Service has the same quality you know and
+            love, with an even faster turn time of 5 business days.</para>
+
+            <para><emphasis role="bold">Pricing.</emphasis></para>
+
+            <para>$10 per square inch, which includes three copies of your
+            design.</para>
+
+            <para>For example, a 2 square inch board would cost $20 and you’d
+            get three copies of your board.</para>
+
+            <para>This includes our Free Shipping option, although expedited
+            shipping options are available.</para>
+
+            <para><emphasis role="bold">Turn Times.</emphasis></para>
+
+            <para>Orders are sent to fabrication daily and are guaranteed to
+            ship within 5 business days. 90% of our super swift orders ship
+            within 4 business days.</para>
+
+            <para>You can get a quote, approve a design, and pay for an order
+            at OSH Park.</para>
+
+            <para>Super Swift Service is not available for Medium Run or Four
+            Layer orders.</para>
+
+            <para>As a special bonus, orders placed before 11AM on Monday will
+            ship by Friday of that week.</para>
+
+            <para>Note for international orders: In most cases, it will cost
+            less and arrive faster if you order on the standard 2 layer
+            service with expedited shipping.</para>
+
+            <para><emphasis role="bold">Fabrication Specs.</emphasis></para>
+
+            <para>Quick Specs:</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>2 Layer PCB.</para>
+              </listitem>
+
+              <listitem>
+                <para>6 mil minimum trace width.</para>
+              </listitem>
+
+              <listitem>
+                <para>6 mil minimum trace spacing.</para>
+              </listitem>
+
+              <listitem>
+                <para>10 mil minimum drill.</para>
+              </listitem>
+
+              <listitem>
+                <para>5 mil annular ring.</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB thickness of 1.6mm (.063”).</para>
+              </listitem>
+
+              <listitem>
+                <para>1oz copper on both sides (1.4mil, 35um).</para>
+              </listitem>
+            </itemizedlist>
+
+            <para>Detailed Specs:</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>ENIG (gold) finish for superior soldering and
+                environmental resistance.</para>
+              </listitem>
+
+              <listitem>
+                <para>Solder resist and silkscreen on both sides.</para>
+              </listitem>
+
+              <listitem>
+                <para>Minimum 15 mil keepout distance from traces to the board
+                edge.</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB substrate is FR4 (170 Tg).</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB substrate is compatible with a lead-free
+                process.</para>
+              </listitem>
+
+              <listitem>
+                <para>The boards themselves are also lead free and RoHS
+                compliant.</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB Substrate dielectric constant of 4.6 at 1MHz.</para>
+              </listitem>
+
+              <listitem>
+                <para>Minimum 4 mil soldermask web.</para>
+              </listitem>
+
+              <listitem>
+                <para>Maximum soldermask expansion, retraction, or shift is
+                3mil.</para>
+              </listitem>
+
+              <listitem>
+                <para>Minimum 100 mil width on internal cutouts. See our Slots
+                page for further information.</para>
+              </listitem>
+
+              <listitem>
+                <para>Manufactured in the United States.</para>
+              </listitem>
+
+              <listitem>
+                <para>Castellations are allowed, but not officially
+                supported.</para>
+              </listitem>
+
+              <listitem>
+                <para>Non-plated slots wider than 100 mil are not officially
+                supported.</para>
+              </listitem>
+
+              <listitem>
+                <para>Plated slots and smaller slots are possible, but not
+                officially supported. See our Slots page for more.</para>
+              </listitem>
+            </itemizedlist>
+
+            <para><emphasis role="bold">2 Layer Stackup.</emphasis></para>
+
+            <para><table>
+                <title>2 Layer Stackup (table).</title>
+
+                <tgroup cols="3">
+                  <tbody>
+                    <row>
+                      <entry>Thickness</entry>
+
+                      <entry>Layer</entry>
+
+                      <entry>Tolerance</entry>
+                    </row>
+
+                    <row>
+                      <entry>1mil</entry>
+
+                      <entry>solder resist</entry>
+
+                      <entry>+/-0.2mil</entry>
+                    </row>
+
+                    <row>
+                      <entry>1.4 mil</entry>
+
+                      <entry>1 oz copper</entry>
+
+                      <entry/>
+                    </row>
+
+                    <row>
+                      <entry>60 mil</entry>
+
+                      <entry>core</entry>
+
+                      <entry>+/-6mil</entry>
+                    </row>
+
+                    <row>
+                      <entry>1.4 mil</entry>
+
+                      <entry>1 oz copper</entry>
+
+                      <entry/>
+                    </row>
+
+                    <row>
+                      <entry>1mil</entry>
+
+                      <entry>solder resist</entry>
+
+                      <entry>+/-0.2mil</entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table><ulink
+            url="purchase/OSH_Park/IS-410-compatible-FR4-(S1141-170)-Datasheet.pdf">IS
+            410 Compatible FR4 (S1141 170) Datasheet.pdf</ulink></para>
+
+            <para><emphasis role="bold">2 layer Drill
+            Specs.</emphasis><itemizedlist>
+                <listitem>
+                  <para>Minimum 10 mil drills with 5 mil annular rings.</para>
+                </listitem>
+
+                <listitem>
+                  <para>Maximum plated hole size is 265 mils.</para>
+
+                  <para>Unplated holes do not have a maximum size.</para>
+                </listitem>
+              </itemizedlist></para>
+          </section>
+
+          <section>
+            <title>2 Layer 2 oz 0.8 mm Service.</title>
+
+            <para>A special stackup intended for a variety of high-power and
+            low weight circuit designs.</para>
+
+            <para>This service features a 0.032” (0.8mm) thick PCB, and
+            includes 2oz (2.8mil, 70um) copper.</para>
+
+            <para>That’s half the thickness of our standard boards, and with
+            twice the copper !</para>
+
+            <para><emphasis role="bold">Pricing.</emphasis></para>
+
+            <para>$5 per square inch, which includes three copies of your
+            design.</para>
+
+            <para>For example, a 2 square inch board would cost $10 and you’d
+            get three copies of your board.</para>
+
+            <para>You can order as many copies as you want, as long as they’re
+            in multiples of three.</para>
+
+            <para><emphasis role="bold">Turn Times.</emphasis></para>
+
+            <para>Orders are sent to fabrication every week, and have a turn
+            time from the fab of one week.</para>
+
+            <para>You can get a quote, approve a design, and pay for an order
+            at OSH Park.</para>
+
+            <para><emphasis role="bold">Fabrication Specs.</emphasis></para>
+
+            <para>Quick Specs:</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>2 Layer PCB.</para>
+              </listitem>
+
+              <listitem>
+                <para>6 mil minimum trace width.</para>
+              </listitem>
+
+              <listitem>
+                <para>6 mil minimum trace spacing.</para>
+              </listitem>
+
+              <listitem>
+                <para>10 mil minimum drill.</para>
+              </listitem>
+
+              <listitem>
+                <para>5 mil annular ring.</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB thickness of 0.8mm (.032”).</para>
+              </listitem>
+
+              <listitem>
+                <para>2oz copper on both sides (70um, 2.8mil).</para>
+              </listitem>
+            </itemizedlist>
+
+            <para>Detailed Specs:</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>ENIG (gold) finish for superior soldering and
+                environmental resistance.</para>
+              </listitem>
+
+              <listitem>
+                <para>Solder resist and silkscreen on both sides.</para>
+              </listitem>
+
+              <listitem>
+                <para>Minimum 15 mil keepout distance from traces to the board
+                edge.</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB substrate is FR4 (170 Tg).</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB substrate is compatible with a lead-free
+                process.</para>
+              </listitem>
+
+              <listitem>
+                <para>The boards themselves are also lead free and RoHS
+                compliant.</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB Substrate dielectric constant of 4.6 at 1MHz.</para>
+              </listitem>
+
+              <listitem>
+                <para>Minimum 4 mil soldermask web.</para>
+              </listitem>
+
+              <listitem>
+                <para>Maximum soldermask expansion, retraction, or shift is
+                3mil.</para>
+              </listitem>
+
+              <listitem>
+                <para>Minimum 100 mil width on internal cutouts.</para>
+
+                <para>See our Slots page for further information.</para>
+              </listitem>
+
+              <listitem>
+                <para>Manufactured in the United States.</para>
+              </listitem>
+
+              <listitem>
+                <para>Castellations are allowed, but not officially
+                supported.</para>
+              </listitem>
+
+              <listitem>
+                <para>Non-plated slots wider than 100 mil are not officially
+                supported.</para>
+              </listitem>
+
+              <listitem>
+                <para>Plated slots and smaller slots are possible, but not
+                officially supported.</para>
+
+                <para>See our Slots page for more.</para>
+              </listitem>
+            </itemizedlist>
+
+            <para><emphasis role="bold">2 Layer Stackup.</emphasis><table>
+                <title>2 Layer Stackup (table).</title>
+
+                <tgroup cols="3">
+                  <tbody>
+                    <row>
+                      <entry>Thickness</entry>
+
+                      <entry>Layer</entry>
+
+                      <entry>Tolerance</entry>
+                    </row>
+
+                    <row>
+                      <entry>1mil</entry>
+
+                      <entry>solder resist</entry>
+
+                      <entry>+/-0.2mil</entry>
+                    </row>
+
+                    <row>
+                      <entry>2.8 mil</entry>
+
+                      <entry>2 oz copper</entry>
+
+                      <entry/>
+                    </row>
+
+                    <row>
+                      <entry>30 mil</entry>
+
+                      <entry>FR4 core</entry>
+
+                      <entry>+/-3mil</entry>
+                    </row>
+
+                    <row>
+                      <entry>2.8 mil</entry>
+
+                      <entry>2 oz copper</entry>
+
+                      <entry/>
+                    </row>
+
+                    <row>
+                      <entry>1mil</entry>
+
+                      <entry>solder resist</entry>
+
+                      <entry>+/-0.2mil</entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table></para>
+
+            <para><ulink
+            url="purchase/OSH_Park/IS-410-compatible-FR4-(S1141-170)-Datasheet.pdf">IS
+            410 Compatible FR4 (S1141 170) Datasheet.pdf</ulink></para>
+
+            <para><emphasis role="bold">2 layer Drill
+            Specs.</emphasis><itemizedlist>
+                <listitem>
+                  <para>Minimum 10 mil drills with 5 mil annular rings.</para>
+                </listitem>
+
+                <listitem>
+                  <para>Maximum plated hole size is 265 mils.</para>
+
+                  <para>Unplated holes do not have a maximum size.</para>
+                </listitem>
+              </itemizedlist></para>
+          </section>
+
+          <section>
+            <title>2 Layer Medium Run Service.</title>
+
+            <para>Moving to a small production run ?</para>
+
+            <para>Our medium run service will help bridge the gap between
+            prototypes and a full panel.</para>
+
+            <para><emphasis role="bold">Pricing.</emphasis></para>
+
+            <para>$1 per square inch, 100 square inch minimum.</para>
+
+            <para>You can have as many different designs as you want, as long
+            as each design is ordered in a multiple of 10 boards.</para>
+
+            <para>For example, if you had two different 5 square inch designs,
+            you could order 10 of each for a total cost of $100.</para>
+
+            <para>100 inches is just the minimum order.</para>
+
+            <para>You can order as much as you’d like beyond that.</para>
+
+            <para><emphasis role="bold">Turn Times.</emphasis></para>
+
+            <para>Fabrication time can vary for medium run orders, but boards
+            will ship in 15 calendar days or fewer.</para>
+
+            <para>Medium Run orders cannot be expedited.</para>
+
+            <para>For faster fabrications options, you may be interested in
+            our 2 Layer Service or even faster 2 Layer Super Swift
+            Service.</para>
+
+            <para>You can get a quote, approve a design, and pay for an order
+            at OSH Park.</para>
+
+            <para><emphasis role="bold">Fabrication Specs.</emphasis></para>
+
+            <para>Quick Specs:</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>2 Layer PCB.</para>
+              </listitem>
+
+              <listitem>
+                <para>6 mil minimum trace width.</para>
+              </listitem>
+
+              <listitem>
+                <para>6 mil minimum trace spacing.</para>
+              </listitem>
+
+              <listitem>
+                <para>10 mil minimum drill.</para>
+              </listitem>
+
+              <listitem>
+                <para>5 mil annular ring.</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB thickness of 1.6mm (.063”).</para>
+              </listitem>
+
+              <listitem>
+                <para>1oz copper on both sides (1.4mil, 35um).</para>
+              </listitem>
+            </itemizedlist>
+
+            <para>Detailed Specs:</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>ENIG (gold) finish for superior soldering and
+                environmental resistance.</para>
+              </listitem>
+
+              <listitem>
+                <para>Solder resist and silkscreen on both sides.</para>
+              </listitem>
+
+              <listitem>
+                <para>Minimum 15 mil keepout distance from traces to the board
+                edge.</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB substrate is FR4 (170 Tg).</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB substrate is compatible with a lead-free
+                process.</para>
+              </listitem>
+
+              <listitem>
+                <para>The boards themselves are also lead free and RoHS
+                compliant.</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB Substrate dielectric constant of 4.6 at 1MHz.</para>
+              </listitem>
+
+              <listitem>
+                <para>Minimum 4 mil soldermask web.</para>
+              </listitem>
+
+              <listitem>
+                <para>Maximum soldermask expansion, retraction, or shift is
+                3mil.</para>
+              </listitem>
+
+              <listitem>
+                <para>Minimum 100 mil width on internal cutouts. See our Slots
+                page for further information.</para>
+              </listitem>
+
+              <listitem>
+                <para>Manufactured in the United States.</para>
+              </listitem>
+
+              <listitem>
+                <para>Castellations are allowed, but not officially
+                supported.</para>
+              </listitem>
+
+              <listitem>
+                <para>Non-plated slots wider than 100 mil are not officially
+                supported.</para>
+              </listitem>
+
+              <listitem>
+                <para>Plated slots and smaller slots are possible, but not
+                officially supported. See our Slots page for more.</para>
+              </listitem>
+            </itemizedlist>
+
+            <para><emphasis role="bold">2 Layer Stackup.</emphasis></para>
+
+            <para><table>
+                <title>2 Layer Stackup (table).</title>
+
+                <tgroup cols="3">
+                  <tbody>
+                    <row>
+                      <entry>Thickness</entry>
+
+                      <entry>Layer</entry>
+
+                      <entry>Tolerance</entry>
+                    </row>
+
+                    <row>
+                      <entry>1mil</entry>
+
+                      <entry>solder resist</entry>
+
+                      <entry>+/-0.2mil</entry>
+                    </row>
+
+                    <row>
+                      <entry>1.4 mil</entry>
+
+                      <entry>1 oz copper</entry>
+
+                      <entry/>
+                    </row>
+
+                    <row>
+                      <entry>60 mil</entry>
+
+                      <entry>core</entry>
+
+                      <entry>+/-6mil</entry>
+                    </row>
+
+                    <row>
+                      <entry>1.4 mil</entry>
+
+                      <entry>1 oz copper</entry>
+
+                      <entry/>
+                    </row>
+
+                    <row>
+                      <entry>1mil</entry>
+
+                      <entry>solder resist</entry>
+
+                      <entry>+/-0.2mil</entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table><ulink
+            url="purchase/OSH_Park/IS-410-compatible-FR4-(S1141-170)-Datasheet.pdf">IS
+            410 Compatible FR4 (S1141 170) Datasheet.pdf</ulink></para>
+
+            <para><emphasis role="bold">2 layer Drill
+            Specs.</emphasis><itemizedlist>
+                <listitem>
+                  <para>Minimum 10 mil drills with 5 mil annular rings.</para>
+                </listitem>
+
+                <listitem>
+                  <para>Maximum plated hole size is 265 mils.</para>
+
+                  <para>Unplated holes do not have a maximum size.</para>
+                </listitem>
+              </itemizedlist></para>
+          </section>
+
+          <section>
+            <title>1 Layer Prototype Service.</title>
+
+            <para>While we cannot fabricate true single-layer boards, we
+            support single layer designs on our 2 layer fabrication
+            service.</para>
+
+            <para>The cost, stackup, specs, and turn time are identical to
+            that of the 2 layer service.</para>
+
+            <para><emphasis role="bold">Ordering.</emphasis></para>
+
+            <para>Our automated upload service expects all files to contain
+            gerber data for a 2 layer design.</para>
+
+            <para>This often results in errors when trying to place an
+            order.</para>
+
+            <para>In many cases, this issue can be resolved by configuring the
+            design tool to output data for a 2 layer design.</para>
+
+            <para>If only the manufacturing files are available, this usually
+            requires a few files to be copied and modified.</para>
+
+            <para>Our Uploading 1 layer boards page has a guide on doing
+            this.</para>
+
+            <para><emphasis role="bold">Pricing.</emphasis></para>
+
+            <para>$5 per square inch, which includes three copies of your
+            design.</para>
+
+            <para>For example, a 2 square inch board would cost $10 and you’d
+            get three copies of your board.</para>
+
+            <para>You can order as many copies as you want, as long as they’re
+            in multiples of three.</para>
+
+            <para><emphasis role="bold">Turn Times.</emphasis></para>
+
+            <para>Orders are sent to fabrication daily, and will ship within
+            10-12 days.</para>
+
+            <para>You can get a quote, approve a design, and pay for an order
+            at OSH Park.</para>
+
+            <para>For a faster turn time, you may be interested in our Super
+            Swift Service.</para>
+
+            <para>Need more than 100 square inches of boards ?</para>
+
+            <para>Our 2 Layer Medium Run Service is a less expensive option
+            for larger orders.</para>
+
+            <para><emphasis role="bold">Fabrication Specs.</emphasis></para>
+
+            <para>Quick Specs:</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>2 Layer PCB.</para>
+              </listitem>
+
+              <listitem>
+                <para>6 mil minimum trace width.</para>
+              </listitem>
+
+              <listitem>
+                <para>6 mil minimum trace spacing.</para>
+              </listitem>
+
+              <listitem>
+                <para>10 mil minimum drill.</para>
+              </listitem>
+
+              <listitem>
+                <para>5 mil annular ring.</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB thickness of 1.6mm (.063”).</para>
+              </listitem>
+
+              <listitem>
+                <para>1oz copper on both sides (1.4mil, 35um).</para>
+              </listitem>
+            </itemizedlist>
+
+            <para>Detailed Specs:</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>ENIG (gold) finish for superior soldering and
+                environmental resistance.</para>
+              </listitem>
+
+              <listitem>
+                <para>Solder resist and silkscreen on both sides.</para>
+              </listitem>
+
+              <listitem>
+                <para>Minimum 15 mil keepout distance from traces to the board
+                edge.</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB substrate is FR4 (170 Tg).</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB substrate is compatible with a lead-free
+                process.</para>
+              </listitem>
+
+              <listitem>
+                <para>The boards themselves are also lead free and RoHS
+                compliant.</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB Substrate dielectric constant of 4.6 at 1MHz.</para>
+              </listitem>
+
+              <listitem>
+                <para>Minimum 4 mil soldermask web.</para>
+              </listitem>
+
+              <listitem>
+                <para>Maximum soldermask expansion, retraction, or shift is
+                3mil.</para>
+              </listitem>
+
+              <listitem>
+                <para>Minimum 100 mil width on internal cutouts.</para>
+
+                <para>See our Slots page for further information.</para>
+              </listitem>
+
+              <listitem>
+                <para>Manufactured in the United States.</para>
+              </listitem>
+
+              <listitem>
+                <para>Castellations are allowed, but not officially
+                supported.</para>
+              </listitem>
+
+              <listitem>
+                <para>Non-plated slots wider than 100 mil are not officially
+                supported.</para>
+              </listitem>
+
+              <listitem>
+                <para>Plated slots and smaller slots are possible, but not
+                officially supported. See our Slots page for more.</para>
+              </listitem>
+            </itemizedlist>
+
+            <para><emphasis role="bold">2 Layer Stackup.</emphasis></para>
+
+            <para><table>
+                <title>2 Layer Stackup (table).</title>
+
+                <tgroup cols="3">
+                  <tbody>
+                    <row>
+                      <entry>Thickness</entry>
+
+                      <entry>Layer</entry>
+
+                      <entry>Tolerance</entry>
+                    </row>
+
+                    <row>
+                      <entry>1mil</entry>
+
+                      <entry>solder resist</entry>
+
+                      <entry>+/-0.2mil</entry>
+                    </row>
+
+                    <row>
+                      <entry>1.4 mil</entry>
+
+                      <entry>1 oz copper</entry>
+
+                      <entry/>
+                    </row>
+
+                    <row>
+                      <entry>60 mil</entry>
+
+                      <entry>core</entry>
+
+                      <entry>+/-6mil</entry>
+                    </row>
+
+                    <row>
+                      <entry>1.4 mil</entry>
+
+                      <entry>1 oz copper</entry>
+
+                      <entry/>
+                    </row>
+
+                    <row>
+                      <entry>1mil</entry>
+
+                      <entry>solder resist</entry>
+
+                      <entry>+/-0.2mil</entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table><ulink
+            url="purchase/OSH_Park/IS-410-compatible-FR4-(S1141-170)-Datasheet.pdf">IS
+            410 Compatible FR4 (S1141 170) Datasheet.pdf</ulink></para>
+
+            <para><emphasis role="bold">2 layer Drill Specs.</emphasis></para>
+
+            <para><itemizedlist>
+                <listitem>
+                  <para>Minimum 10 mil drills with 5 mil annular rings.</para>
+                </listitem>
+
+                <listitem>
+                  <para>Maximum plated hole size is 265 mils.</para>
+
+                  <para>Unplated holes do not have a maximum size.</para>
+                </listitem>
+              </itemizedlist></para>
+          </section>
+
+          <section>
+            <title>4 Layer Prototype Service.</title>
+
+            <para><emphasis role="bold">Pricing.</emphasis></para>
+
+            <para>$10 per square inch, which includes three copies of your
+            design.</para>
+
+            <para>For example, a 2 square inch board would cost $20 and you’d
+            get three copies of your board.</para>
+
+            <para>You can order as many copies as you want, as long as they’re
+            in multiples of three.</para>
+
+            <para><emphasis role="bold">Turn Times.</emphasis></para>
+
+            <para>Orders are sent to fabrication every other day, and have a
+            turn time from the fab of one week.</para>
+
+            <para>95% of our 4 layer orders ship within 12 days.</para>
+
+            <para>You can get a quote, approve a design, and pay for an order
+            at OSH Park.</para>
+
+            <para>We do not offer Super Swift Service for 4 layer
+            boards.</para>
+
+            <para>Need more than 150 square inches of boards ?</para>
+
+            <para>Our 4 Layer Medium Run Service is a less expensive option
+            for larger orders.</para>
+
+            <para><emphasis role="bold">Fabrication Specs.</emphasis></para>
+
+            <para>Quick Specs:</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>4 Layer PCB.</para>
+              </listitem>
+
+              <listitem>
+                <para>5 mil minimum trace width.</para>
+              </listitem>
+
+              <listitem>
+                <para>5 mil minimum trace spacing.</para>
+              </listitem>
+
+              <listitem>
+                <para>10 mil minimum drill.</para>
+              </listitem>
+
+              <listitem>
+                <para>4 mil annular ring.</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB thickness of 1.6mm (.063”).</para>
+              </listitem>
+
+              <listitem>
+                <para>1oz copper on both sides (1.4 mil, 35 um).</para>
+              </listitem>
+
+              <listitem>
+                <para>0.5oz copper on internal layers (0.7mil, 17.5um).</para>
+              </listitem>
+            </itemizedlist>
+
+            <para>Detailed Specs:</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>ENIG (gold) finish for superior soldering and
+                environmental resistance.</para>
+              </listitem>
+
+              <listitem>
+                <para>Solder resist and silkscreen on both sides.</para>
+              </listitem>
+
+              <listitem>
+                <para>Minimum 15 mil keepout distance from traces to the board
+                edge.</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB substrate is FR408 (180Tg).</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB substrate is compatible with a lead-free
+                process.</para>
+              </listitem>
+
+              <listitem>
+                <para>The boards themselves are also lead free and RoHS
+                compliant.</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB Substrate dielectric constant of 3.66 at
+                1GHz.</para>
+              </listitem>
+
+              <listitem>
+                <para>Minimum 4 mil soldermask web.</para>
+              </listitem>
+
+              <listitem>
+                <para>Maximum soldermask expansion is 2.5 mil.</para>
+              </listitem>
+
+              <listitem>
+                <para>Minimum 100 mil width on internal cutouts.</para>
+
+                <para>See our Slots page for further information.</para>
+              </listitem>
+
+              <listitem>
+                <para>Manufactured in the United States.</para>
+              </listitem>
+
+              <listitem>
+                <para>Castellations are allowed, but not officially
+                supported.</para>
+              </listitem>
+
+              <listitem>
+                <para>We do not support blind or buried vias.</para>
+              </listitem>
+
+              <listitem>
+                <para>Non-plated slots wider than 100 mil are allowed, but not
+                officially supported.</para>
+              </listitem>
+
+              <listitem>
+                <para>Plated slots and smaller slots are possible, but not
+                officially supported.</para>
+
+                <para>See our Slots page for more.</para>
+              </listitem>
+            </itemizedlist>
+
+            <para><emphasis role="bold">4 Layer Stackup.</emphasis></para>
+
+            <para>The current 4 layer board stackup is as follows:<table>
+                <title>4 Layer Stackup (table).</title>
+
+                <tgroup cols="3">
+                  <tbody>
+                    <row>
+                      <entry>Thickness</entry>
+
+                      <entry>Layer</entry>
+
+                      <entry>Tolerance</entry>
+                    </row>
+
+                    <row>
+                      <entry>1mil</entry>
+
+                      <entry>solder resist</entry>
+
+                      <entry>+/-0.2mil</entry>
+                    </row>
+
+                    <row>
+                      <entry>1.4 mil</entry>
+
+                      <entry>1 oz copper</entry>
+
+                      <entry/>
+                    </row>
+
+                    <row>
+                      <entry>6.7 mil</entry>
+
+                      <entry>FR408 prepreg</entry>
+
+                      <entry>+/-0.67mil</entry>
+                    </row>
+
+                    <row>
+                      <entry>0.7 mil</entry>
+
+                      <entry>0.5 oz copper</entry>
+
+                      <entry/>
+                    </row>
+
+                    <row>
+                      <entry>47 mil</entry>
+
+                      <entry>FR408 core</entry>
+
+                      <entry>+/-4.7mil</entry>
+                    </row>
+
+                    <row>
+                      <entry>0.7 mil</entry>
+
+                      <entry>0.5 oz copper</entry>
+
+                      <entry/>
+                    </row>
+
+                    <row>
+                      <entry>6.7 mil</entry>
+
+                      <entry>FR408 prepreg</entry>
+
+                      <entry>+/-0.67mil</entry>
+                    </row>
+
+                    <row>
+                      <entry>1.4 mil</entry>
+
+                      <entry>1 oz copper</entry>
+
+                      <entry/>
+                    </row>
+
+                    <row>
+                      <entry>1mil</entry>
+
+                      <entry>solder resist</entry>
+
+                      <entry>+/-0.2mil</entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table></para>
+
+            <para>The substrate for both the core and prepreg is FR408, with a
+            dielectric constant of 3.66 at 1GHz, and is compatible with a lead
+            free process.</para>
+
+            <para>The boards themselves are also lead free and RoHS
+            compliant.</para>
+
+            <para><ulink
+            url="purchase/OSH_Park/FR408-High-Performance-Laminate-and-Prepreg-Data-Sheet.pdf">FR408
+            High Performance Laminate and Prepreg Data
+            Sheet.pdf</ulink></para>
+
+            <para><emphasis role="bold">Layer Naming.</emphasis></para>
+
+            <para>When sent to fabrication, the layers are manufactured in the
+            following order according to their file extension.</para>
+
+            <para>We advise following this naming scheme if your design is
+            sensitive to distance of the inner planes in order to avoid any
+            confusion.<table>
+                <title>Layer Naming (table).</title>
+
+                <tgroup cols="3">
+                  <tbody>
+                    <row>
+                      <entry>Layer</entry>
+
+                      <entry>Suggested File Extension</entry>
+
+                      <entry/>
+                    </row>
+
+                    <row>
+                      <entry>Layer 1</entry>
+
+                      <entry>.GTL</entry>
+
+                      <entry>Top or Front layer</entry>
+                    </row>
+
+                    <row>
+                      <entry>Layer 2</entry>
+
+                      <entry>.G2L</entry>
+
+                      <entry>Internal Plane</entry>
+                    </row>
+
+                    <row>
+                      <entry>Layer 3</entry>
+
+                      <entry>.G3L</entry>
+
+                      <entry>Internal Plane</entry>
+                    </row>
+
+                    <row>
+                      <entry>Layer 4</entry>
+
+                      <entry>.GBL</entry>
+
+                      <entry>Bottom or Back layer</entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table></para>
+
+            <para><emphasis role="bold">Internal Plane
+            Polarity.</emphasis></para>
+
+            <para>When submitting gerbers, we need the “positive” internal
+            planes, meaning that lines represent copper, not the absence of
+            copper.</para>
+
+            <para>Some CAD tools will generate the internal planes as power
+            planes with “negative” polarity so the lines indicate where copper
+            should be removed.</para>
+
+            <para>To work around this, declare the internal planes as signal
+            layers and use a copper pour to define the power plane.</para>
+
+            <para>Take a look at our Positive and Negative Gerbers page for
+            more information.</para>
+
+            <para><emphasis role="bold">4 Layer Drill Specs.</emphasis></para>
+
+            <table>
+              <title>4 Layer Drill Specs (table).</title>
+
+              <tgroup cols="2">
+                <tbody>
+                  <row>
+                    <entry>Spec</entry>
+
+                    <entry>Size</entry>
+                  </row>
+
+                  <row>
+                    <entry>Minimum annular ring</entry>
+
+                    <entry>4 mil</entry>
+                  </row>
+
+                  <row>
+                    <entry>Minimum hole size</entry>
+
+                    <entry>10 mil</entry>
+                  </row>
+
+                  <row>
+                    <entry>Maximum plated hole size</entry>
+
+                    <entry>260 mil</entry>
+                  </row>
+
+                  <row>
+                    <entry>Maximum non-plated hole size</entry>
+
+                    <entry>none</entry>
+                  </row>
+
+                  <row>
+                    <entry>Via plating thickness</entry>
+
+                    <entry>1 mil</entry>
+                  </row>
+
+                  <row>
+                    <entry>Blind Vias</entry>
+
+                    <entry>No</entry>
+                  </row>
+
+                  <row>
+                    <entry>Buried Vias</entry>
+
+                    <entry>No</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </section>
+
+          <section>
+            <title>4 Layer Medium Run Service.</title>
+
+            <para>Moving to a small production run ?</para>
+
+            <para>Our medium run service will help bridge the gap between
+            prototypes and a full panel.</para>
+
+            <para><emphasis role="bold">Pricing.</emphasis></para>
+
+            <para>$2 per square inch, 150 square inch minimum.</para>
+
+            <para>You can have as many different designs as you want, as long
+            as each design is ordered in a multiple of 3 boards.</para>
+
+            <para>For example, if you two 25 square inch designs, you could
+            order 3 of each for a total cost of $300.</para>
+
+            <para>150 inches is just the minimum order.</para>
+
+            <para>You can order as much as you’d like beyond that.</para>
+
+            <para><emphasis role="bold">Turn Times.</emphasis></para>
+
+            <para>Fabrication time can vary for medium run orders.</para>
+
+            <para>Boards typically ship within 14 calendar days but may take
+            up 4 weeks.</para>
+
+            <para>To make an order, please contact support@oshpark.com.</para>
+
+            <para>We do not offer Super Swift Service for 4 layer
+            boards.</para>
+
+            <para>For faster options, you may be interested in our Standard 4
+            Layer Service.</para>
+
+            <para><emphasis role="bold">Fabrication Specs.</emphasis></para>
+
+            <para>Quick Specs:</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>4 Layer PCB.</para>
+              </listitem>
+
+              <listitem>
+                <para>5 mil minimum trace width.</para>
+              </listitem>
+
+              <listitem>
+                <para>5 mil minimum trace spacing.</para>
+              </listitem>
+
+              <listitem>
+                <para>10 mil minimum drill.</para>
+              </listitem>
+
+              <listitem>
+                <para>4 mil annular ring.</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB thickness of 1.6mm (.063”).</para>
+              </listitem>
+
+              <listitem>
+                <para>1oz copper on both sides (1.4 mil, 35 um).</para>
+              </listitem>
+
+              <listitem>
+                <para>0.5oz copper on internal layers (0.7mil, 17.5um).</para>
+              </listitem>
+            </itemizedlist>
+
+            <para>Detailed Specs:</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>ENIG (gold) finish for superior soldering and
+                environmental resistance.</para>
+              </listitem>
+
+              <listitem>
+                <para>Solder resist and silkscreen on both sides.</para>
+              </listitem>
+
+              <listitem>
+                <para>Minimum 15 mil keepout distance from traces to the board
+                edge.</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB substrate is FR408 (180Tg).</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB substrate is compatible with a lead-free
+                process.</para>
+              </listitem>
+
+              <listitem>
+                <para>The boards themselves are also lead free and RoHS
+                compliant.</para>
+              </listitem>
+
+              <listitem>
+                <para>PCB Substrate dielectric constant of 3.66 at
+                1GHz.</para>
+              </listitem>
+
+              <listitem>
+                <para>Minimum 4 mil soldermask web.</para>
+              </listitem>
+
+              <listitem>
+                <para>Maximum soldermask expansion is 2.5 mil.</para>
+              </listitem>
+
+              <listitem>
+                <para>Minimum 100 mil width on internal cutouts.</para>
+
+                <para>See our Slots page for further information.</para>
+              </listitem>
+
+              <listitem>
+                <para>Manufactured in the United States.</para>
+              </listitem>
+
+              <listitem>
+                <para>Castellations are allowed, but not officially
+                supported.</para>
+              </listitem>
+
+              <listitem>
+                <para>We do not support blind or buried vias.</para>
+              </listitem>
+
+              <listitem>
+                <para>Non-plated slots wider than 100 mil are allowed, but not
+                officially supported.</para>
+              </listitem>
+
+              <listitem>
+                <para>Plated slots and smaller slots are possible, but not
+                officially supported.</para>
+
+                <para>See our Slots page for more.</para>
+              </listitem>
+            </itemizedlist>
+
+            <para><emphasis role="bold">4 Layer Stackup.</emphasis></para>
+
+            <para>The current 4 layer board stackup is as follows:<table>
+                <title>4 Layer Stackup (table).</title>
+
+                <tgroup cols="3">
+                  <tbody>
+                    <row>
+                      <entry>Thickness</entry>
+
+                      <entry>Layer</entry>
+
+                      <entry>Tolerance</entry>
+                    </row>
+
+                    <row>
+                      <entry>1mil</entry>
+
+                      <entry>solder resist</entry>
+
+                      <entry>+/-0.2mil</entry>
+                    </row>
+
+                    <row>
+                      <entry>1.4 mil</entry>
+
+                      <entry>1 oz copper</entry>
+
+                      <entry/>
+                    </row>
+
+                    <row>
+                      <entry>6.7 mil</entry>
+
+                      <entry>FR408 prepreg</entry>
+
+                      <entry>+/-0.67mil</entry>
+                    </row>
+
+                    <row>
+                      <entry>0.7 mil</entry>
+
+                      <entry>0.5 oz copper</entry>
+
+                      <entry/>
+                    </row>
+
+                    <row>
+                      <entry>47 mil</entry>
+
+                      <entry>FR408 core</entry>
+
+                      <entry>+/-4.7mil</entry>
+                    </row>
+
+                    <row>
+                      <entry>0.7 mil</entry>
+
+                      <entry>0.5 oz copper</entry>
+
+                      <entry/>
+                    </row>
+
+                    <row>
+                      <entry>6.7 mil</entry>
+
+                      <entry>FR408 prepreg</entry>
+
+                      <entry>+/-0.67mil</entry>
+                    </row>
+
+                    <row>
+                      <entry>1.4 mil</entry>
+
+                      <entry>1 oz copper</entry>
+
+                      <entry/>
+                    </row>
+
+                    <row>
+                      <entry>1mil</entry>
+
+                      <entry>solder resist</entry>
+
+                      <entry>+/-0.2mil</entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table></para>
+
+            <para>The substrate for both the core and prepreg is FR408, with a
+            dielectric constant of 3.66 at 1GHz, and is compatible with a lead
+            free process.</para>
+
+            <para>The boards themselves are also lead free and RoHS
+            compliant.</para>
+
+            <para><ulink
+            url="purchase/OSH_Park/FR408-High-Performance-Laminate-and-Prepreg-Data-Sheet.pdf">FR408
+            High Performance Laminate and Prepreg Data
+            Sheet.pdf</ulink></para>
+
+            <para><emphasis role="bold">Layer Naming.</emphasis></para>
+
+            <para>When sent to fabrication, the layers are manufactured in the
+            following order according to their file extension.</para>
+
+            <para>We advise following this naming scheme if your design is
+            sensitive to distance of the inner planes in order to avoid any
+            confusion.<table>
+                <title>Layer Naming (table).</title>
+
+                <tgroup cols="3">
+                  <tbody>
+                    <row>
+                      <entry>Layer</entry>
+
+                      <entry>Suggested File Extension</entry>
+
+                      <entry/>
+                    </row>
+
+                    <row>
+                      <entry>Layer 1</entry>
+
+                      <entry>.GTL</entry>
+
+                      <entry>Top or Front layer</entry>
+                    </row>
+
+                    <row>
+                      <entry>Layer 2</entry>
+
+                      <entry>.G2L</entry>
+
+                      <entry>Internal Plane</entry>
+                    </row>
+
+                    <row>
+                      <entry>Layer 3</entry>
+
+                      <entry>.G3L</entry>
+
+                      <entry>Internal Plane</entry>
+                    </row>
+
+                    <row>
+                      <entry>Layer 4</entry>
+
+                      <entry>.GBL</entry>
+
+                      <entry>Bottom or Back layer</entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table></para>
+
+            <para><emphasis role="bold">Internal Plane
+            Polarity.</emphasis></para>
+
+            <para>When submitting gerbers, we need the “positive” internal
+            planes, meaning that lines represent copper, not the absence of
+            copper.</para>
+
+            <para>Some CAD tools will generate the internal planes as power
+            planes with “negative” polarity so the lines indicate where copper
+            should be removed.</para>
+
+            <para>To work around this, declare the internal planes as signal
+            layers and use a copper pour to define the power plane.</para>
+
+            <para>Take a look at our Positive and Negative Gerbers page for
+            more information.</para>
+
+            <para><emphasis role="bold">4 Layer Drill Specs.</emphasis></para>
+
+            <table>
+              <title>4 Layer Drill Specs (table).</title>
+
+              <tgroup cols="2">
+                <tbody>
+                  <row>
+                    <entry>Spec</entry>
+
+                    <entry>Size</entry>
+                  </row>
+
+                  <row>
+                    <entry>Minimum annular ring</entry>
+
+                    <entry>4 mil</entry>
+                  </row>
+
+                  <row>
+                    <entry>Minimum hole size</entry>
+
+                    <entry>10 mil</entry>
+                  </row>
+
+                  <row>
+                    <entry>Maximum plated hole size</entry>
+
+                    <entry>260 mil</entry>
+                  </row>
+
+                  <row>
+                    <entry>Maximum non-plated hole size</entry>
+
+                    <entry>none</entry>
+                  </row>
+
+                  <row>
+                    <entry>Via plating thickness</entry>
+
+                    <entry>1 mil</entry>
+                  </row>
+
+                  <row>
+                    <entry>Blind Vias</entry>
+
+                    <entry>No</entry>
+                  </row>
+
+                  <row>
+                    <entry>Buried Vias</entry>
+
+                    <entry>No</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </section>
+        </section>
       </section>
 
       <section>
         <title>Purchase Orders.</title>
 
-        <para>.</para>
+        <para><table>
+            <title>OSH Park.</title>
+
+            <tgroup cols="2">
+              <tbody>
+                <row>
+                  <entry>ID</entry>
+
+                  <entry>Description</entry>
+                </row>
+
+                <row>
+                  <entry><ulink
+                  url="purchase/OSH_Park/26-006-00/20170715_invoice-Sts2UEpa.pdf">20170715_invoice-Sts2UEpa.pdf</ulink></entry>
+
+                  <entry>Invoice for 26-006-00.</entry>
+                </row>
+
+                <row>
+                  <entry><ulink
+                  url="purchase/OSH\ Park/26-006-00/20170801_invoice-Sts2UEpa.pdf">20170801_invoice-Sts2UEpa.pdf</ulink></entry>
+
+                  <entry>Invoice for 26-006-00 with order details.</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>.</para>
       </section>
 
       <section>
