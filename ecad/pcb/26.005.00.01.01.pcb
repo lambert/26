@@ -1,4 +1,4 @@
-# release: pcb v4.0.1-gc085b10b
+# release: pcb 4.0.2
 
 # To read pcb files, the pcb version (or the git source date) must be >= the file version
 FileVersion[20091103]
@@ -1214,27 +1214,47 @@ Attribute("PCB::grid::unit" "mm")
 Attribute("PCB::grid::size" "0.5000mm")
 Attribute("import::src0" "/home/bert/workspace/git/projects/26_Octave_Filter/ecad/gschem/26.005.00.01.01.sch")
 
-Element["lock" "PIN165X102____" "p1" "" 13.0000mm 45.5000mm 60.00mil -50.00mil 0 100 ""]
+Element["" "PIN165X102____.fp" "p3" "unknown" 6.5000mm 10.0000mm 0.0240mm 1.2300mm 0 100 ""]
 (
-	Pin[0.0000 0.0000 71.00mil 20.00mil 71.00mil 40.00mil "" "1" "lock,thermal(0S,1S,5)"]
+	Attribute("device" "PIN")
+	Attribute("manufacturer" "unknown")
+	Attribute("manufacturer_part_number" "unknown")
+	Attribute("vendor" "unknown")
+	Attribute("vendor_part_number" "unknown")
+	Pin[0.0000 0.0000 65.00mil 20.00mil 71.00mil 40.00mil "1" "1" "thermal(0S,1S)"]
 
 	)
 
-Element["lock" "PIN165X102____" "p2" "" 42.0000mm 45.5000mm -2.9760mm -50.00mil 0 100 ""]
+Element["" "PIN165X102____.fp" "p4" "unknown" 6.5000mm 39.0000mm 60.00mil -50.00mil 0 100 ""]
 (
-	Pin[0.0000 0.0000 71.00mil 20.00mil 71.00mil 40.00mil "" "1" "lock,thermal(0S,1S)"]
+	Attribute("device" "PIN")
+	Attribute("manufacturer" "unknown")
+	Attribute("manufacturer_part_number" "unknown")
+	Attribute("vendor" "unknown")
+	Attribute("vendor_part_number" "unknown")
+	Pin[0.0000 0.0000 65.00mil 20.00mil 71.00mil 40.00mil "1" "1" "thermal(0S,1S)"]
 
 	)
 
-Element["lock" "PIN165X102____" "p3" "" 6.5000mm 10.0000mm 0.0240mm 1.2300mm 0 100 ""]
+Element["" "PIN165X102____.fp" "p1" "unknown" 13.0000mm 45.5000mm 60.00mil -50.00mil 0 100 ""]
 (
-	Pin[0.0000 0.0000 71.00mil 20.00mil 71.00mil 40.00mil "" "1" "lock,thermal(0S,1S)"]
+	Attribute("device" "PIN")
+	Attribute("manufacturer" "unknown")
+	Attribute("manufacturer_part_number" "unknown")
+	Attribute("vendor" "unknown")
+	Attribute("vendor_part_number" "unknown")
+	Pin[0.0000 0.0000 65.00mil 20.00mil 71.00mil 40.00mil "1" "1" "thermal(0S,1S)"]
 
 	)
 
-Element["lock" "PIN165X102____" "p4" "" 6.5000mm 39.0000mm 60.00mil -50.00mil 0 100 ""]
+Element["" "PIN165X102____.fp" "p2" "unknown" 42.0000mm 45.5000mm -2.9760mm -50.00mil 0 100 ""]
 (
-	Pin[0.0000 0.0000 71.00mil 20.00mil 71.00mil 40.00mil "" "1" "lock,thermal(0S,1S)"]
+	Attribute("device" "PIN")
+	Attribute("manufacturer" "unknown")
+	Attribute("manufacturer_part_number" "unknown")
+	Attribute("vendor" "unknown")
+	Attribute("vendor_part_number" "unknown")
+	Pin[0.0000 0.0000 65.00mil 20.00mil 71.00mil 40.00mil "1" "1" "thermal(0S,1S)"]
 
 	)
 Layer(1 "top" "copper")
@@ -1319,5 +1339,15 @@ Layer(6 "top silk" "silk")
 		[12.8775mm 23.2689mm] [12.8760mm 23.2689mm] [12.6855mm 23.1780mm] [12.4849mm 23.1092mm] [490.50mil 23.0980mm] 
 		[12.4376mm 23.0832mm] [12.4257mm 23.0609mm] [12.3264mm 22.5194mm] [484.85mil 22.4630mm] [12.3027mm 881.98mil] 
 		[483.89mil 22.3830mm] [12.2697mm 22.3748mm] [11.6152mm 22.3748mm] 
+	)
+)
+NetList()
+(
+	Net("GND" "(unknown)")
+	(
+		Connect("p1-1")
+		Connect("p2-1")
+		Connect("p3-1")
+		Connect("p4-1")
 	)
 )
