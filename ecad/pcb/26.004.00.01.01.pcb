@@ -1,4 +1,4 @@
-# release: pcb v4.0.1-g171f2642
+# release: pcb 4.0.2
 
 # To read pcb files, the pcb version (or the git source date) must be >= the file version
 FileVersion[20091103]
@@ -1228,39 +1228,69 @@ Element["" "____MAX-XY" "" "MAX-XY" 165.0000mm 5.0000mm -0.0349mm 5.0242mm 0 100
 
 	)
 
-Element["lock" "MTG370____" "A" "" 9.5000mm 7.5000mm 4.1900mm -0.2700mm 0 100 ""]
+Element["" "MTG370-700____.fp" "D" "unknown" 85.0000mm 92.5000mm -5.4200mm -0.6750mm 0 100 ""]
 (
-	Pin[0.0000 0.0000 146.00mil 20.00mil 146.00mil 146.00mil "MTG370" "1" "hole"]
+	Attribute("device" "MTG")
+	Attribute("manufacturer" "unknown")
+	Attribute("manufacturer_part_number" "unknown")
+	Attribute("vendor" "unknown")
+	Attribute("vendor_part_number" "unknown")
+	Pin[0.0000 0.0000 276.00mil 20.00mil 276.00mil 146.00mil "MTG370-700" "1" "thermal(0t,1t)"]
 
 	)
 
-Element["lock" "MTG370____" "B" "" 9.5000mm 92.5000mm 4.1900mm -25.00mil 0 100 ""]
+Element["" "MTG370-700____.fp" "C" "unknown" 85.0000mm 7.5000mm -5.4450mm -0.2300mm 0 100 ""]
 (
-	Pin[0.0000 0.0000 146.00mil 20.00mil 146.00mil 146.00mil "MTG370" "1" "hole"]
+	Attribute("device" "MTG")
+	Attribute("manufacturer" "unknown")
+	Attribute("manufacturer_part_number" "unknown")
+	Attribute("vendor" "unknown")
+	Attribute("vendor_part_number" "unknown")
+	Pin[0.0000 0.0000 276.00mil 20.00mil 276.00mil 146.00mil "MTG370-700" "1" "thermal(0t,1t)"]
 
 	)
 
-Element["lock" "MTG370____" "C" "" 85.0000mm 7.5000mm -5.4450mm -0.2300mm 0 100 ""]
+Element["" "MTG370-700____.fp" "F" "unknown" 160.8000mm 92.5000mm -4.0950mm -0.2700mm 0 100 ""]
 (
-	Pin[0.0000 0.0000 146.00mil 20.00mil 146.00mil 146.00mil "MTG370" "1" "hole"]
+	Attribute("device" "MTG")
+	Attribute("manufacturer" "unknown")
+	Attribute("manufacturer_part_number" "unknown")
+	Attribute("vendor" "unknown")
+	Attribute("vendor_part_number" "unknown")
+	Pin[0.0000 0.0000 276.00mil 20.00mil 276.00mil 146.00mil "MTG370-700" "1" "thermal(0t,1t)"]
 
 	)
 
-Element["lock" "MTG370____" "D" "" 85.0000mm 92.5000mm -5.4200mm -0.6750mm 0 100 ""]
+Element["" "MTG370-700____.fp" "E" "unknown" 160.8000mm 7.5000mm -4.2450mm -0.7700mm 0 100 ""]
 (
-	Pin[0.0000 0.0000 146.00mil 20.00mil 146.00mil 146.00mil "MTG370" "1" "hole"]
+	Attribute("device" "MTG")
+	Attribute("manufacturer" "unknown")
+	Attribute("manufacturer_part_number" "unknown")
+	Attribute("vendor" "unknown")
+	Attribute("vendor_part_number" "unknown")
+	Pin[0.0000 0.0000 276.00mil 20.00mil 276.00mil 146.00mil "MTG370-700" "1" "thermal(0t,1t)"]
 
 	)
 
-Element["lock" "MTG370____" "E" "" 160.8000mm 7.5000mm -4.2450mm -0.7700mm 0 100 ""]
+Element["" "MTG370-700____.fp" "B" "unknown" 9.5000mm 92.5000mm 4.1900mm -25.00mil 0 100 ""]
 (
-	Pin[0.0000 0.0000 146.00mil 20.00mil 146.00mil 146.00mil "MTG370" "1" "hole"]
+	Attribute("device" "MTG")
+	Attribute("manufacturer" "unknown")
+	Attribute("manufacturer_part_number" "unknown")
+	Attribute("vendor" "unknown")
+	Attribute("vendor_part_number" "unknown")
+	Pin[0.0000 0.0000 276.00mil 20.00mil 276.00mil 146.00mil "MTG370-700" "1" "thermal(0t,1t)"]
 
 	)
 
-Element["lock" "MTG370____" "F" "" 160.8000mm 92.5000mm -4.0950mm -0.2700mm 0 100 ""]
+Element["" "MTG370-700____.fp" "A" "unknown" 9.5000mm 7.5000mm 4.1900mm -0.2700mm 0 100 ""]
 (
-	Pin[0.0000 0.0000 146.00mil 20.00mil 146.00mil 146.00mil "MTG370" "1" "hole"]
+	Attribute("device" "MTG")
+	Attribute("manufacturer" "unknown")
+	Attribute("manufacturer_part_number" "unknown")
+	Attribute("vendor" "unknown")
+	Attribute("vendor_part_number" "unknown")
+	Pin[0.0000 0.0000 276.00mil 20.00mil 276.00mil 146.00mil "MTG370-700" "1" "thermal(0t,1t)"]
 
 	)
 Layer(1 "top" "copper")
