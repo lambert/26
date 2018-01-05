@@ -1,8 +1,8 @@
-# OSH Park ![OSH Park](OSH_Park_logo.png).
+# OSH Park [OSH_Park_logo](OSH_Park_logo.png).
 
 ## 26.004.00
 
-*DO NOT ORDER*
+**DO NOT ORDER** (Work In Progress).
 
 
 ## 26.006.00
@@ -18,10 +18,10 @@ Contains a connection (polarity) error on all operational amplifiers.
 
 ## 26.006.01
 
-Debugged PTH version.
+Debugged PTH version (**DO NOT ORDER** Work In Progress).
 
 
 ## 26.006.02
 
-First SMT version.
+First SMT version (**DO NOT ORDER** Work In Progress).
 
