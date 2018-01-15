@@ -10,7 +10,7 @@ all: \
 	list='$(DIRS)'; for subdir in $$list; do \
 		echo "Making $$target in $$subdir"; \
 		cd $$subdir; \
-		make; \
+		make -B all; \
 		cd ..; \
 	done;
 
