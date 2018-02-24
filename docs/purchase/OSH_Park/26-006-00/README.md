@@ -1,6 +1,6 @@
-#UNTESTED: Dual Band Pass Filter daughter board (PTH)
+# UNTESTED: Dual Band Pass Filter daughter board (PTH)
 
-##Bill Of Materials
+## Bill Of Materials
 
 refdes | value   | mfg       | mfg_PN                 | vendor | vendor_PN                                               | remarks
 -------|---------|-----------|------------------------|--------|---------------------------------------------------------|--------
