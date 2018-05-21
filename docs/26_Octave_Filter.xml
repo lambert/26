@@ -15,7 +15,7 @@
       </affiliation>
     </author>
 
-    <pubdate>20170813</pubdate>
+    <pubdate>20180521</pubdate>
   </bookinfo>
 
   <chapter>
@@ -30,8 +30,8 @@
       <para>This is done by using band pass filter and detector
       modules.</para>
 
-      <para>The modules are paired on a pcb, which is plugged into a socket
-      (female header).</para>
+      <para>The modules are paired on a daughter board pcb, which is plugged
+      into a socket (female header) on the main pcb.</para>
     </section>
 
     <section>
@@ -141,7 +141,7 @@
             <row>
               <entry>016</entry>
 
-              <entry>4 Hz band pass filter.</entry>
+              <entry>4 kHz band pass filter.</entry>
             </row>
 
             <row>
@@ -153,7 +153,7 @@
             <row>
               <entry>018</entry>
 
-              <entry>8 Hz band pass filter.</entry>
+              <entry>8 kHz band pass filter.</entry>
             </row>
 
             <row>
@@ -165,7 +165,7 @@
             <row>
               <entry>020</entry>
 
-              <entry>16 Hz band pass filter.</entry>
+              <entry>16 kHz band pass filter.</entry>
             </row>
 
             <row>
@@ -757,91 +757,69 @@
         <title>gnucap simulations.</title>
 
         <section>
-          <title>Schematic entry.</title>
+          <title>Schematic files (graphic representation only).</title>
 
-          <section>
-            <title>Schematic files.</title>
+          <para><table>
+              <title>Schematic files.</title>
 
-            <para><table>
-                <title>Schematic files.</title>
+              <tgroup cols="2">
+                <tbody>
+                  <row>
+                    <entry>ID</entry>
 
-                <tgroup cols="2">
-                  <tbody>
-                    <row>
-                      <entry>ID</entry>
+                    <entry>Description</entry>
+                  </row>
 
-                      <entry>Description</entry>
-                    </row>
+                  <row>
+                    <entry><ulink
+                    url="../ecad/gschem/26.006.00.02.01.sch">26.006.00.02.01.sch</ulink></entry>
 
-                    <row>
-                      <entry><ulink
-                      url="../ecad/gschem/26.006.00.01.51.sch">26.006.00.01.51.sch</ulink></entry>
+                    <entry>Octave Filter - First stage of the 31.5 Hz module
+                    (for simulation) | schematic.</entry>
+                  </row>
 
-                      <entry>Octave Filter 31.5 Hz module (for simulation) |
-                      schematic.</entry>
-                    </row>
+                  <row>
+                    <entry><ulink
+                    url="../ecad/gschem/26.006.00.03.01.sch">26.006.00.03.01.sch</ulink></entry>
 
-                    <row>
-                      <entry><ulink
-                      url="../ecad/gschem/26.006.00.01.52.sch">26.006.00.01.52.sch</ulink></entry>
+                    <entry>Octave Filter - Second stage of the 63 Hz module
+                    (for simulation) | schematic.</entry>
+                  </row>
 
-                      <entry>Octave Filter 63 Hz module (for simulation) |
-                      schematic.</entry>
-                    </row>
+                  <row>
+                    <entry><ulink
+                    url="../ecad/gschem/26.006.00.04.01.sch">26.006.00.04.01.sch</ulink></entry>
 
-                    <row>
-                      <entry><ulink
-                      url="../ecad/gschem/26.006.00.01.53.sch">26.006.00.01.53.sch</ulink></entry>
+                    <entry>Octave Filter - Third stage of the 63 Hz module
+                    (for simulation) | schematic.</entry>
+                  </row>
 
-                      <entry>Octave Filter 63 Hz module BPF (for simulation) |
-                      schematic.</entry>
-                    </row>
-                  </tbody>
-                </tgroup>
-              </table></para>
-          </section>
+                  <row>
+                    <entry><ulink
+                    url="../ecad/gschem/26.006.00.52.01.sch">26.006.00.52.01.sch</ulink></entry>
 
-          <section>
-            <title>Design Rule Check.</title>
+                    <entry>Octave Filter - First stage of the 63 Hz module
+                    (for simulation) | schematic.</entry>
+                  </row>
 
-            <para><table>
-                <title>Schematics DRC reports.</title>
+                  <row>
+                    <entry><ulink
+                    url="../ecad/gschem/26.006.00.53.01.sch">26.006.00.53.01.sch</ulink></entry>
 
-                <tgroup cols="2">
-                  <tbody>
-                    <row>
-                      <entry>ID</entry>
+                    <entry>Octave Filter - Second stage of the 63 Hz module
+                    (for simulation) | schematic.</entry>
+                  </row>
 
-                      <entry>Description</entry>
-                    </row>
+                  <row>
+                    <entry><ulink
+                    url="../ecad/gschem/26.006.00.54.01.sch">26.006.00.54.01.sch</ulink></entry>
 
-                    <row>
-                      <entry><ulink
-                      url="../ecad/gschem/DRC/26.006.00.01.51.sch.txt">26.006.00.01.51.sch.txt</ulink></entry>
-
-                      <entry>Octave Filter 31.5 Hz module (for simulation) |
-                      schematic.</entry>
-                    </row>
-
-                    <row>
-                      <entry><ulink
-                      url="../ecad/gschem/DRC/26.006.00.01.52.sch.txt">26.006.00.01.52.sch.txt</ulink></entry>
-
-                      <entry>Octave Filter 63 Hz module (for simulation) |
-                      schematic.</entry>
-                    </row>
-
-                    <row>
-                      <entry><ulink
-                      url="../ecad/gschem/DRC/26.006.00.01.53.sch.txt">26.006.00.01.53.sch.txt</ulink></entry>
-
-                      <entry>Octave Filter 63 Hz module BPF (for simulation) |
-                      schematic.</entry>
-                    </row>
-                  </tbody>
-                </tgroup>
-              </table></para>
-          </section>
+                    <entry>Octave Filter - Third stage of the 63 Hz module
+                    (for simulation) | schematic.</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table></para>
         </section>
 
         <section>
@@ -860,16 +838,32 @@
 
                   <row>
                     <entry><ulink
-                    url="../ecad/gnucap/26.006.00.01.51.ckt">26.006.00.01.51.ckt</ulink></entry>
+                    url="../ecad/gnucap/26.006.00.02.01.ckt">26.006.00.02.01.ckt</ulink></entry>
 
-                    <entry>31.5 Hz module circuit.</entry>
+                    <entry>31.5 Hz module circuit - Transient
+                    response.</entry>
                   </row>
 
                   <row>
                     <entry><ulink
-                    url="../ecad/gnucap/26.006.00.01.51.gnuplot">26.006.00.01.51.gnuplot</ulink></entry>
+                    url="../ecad/gnucap/26.006.00.02.02.ckt">26.006.00.02.02.ckt</ulink></entry>
 
-                    <entry>31.5 Hz module circuit.</entry>
+                    <entry>31.5 Hz module circuit - Frequency
+                    response.</entry>
+                  </row>
+
+                  <row>
+                    <entry><ulink
+                    url="../ecad/gnucap/26.006.00.52.01.ckt">26.006.00.52.01.ckt</ulink></entry>
+
+                    <entry>63 Hz module circuit - Transient response.</entry>
+                  </row>
+
+                  <row>
+                    <entry><ulink
+                    url="../ecad/gnucap/26.006.00.52.02.ckt">26.006.00.52.02.ckt</ulink></entry>
+
+                    <entry>63 Hz module circuit - Frequency response.</entry>
                   </row>
                 </tbody>
               </tgroup>
@@ -877,10 +871,10 @@
         </section>
 
         <section>
-          <title>Output files.</title>
+          <title>Data files.</title>
 
           <para><table>
-              <title>gnucap output files.</title>
+              <title>gnucap input files.</title>
 
               <tgroup cols="2">
                 <tbody>
@@ -892,20 +886,141 @@
 
                   <row>
                     <entry><ulink
-                    url="../ecad/gnucap/26.006.00.01.51.ckt">26.006.00.01.51.?</ulink></entry>
+                    url="../ecad/gnucap/26.006.00.02.01.dat">26.006.00.02.01.dat</ulink></entry>
 
-                    <entry>31.5 Hz module circuit.</entry>
+                    <entry>31.5 Hz module circuit - Transient
+                    response.</entry>
                   </row>
 
                   <row>
                     <entry><ulink
-                    url="../ecad/gnucap/26.006.00.01.51.gnuplot">26.006.00.01.51.??</ulink></entry>
+                    url="../ecad/gnucap/26.006.00.02.02.dat">26.006.00.02.02.dat</ulink></entry>
 
-                    <entry>31.5 Hz module circuit.</entry>
+                    <entry>31.5 Hz module circuit - Frequency
+                    response.</entry>
+                  </row>
+
+                  <row>
+                    <entry><ulink
+                    url="../ecad/gnucap/26.006.00.52.01.dat">26.006.00.52.01.dat</ulink></entry>
+
+                    <entry>63 Hz module circuit - Transient response.</entry>
+                  </row>
+
+                  <row>
+                    <entry><ulink
+                    url="../ecad/gnucap/26.006.00.52.02.dat">26.006.00.52.02.dat</ulink></entry>
+
+                    <entry>63 Hz module circuit - Frequency response.</entry>
                   </row>
                 </tbody>
               </tgroup>
             </table></para>
+        </section>
+
+        <section>
+          <title>Data processing files.</title>
+
+          <para><table>
+              <title>gnuplot data processing files.</title>
+
+              <tgroup cols="2">
+                <tbody>
+                  <row>
+                    <entry>ID</entry>
+
+                    <entry>Description</entry>
+                  </row>
+
+                  <row>
+                    <entry><ulink
+                    url="../ecad/gnucap/26.006.00.02.01.gnuplot">26.006.00.02.01.gnuplot</ulink></entry>
+
+                    <entry>31.5 Hz module circuit - Transient
+                    response.</entry>
+                  </row>
+
+                  <row>
+                    <entry><ulink
+                    url="../ecad/gnucap/26.006.00.02.02.gnuplot">26.006.00.02.02.gnuplot</ulink></entry>
+
+                    <entry>63 Hz module circuit - Frequency response.</entry>
+                  </row>
+
+                  <row>
+                    <entry><ulink
+                    url="../ecad/gnucap/26.006.00.52.01.gnuplot">26.006.00.52.01.gnuplot</ulink></entry>
+
+                    <entry>63 Hz module circuit - Transient response.</entry>
+                  </row>
+
+                  <row>
+                    <entry><ulink
+                    url="../ecad/gnucap/26.006.00.52.02.gnuplot">26.006.00.52.02.gnuplot</ulink></entry>
+
+                    <entry>63 Hz module circuit - Frequency response.</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table></para>
+        </section>
+
+        <section>
+          <title>Output files.</title>
+
+          <para><table>
+              <title>gnuplot output files.</title>
+
+              <tgroup cols="2">
+                <tbody>
+                  <row>
+                    <entry>ID</entry>
+
+                    <entry>Description</entry>
+                  </row>
+
+                  <row>
+                    <entry><ulink
+                    url="../ecad/gnucap/26.006.00.02.01.png">26.006.00.02.01.png</ulink></entry>
+
+                    <entry>Transient response of the first stage of the 31.5
+                    Hz module.</entry>
+                  </row>
+
+                  <row>
+                    <entry><ulink
+                    url="../ecad/gnucap/26.006.00.02.02.png">26.006.00.02.02.png</ulink></entry>
+
+                    <entry>Frequency response of the first stage of the 31.5
+                    Hz module.</entry>
+                  </row>
+
+                  <row>
+                    <entry><ulink
+                    url="../ecad/gnucap/26.006.00.52.01.png">26.006.00.52.01.png</ulink></entry>
+
+                    <entry>Transient response of the first stage of the 63 Hz
+                    module.</entry>
+                  </row>
+
+                  <row>
+                    <entry><ulink
+                    url="../ecad/gnucap/26.006.00.52.02.png">26.006.00.52.02.png</ulink></entry>
+
+                    <entry>Frequency response of the first stage of the 63 Hz
+                    module.</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table></para>
+        </section>
+
+        <section>
+          <title>Discussion of results.</title>
+
+          <para>All input files were processed with gnucap version 0.35 and
+          all data files were processed with gnuplot version 4.2 patchlevel
+          6.</para>
         </section>
       </section>
 
@@ -1709,12 +1824,22 @@
         <section>
           <title>OSH Park.</title>
 
+          <figure>
+            <title>OSH Park logo.</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="purchase/OSH_Park/OSH_Park_logo.jpg"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
+
           <para><emphasis role="bold">Fabrication Services.</emphasis></para>
 
-          <para>OSH Park is a community printed circuit board (PCB) order that
-          brings you high quality, lead-free boards which are manufactured in
-          the United States and shipped for free to anywhere in the
-          world.</para>
+          <para><ulink url="https://www.oshpark.com/">OSH Park</ulink> is a
+          community printed circuit board (PCB) order that brings you high
+          quality, lead-free boards which are manufactured in the United
+          States and shipped for free to anywhere in the world.</para>
 
           <para>We offer purple soldermask over bare copper (SMOBC) and an
           ENIG (Electroless Nickel Immersion Gold) finish.</para>
@@ -3740,6 +3865,133 @@
               </tbody>
             </tgroup>
           </table>.</para>
+      </section>
+
+      <section>
+        <title>Boards.</title>
+
+        <para/>
+
+        <section>
+          <title>26.001.00 Front panel.</title>
+
+          <para>Work In Progress.</para>
+        </section>
+
+        <section>
+          <title>26.002.00 Front pcb.</title>
+
+          <para>Work In Progress.</para>
+        </section>
+
+        <section>
+          <title>26.003.00 Main pcb.</title>
+
+          <para>Work In Progress.</para>
+        </section>
+
+        <section>
+          <title>26.004.00 Shielding pcb.</title>
+
+          <para><emphasis role="bold">**DO NOT ORDER**</emphasis> : Work In
+          Progress.</para>
+
+          <figure>
+            <title>Top view.</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="purchase/OSH_Park/26-004-00/26-004-00_top.png"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <figure>
+            <title>Bottom view.</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="purchase/OSH_Park/26-004-00/26-004-00_bottom.png"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </section>
+
+        <section>
+          <title>26.005.00 Strut pcb.</title>
+
+          <para>Work In Progress.</para>
+        </section>
+
+        <section>
+          <title>26.006.00 Band pass filter daughter board.</title>
+
+          <para>First PTH version.</para>
+
+          <para><emphasis role="bold">** DO NOT ORDER**</emphasis> : contains
+          a connection (polarity) error on all operational amplifiers.</para>
+
+          <figure>
+            <title>Top view.</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="purchase/OSH_Park/26-006-00/26-006-00_top.png"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <figure>
+            <title>Bottom view.</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="purchase/OSH_Park/26-006-00/26-006-00_bottom.png"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </section>
+
+        <section>
+          <title>26.006.01 Band pass filter daughter board.</title>
+
+          <para>Debugged PTH version.</para>
+
+          <para><emphasis role="bold">** DO NOT ORDER **</emphasis> : Work In
+          Progress.</para>
+
+          <figure>
+            <title>Top view.</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="purchase/OSH_Park/26-006-01/26-006-01_top.png"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <figure>
+            <title>Bottom view.</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="purchase/OSH_Park/26-006-01/26-006-01_bottom.png"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </section>
+
+        <section>
+          <title>26.006.02 Band pass filter daughter board.</title>
+
+          <para>Work In Progress.</para>
+        </section>
+
+        <section>
+          <title>26.007.00 Band pass filter daughter board.</title>
+
+          <para>Work In Progress.</para>
+        </section>
       </section>
 
       <section>
