@@ -1,5 +1,6 @@
 DIRS = \
 	gschem \
+	gnucap \
 	pcb
 
 .DEFAULT_GOAL := all
