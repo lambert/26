@@ -1,4 +1,4 @@
-# release: pcb 4.0.2
+# release: pcb 4.1.2
 
 # To read pcb files, the pcb version (or the git source date) must be >= the file version
 FileVersion[20091103]
@@ -1249,7 +1249,7 @@ Element["lock" "DIPS08300____.fp" "U651" "CA3140E" 4200.00mil 700.00mil -275.00m
 	ElementLine [-200.00mil -200.00mil 200.00mil -200.00mil 10.00mil]
 	ElementLine [-200.00mil 50.00mil -200.00mil 200.00mil 10.00mil]
 	ElementLine [-200.00mil -200.00mil -200.00mil -50.00mil 10.00mil]
-	ElementArc [-200.00mil 0.0000 50.00mil 50.00mil 90 180 10.00mil]
+	ElementArc [-200.00mil 0.0000 50.00mil 50.00mil 90.000000 180.000000 10.00mil]
 
 	)
 
@@ -1291,7 +1291,7 @@ Element["lock" "DIPS08300____.fp" "U653" "CA3140E" 5850.00mil 700.00mil 215.00mi
 	ElementLine [-200.00mil -200.00mil 200.00mil -200.00mil 10.00mil]
 	ElementLine [-200.00mil 50.00mil -200.00mil 200.00mil 10.00mil]
 	ElementLine [-200.00mil -200.00mil -200.00mil -50.00mil 10.00mil]
-	ElementArc [-200.00mil 0.0000 50.00mil 50.00mil 90 180 10.00mil]
+	ElementArc [-200.00mil 0.0000 50.00mil 50.00mil 90.000000 180.000000 10.00mil]
 
 	)
 
@@ -1315,7 +1315,7 @@ Element["lock" "DIPS08300____.fp" "U652" "CA3140E" 5050.00mil 700.00mil 225.00mi
 	ElementLine [-200.00mil -200.00mil 200.00mil -200.00mil 10.00mil]
 	ElementLine [-200.00mil 50.00mil -200.00mil 200.00mil 10.00mil]
 	ElementLine [-200.00mil -200.00mil -200.00mil -50.00mil 10.00mil]
-	ElementArc [-200.00mil 0.0000 50.00mil 50.00mil 90 180 10.00mil]
+	ElementArc [-200.00mil 0.0000 50.00mil 50.00mil 90.000000 180.000000 10.00mil]
 
 	)
 
@@ -1380,7 +1380,7 @@ Element["lock" "CAPPR200-500X1100____.fp" "C653" "1uF" 5750.00mil 1050.00mil -65
 	Pin[39.37mil 0.0000 54.00mil 30.00mil 54.00mil 32.00mil "-" "2" "edge2,thermal(0X,1X)"]
 	ElementLine [-216.53mil 0.0000 -137.79mil 0.0000 10.00mil]
 	ElementLine [-177.16mil -39.37mil -177.16mil 39.37mil 10.00mil]
-	ElementArc [0.01mil 0.0000 98.43mil 98.43mil 0 360 10.00mil]
+	ElementArc [0.01mil 0.0000 98.43mil 98.43mil 0.000000 360.000000 10.00mil]
 
 	)
 
@@ -1701,7 +1701,7 @@ Element["lock" "DIPS08300____.fp" "U601" "CA3140E" 1150.00mil 700.00mil -275.00m
 	ElementLine [-200.00mil -200.00mil 200.00mil -200.00mil 10.00mil]
 	ElementLine [-200.00mil 50.00mil -200.00mil 200.00mil 10.00mil]
 	ElementLine [-200.00mil -200.00mil -200.00mil -50.00mil 10.00mil]
-	ElementArc [-200.00mil 0.0000 50.00mil 50.00mil 90 180 10.00mil]
+	ElementArc [-200.00mil 0.0000 50.00mil 50.00mil 90.000000 180.000000 10.00mil]
 
 	)
 
@@ -1743,7 +1743,7 @@ Element["lock" "DIPS08300____.fp" "U603" "CA3140E" 2800.00mil 700.00mil 215.00mi
 	ElementLine [-200.00mil -200.00mil 200.00mil -200.00mil 10.00mil]
 	ElementLine [-200.00mil 50.00mil -200.00mil 200.00mil 10.00mil]
 	ElementLine [-200.00mil -200.00mil -200.00mil -50.00mil 10.00mil]
-	ElementArc [-200.00mil 0.0000 50.00mil 50.00mil 90 180 10.00mil]
+	ElementArc [-200.00mil 0.0000 50.00mil 50.00mil 90.000000 180.000000 10.00mil]
 
 	)
 
@@ -1767,7 +1767,7 @@ Element["lock" "DIPS08300____.fp" "U602" "CA3140E" 2000.00mil 700.00mil 225.00mi
 	ElementLine [-200.00mil -200.00mil 200.00mil -200.00mil 10.00mil]
 	ElementLine [-200.00mil 50.00mil -200.00mil 200.00mil 10.00mil]
 	ElementLine [-200.00mil -200.00mil -200.00mil -50.00mil 10.00mil]
-	ElementArc [-200.00mil 0.0000 50.00mil 50.00mil 90 180 10.00mil]
+	ElementArc [-200.00mil 0.0000 50.00mil 50.00mil 90.000000 180.000000 10.00mil]
 
 	)
 
@@ -1850,7 +1850,7 @@ Element["lock" "CAPPR200-500X1100____.fp" "C603" "1uF" 2700.00mil 1050.00mil -65
 	Pin[39.37mil 0.0000 54.00mil 30.00mil 54.00mil 32.00mil "-" "2" "lock,edge2,thermal(0X,1X)"]
 	ElementLine [-216.53mil 0.0000 -137.79mil 0.0000 10.00mil]
 	ElementLine [-177.16mil -39.37mil -177.16mil 39.37mil 10.00mil]
-	ElementArc [0.01mil 0.0000 98.43mil 98.43mil 0 360 10.00mil]
+	ElementArc [0.01mil 0.0000 98.43mil 98.43mil 0.000000 360.000000 10.00mil]
 
 	)
 
@@ -2531,7 +2531,7 @@ Layer(7 "top silk" "silk")
 	Text[2950.00mil 1400.00mil 0 100 "open source" "clearline"]
 	Text[3000.00mil 1495.00mil 0 100 "hardware" "clearline"]
 	Text[3405.00mil 1250.00mil 0 100 "Dual Band Pass Filter Unit" "clearline"]
-	Text[3405.00mil 1405.00mil 0 100 "Copyright (C) 2017 Bert Timmerman" "clearline"]
+	Text[3405.00mil 1405.00mil 0 100 "Copyright (C) 2018 Bert Timmerman" "clearline"]
 	Text[3405.00mil 1330.00mil 0 100 "26.006.01.01.01" "clearline"]
 	Polygon("pin,via")
 	(
