@@ -8,7 +8,6 @@ ecad/gschem/geda_netlist
 ecad/gschem/pcb_netlist
 ecad/gschem/plotfiles
 ecad/pcb/bom
-ecad/pcb/eyecandy
 ecad/pcb/fab
 ecad/pcb/plotfiles
 ecad/pcb/pnp
