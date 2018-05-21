@@ -24,37 +24,37 @@ mfg=UNI-OHM
 }
 N 8600 9800 8300 9800 4
 N 9500 9800 10000 9800 4
-C 3800 11200 1 0 1 DB31-1.sym
+C 3100 11200 1 0 1 DB31-1.sym
 {
-T 2200 21400 5 10 1 1 0 0 1
+T 1500 21400 5 10 1 1 0 0 1
 refdes=P300
-T 3800 11200 5 10 0 1 0 0 1
+T 3100 11200 5 10 0 1 0 0 1
 device=CONNECTOR
-T 3800 11200 5 10 0 1 0 0 1
+T 3100 11200 5 10 0 1 0 0 1
 footprint=CON-DIN41617-31N_Assmann_A-31-S1_DIN41617_male.fp
-T 2200 21200 5 10 1 1 0 0 1
+T 1500 21200 5 10 1 1 0 0 1
 value=DIN41617 31p
-T 3800 11200 5 10 0 1 0 0 1
+T 3100 11200 5 10 0 1 0 0 1
 vendor=Conrad
-T 3800 11200 5 10 0 1 0 0 1
+T 3100 11200 5 10 0 1 0 0 1
 mfg=Assmann
-T 3800 11200 5 10 0 1 0 0 1
+T 3100 11200 5 10 0 1 0 0 1
 mfg_PN=A-31-S1
-T 3800 11200 5 10 0 1 0 0 1
+T 3100 11200 5 10 0 1 0 0 1
 price=5.12
-T 3800 11200 5 10 0 1 0 0 1
+T 3100 11200 5 10 0 1 0 0 1
 vendor_PN=740560
-T 3800 11200 5 10 0 1 0 0 1
+T 3100 11200 5 10 0 1 0 0 1
 comment=silver/male
 }
-N 3700 11700 5400 11700 4
+N 3000 11700 5400 11700 4
 {
-T 1300 11700 5 10 1 1 0 0 1
+T 600 11700 5 10 1 1 0 0 1
 netname=BUS_31
 }
-N 3700 12300 4000 12300 4
+N 3000 12300 4000 12300 4
 {
-T 1300 12300 5 10 1 1 0 0 1
+T 600 12300 5 10 1 1 0 0 1
 netname=BUS_29
 }
 N 4000 12300 4000 21200 4
@@ -172,9 +172,9 @@ N 11000 9600 16800 9600 4
 N 11200 9400 11200 9600 4
 N 11200 8500 11200 8300 4
 N 11200 8300 9800 8300 4
-N 3700 12000 6200 12000 4
+N 3000 12000 6200 12000 4
 {
-T 1300 12000 5 10 1 1 0 0 1
+T 600 12000 5 10 1 1 0 0 1
 netname=BUS_30
 }
 N 10200 5200 10200 5000 4
@@ -635,7 +635,7 @@ pages=01
 T 26400 600 5 10 1 1 0 0 1
 file=26.003.00.01.01.sch
 T 30300 600 5 10 1 1 0 0 1
-revision=20170716
+revision=20180513
 T 30300 300 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 26400 900 5 10 1 1 0 0 1
@@ -643,7 +643,7 @@ device=OCTAVE_FILTER
 T 26400 1100 5 10 1 1 0 0 1
 comment=schematic
 T 26400 1300 5 10 1 1 0 0 1
-description=Octave Filter main pcb (DFM)
+description=Octave Filter - Main pcb (DFM)
 }
 N 27900 14800 29800 14800 4
 {
@@ -757,10 +757,7 @@ netname=S102COM
 }
 N 13400 19800 13400 20000 4
 C 12300 18200 1 0 0 gnd-1.sym
-N 29600 18800 29800 18800 4
-C 29300 19300 1 270 0 gnd-1.sym
-N 29600 19200 29800 19200 4
-N 29600 19600 29800 19600 4
+C 29500 19300 1 270 0 gnd-1.sym
 C 29700 8700 1 0 0 CON-SIL-254P-31.sym
 {
 T 30500 21700 5 10 1 1 0 6 1
@@ -1092,8 +1089,8 @@ comment=X7R
 }
 N 11000 5100 11000 5000 4
 N 10200 5100 11000 5100 4
-C 29600 18600 1 90 0 15V-minus.sym
-C 29600 19400 1 90 0 15V-plus.sym
+C 29800 18600 1 90 0 15V-minus.sym
+C 29800 19400 1 90 0 15V-plus.sym
 C 23300 16900 1 0 0 15V-minus.sym
 C 20900 16900 1 0 0 15V-plus.sym
 C 26800 17000 1 0 0 15V-plus.sym
@@ -1300,4 +1297,200 @@ T 20300 6800 5 10 0 1 0 0 1
 vendor_PN=719755
 T 20300 6800 5 10 0 1 0 0 1
 comment=female
+}
+C 3000 12500 1 0 0 nc-right-1.sym
+{
+T 3100 13000 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 13200 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 12800 1 0 0 nc-right-1.sym
+{
+T 3100 13300 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 13500 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 13100 1 0 0 nc-right-1.sym
+{
+T 3100 13600 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 13800 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 13400 1 0 0 nc-right-1.sym
+{
+T 3100 13900 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 14100 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 13700 1 0 0 nc-right-1.sym
+{
+T 3100 14200 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 14400 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 14000 1 0 0 nc-right-1.sym
+{
+T 3100 14500 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 14700 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 14300 1 0 0 nc-right-1.sym
+{
+T 3100 14800 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 15000 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 14600 1 0 0 nc-right-1.sym
+{
+T 3100 15100 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 15300 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 14900 1 0 0 nc-right-1.sym
+{
+T 3100 15400 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 15600 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 15200 1 0 0 nc-right-1.sym
+{
+T 3100 15700 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 15900 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 15500 1 0 0 nc-right-1.sym
+{
+T 3100 16000 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 16200 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 15800 1 0 0 nc-right-1.sym
+{
+T 3100 16300 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 16500 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 16100 1 0 0 nc-right-1.sym
+{
+T 3100 16600 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 16800 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 16400 1 0 0 nc-right-1.sym
+{
+T 3100 16900 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 17100 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 16700 1 0 0 nc-right-1.sym
+{
+T 3100 17200 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 17400 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 17000 1 0 0 nc-right-1.sym
+{
+T 3100 17500 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 17700 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 17300 1 0 0 nc-right-1.sym
+{
+T 3100 17800 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 18000 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 17600 1 0 0 nc-right-1.sym
+{
+T 3100 18100 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 18300 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 17900 1 0 0 nc-right-1.sym
+{
+T 3100 18400 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 18600 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 18200 1 0 0 nc-right-1.sym
+{
+T 3100 18700 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 18900 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 18500 1 0 0 nc-right-1.sym
+{
+T 3100 19000 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 19200 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 18800 1 0 0 nc-right-1.sym
+{
+T 3100 19300 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 19500 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 19100 1 0 0 nc-right-1.sym
+{
+T 3100 19600 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 19800 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 19400 1 0 0 nc-right-1.sym
+{
+T 3100 19900 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 20100 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 19700 1 0 0 nc-right-1.sym
+{
+T 3100 20200 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 20400 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 20000 1 0 0 nc-right-1.sym
+{
+T 3100 20500 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 20700 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 20300 1 0 0 nc-right-1.sym
+{
+T 3100 20800 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 21000 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 3000 20600 1 0 0 nc-right-1.sym
+{
+T 3100 21100 5 10 0 0 0 0 1
+value=NoConnection
+T 3100 21300 5 10 0 0 0 0 1
+device=DRC_Directive
 }
