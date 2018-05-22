@@ -1,12 +1,13 @@
 # setup terminal
 set term png
-set output "26.007.00.52.02.png"
 
-#setup graph
+# setup graph
+set output "26.007.00.52.02.png"
 set title "Frequency response"
 
 # setup Y-axis
 set grid ytics lt 1 lw 1 lc rgb "#bbbbbb"
+set mytics
 set ylabel "[dB]"
 
 #setup X-axis
