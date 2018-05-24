@@ -788,14 +788,6 @@
 
                   <row>
                     <entry><ulink
-                    url="../ecad/gschem/26.006.00.04.01.sch">26.006.00.04.01.sch</ulink></entry>
-
-                    <entry>Octave Filter - Third stage of the 63 Hz module
-                    (for simulation) | schematic.</entry>
-                  </row>
-
-                  <row>
-                    <entry><ulink
                     url="../ecad/gschem/26.006.00.52.01.sch">26.006.00.52.01.sch</ulink></entry>
 
                     <entry>Octave Filter - First stage of the 63 Hz module
@@ -807,14 +799,6 @@
                     url="../ecad/gschem/26.006.00.53.01.sch">26.006.00.53.01.sch</ulink></entry>
 
                     <entry>Octave Filter - Second stage of the 63 Hz module
-                    (for simulation) | schematic.</entry>
-                  </row>
-
-                  <row>
-                    <entry><ulink
-                    url="../ecad/gschem/26.006.00.54.01.sch">26.006.00.54.01.sch</ulink></entry>
-
-                    <entry>Octave Filter - Third stage of the 63 Hz module
                     (for simulation) | schematic.</entry>
                   </row>
                 </tbody>
@@ -840,30 +824,56 @@
                     <entry><ulink
                     url="../ecad/gnucap/26.006.00.02.01.ckt">26.006.00.02.01.ckt</ulink></entry>
 
-                    <entry>31.5 Hz module circuit - Transient
-                    response.</entry>
+                    <entry>31.5 Hz module circuit - First stage - Transient
+                    response 0-0.2 sec.</entry>
                   </row>
 
                   <row>
                     <entry><ulink
                     url="../ecad/gnucap/26.006.00.02.02.ckt">26.006.00.02.02.ckt</ulink></entry>
 
-                    <entry>31.5 Hz module circuit - Frequency
-                    response.</entry>
+                    <entry>31.5 Hz module circuit - First stage - Frequency
+                    response 0.1-100kHz.</entry>
+                  </row>
+
+                  <row>
+                    <entry><ulink
+                    url="../ecad/gnucap/26.006.00.03.01.ckt">26.006.00.03.01.ckt</ulink></entry>
+
+                    <entry>31.5 Hz module circuit - Second stage - Transient
+                    response 0-0.04 sec.</entry>
+                  </row>
+
+                  <row>
+                    <entry><ulink
+                    url="../ecad/gnucap/26.006.00.03.02.ckt">26.006.00.03.02.ckt</ulink></entry>
+
+                    <entry>31.5 Hz module circuit - Second stage - Frequency
+                    response 0.1-100kHz.</entry>
+                  </row>
+
+                  <row>
+                    <entry><ulink
+                    url="../ecad/gnucap/26.006.00.03.03.ckt">26.006.00.03.03.ckt</ulink></entry>
+
+                    <entry>31.5 Hz module circuit - Second stage - Transient
+                    response 0-0.4 sec.</entry>
                   </row>
 
                   <row>
                     <entry><ulink
                     url="../ecad/gnucap/26.006.00.52.01.ckt">26.006.00.52.01.ckt</ulink></entry>
 
-                    <entry>63 Hz module circuit - Transient response.</entry>
+                    <entry>63 Hz module circuit - First stage - Transient
+                    response 0-0.2 sec.</entry>
                   </row>
 
                   <row>
                     <entry><ulink
                     url="../ecad/gnucap/26.006.00.52.02.ckt">26.006.00.52.02.ckt</ulink></entry>
 
-                    <entry>63 Hz module circuit - Frequency response.</entry>
+                    <entry>63 Hz module circuit - Frequency response 0-100
+                    kHz.</entry>
                   </row>
                 </tbody>
               </tgroup>
@@ -874,7 +884,7 @@
           <title>Data files.</title>
 
           <para><table>
-              <title>gnucap input files.</title>
+              <title>gnucap output files.</title>
 
               <tgroup cols="2">
                 <tbody>
@@ -922,7 +932,7 @@
           <title>Data processing files.</title>
 
           <para><table>
-              <title>gnuplot data processing files.</title>
+              <title>gnuplot data post-processing files.</title>
 
               <tgroup cols="2">
                 <tbody>
@@ -1021,6 +1031,67 @@
           <para>All input files were processed with gnucap version 0.35 and
           all data files were processed with gnuplot version 4.2 patchlevel
           6.</para>
+
+          <section>
+            <title>26.006.00.</title>
+
+            <para/>
+
+            <figure>
+              <title>31.5 Hz module circuit - First stage - Transient response
+              0-0.2 sec.</title>
+
+              <mediaobject>
+                <imageobject>
+                  <imagedata fileref="../ecad/gnucap/26.006.00.02.01.png"/>
+                </imageobject>
+              </mediaobject>
+            </figure>
+
+            <figure>
+              <title>31.5 Hz module circuit - First stage - Frequency response
+              0.1-100kHz.</title>
+
+              <mediaobject>
+                <imageobject>
+                  <imagedata fileref="../ecad/gnucap/26.006.00.02.02.png"/>
+                </imageobject>
+              </mediaobject>
+            </figure>
+
+            <figure>
+              <title>31.5 Hz module circuit - Second stage - Transient
+              response 0-0.04 sec.</title>
+
+              <mediaobject>
+                <imageobject>
+                  <imagedata fileref="../ecad/gnucap/26.006.00.03.01.png"/>
+                </imageobject>
+              </mediaobject>
+            </figure>
+
+            <figure>
+              <title>31.5 Hz module circuit - Second stage - Frequency
+              response 0.1-100kHz.</title>
+
+              <mediaobject>
+                <imageobject>
+                  <imagedata fileref="../ecad/gnucap/26.006.00.03.02.png"/>
+                </imageobject>
+              </mediaobject>
+            </figure>
+
+            <figure>
+              <title>31.5 Hz module circuit - Second stage - Transient
+              response 0-0.4 sec.</title>
+
+              <mediaobject>
+                <imageobject>
+                  <imagedata fileref="../ecad/gnucap/26.006.00.03.03.png"/>
+                </imageobject>
+              </mediaobject>
+            </figure>
+          </section>
         </section>
       </section>
 
