@@ -2,6 +2,7 @@
 docs/*~
 docs/*.html
 docs/*.pdf
+ecad/gnucap/*.dat
 ecad/gschem/BOM
 ecad/gschem/DRC
 ecad/gschem/geda_netlist
