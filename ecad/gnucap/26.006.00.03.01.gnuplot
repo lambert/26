@@ -3,24 +3,22 @@ set term png
 
 # setup graph
 set output "26.006.00.03.01.png"
-set title "Transient response @ 31.5 Hz"
+set title "31.5 Hz module Detector stage - Frequency response"
 
 # setup Y-axis
-set yrange [-15:15]
 set grid ytics lt 1 lw 1 lc rgb "#bbbbbb"
 set mytics
-set ylabel "Voltage [V]"
+set ylabel "[dB]"
 
-# setup X-axis
+#setup X-axis
+set logscale x 10
 set grid xtics lt 1 lw 1 lc rgb "#bbbbbb"
-set mxtics
-set xlabel "Time [sec]"
+set xlabel "Frequency [Hz]"
 
 # setup plot style
 set style data lines
-plot '26.006.00.03.01.dat' using 1:2 title "Vin", \
-     '26.006.00.03.01.dat' using 1:3 title "Vopamp1", \
-     '26.006.00.03.01.dat' using 1:4 title "Vout"
+plot '26.006.00.03.01.dat' using 1:2 title "Vout1", \
+     '26.006.00.03.01.dat' using 1:3 title "Vout2"
 
 # set output back to default
 set output
