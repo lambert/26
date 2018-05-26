@@ -14,7 +14,6 @@ set ylabel "Voltage [V]"
 # setup X-axis
 set grid xtics lt 1 lw 1 lc rgb "#bbbbbb"
 set mxtics
-set xrange [0:0.2]
 set xlabel "Time [sec]"
 
 # setup plot style
