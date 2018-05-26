@@ -3,7 +3,7 @@ set term png
 
 # set graph
 set output "26.006.00.52.02-2.png"
-set title "63 Hz module BPF stage - Transient response"
+set title "63 Hz section BPF stage - Transient response"
 
 # setup Y-axis
 set yrange [-15:15]

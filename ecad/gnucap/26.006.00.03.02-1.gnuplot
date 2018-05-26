@@ -3,7 +3,7 @@ set term png
 
 # setup graph
 set output "26.006.00.03.02-1.png"
-set title "31.5 Kz module Detector stage - Transient response"
+set title "31.5 Kz section Detector stage - Transient response"
 
 # setup Y-axis
 set yrange [-15:15]

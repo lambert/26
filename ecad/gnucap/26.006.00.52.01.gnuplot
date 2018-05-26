@@ -3,7 +3,7 @@ set term png
 
 # setup graph
 set output "26.006.00.52.01.png"
-set title "63 Hz module BPF stage - Frequency response"
+set title "63 Hz section BPF stage - Frequency response"
 
 # setup Y-axis
 set grid ytics lt 1 lw 1 lc rgb "#bbbbbb"

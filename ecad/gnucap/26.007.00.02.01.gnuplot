@@ -1,25 +1,23 @@
-# set terminal
+# setup terminal
 set term png
 
-# set graph
+# setup graph
 set output "26.007.00.02.01.png"
-set title "Transient response @ 125 Hz"
+set title "125 Hz section BPF stage - Frequency response"
 
 # setup Y-axis
-set yrange [-15:15]
 set grid ytics lt 1 lw 1 lc rgb "#bbbbbb"
 set mytics
-set ylabel "Voltage [V]"
+set ylabel "[dB]"
 
-# setup X-axis
+#setup X-axis
+set logscale x 10
 set grid xtics lt 1 lw 1 lc rgb "#bbbbbb"
-set mxtics
-set xlabel "Time [sec]"
+set xlabel "Frequency [Hz]"
 
 # setup plot style
 set style data lines
-plot '26.007.00.02.01.dat' using 1:2 title "Vin", \
-     '26.007.00.02.01.dat' using 1:3 title "Vout"
+plot '26.007.00.02.01.dat' using 1:2 title "Vout"
 
 # set output back to default
 set output

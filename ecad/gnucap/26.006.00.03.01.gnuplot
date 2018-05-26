@@ -3,7 +3,7 @@ set term png
 
 # setup graph
 set output "26.006.00.03.01.png"
-set title "31.5 Hz module Detector stage - Frequency response"
+set title "31.5 Hz section Detector stage - Frequency response"
 
 # setup Y-axis
 set grid ytics lt 1 lw 1 lc rgb "#bbbbbb"
