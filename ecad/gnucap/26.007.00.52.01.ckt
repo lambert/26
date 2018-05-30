@@ -61,7 +61,7 @@ VE 25 5 2.803238E+00
 .PRINT AC VDB(3)
 
 *     FROM      TO   STEP
-.TRAN 0.00001S  0.2S 0.0001S
+.TRAN 0.00001   0.2  0.0001
 
 *       #STEPS/DECADE FROM   TO 
 .AC DEC 20            0.1    100k
