@@ -8,6 +8,7 @@ ecad/gschem/DRC
 ecad/gschem/geda_netlist
 ecad/gschem/pcb_netlist
 ecad/gschem/plotfiles
+ecad/gschem/*~
 ecad/pcb/bom
 ecad/pcb/fab
 ecad/pcb/plotfiles
