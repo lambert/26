@@ -9,7 +9,8 @@ LAYOUTS = \
 	26.006.00.01.01.pcb \
 	26.006.01.01.01.pcb \
 	26.006.02.01.01.pcb \
-	26.007.01.01.01.pcb
+	26.007.01.01.01.pcb \
+	26.999.00.01.01.pcb
 
 notarget:
 	@echo "Please specify a target:"
@@ -72,7 +73,7 @@ test: $(LAYOUTS)
 
 .DEFAULT_GOAL := notarget
 
-all: bom gerber eyecandy ps
+all: bom gerber eyecandy ps test
 
 # EOF #
 
