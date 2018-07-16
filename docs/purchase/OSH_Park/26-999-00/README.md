@@ -66,7 +66,7 @@ We have more info on our [drills help page](http://docs.oshpark.com/submitting-o
 
 Rendered from "26.999.00.01.01.GBO"
 
-![Bottom Silk Screen](26-999-00_bottom silk screen.png)
+![Bottom Silk Screen](26-999-00_bottom\ silk\ screen.png)
 
 This layer should appear 'mirrored' as if you were looking down on it through the board from the top. 
 
@@ -78,7 +78,7 @@ If a logo isn't showing up on this layer, try changing your design tool import s
 
 ## Top Solder Mask
 
-![Top Solder Mask](26-999-00_top solder mask.png)
+![Top Solder Mask](26-999-00_top\ solder\ mask.png)
 
 Rendered from "26.999.00.01.01.GTS"
 
@@ -90,7 +90,7 @@ To expose the entire board, submit this file with a single polygon that covers t
 
 ## Bottom Layer
 
-![Bottom Layer](26-999-00_bottom copper.png)
+![Bottom Layer](26-999-00_bottom\ copper.png)
 
 Rendered from "26.999.00.01.01.GBL"
 
@@ -106,7 +106,7 @@ See our [design tools pages](http://docs.oshpark.com/design-tools/) for more.
 
 ## Bottom Solder Mask
 
-![Bottom Solder Mask](26-999-00_bottom solder mask.png)
+![Bottom Solder Mask](26-999-00_bottom\ solder\ mask.png)
 
 Rendered from "26.999.00.01.01.GBS"
 
@@ -120,7 +120,7 @@ To expose the entire board, submit this file with a single polygon that covers t
  
 ## Board Outline
 
-![Board Outline](26-999-00_board outline.png)
+![Board Outline](26-999-00_board\ outline.png)
 
 Rendered from "26.999.00.01.01.GKO"
 
@@ -136,7 +136,7 @@ We don’t offically support cutouts or plated slots, but they usually come out 
 
 Rendered from "26.999.00.01.01.GTO"
 
-![Top Silk Screen](26-999-00_top silk screen.png)
+![Top Silk Screen](26-999-00_top\ silk\ screen.png)
 
 We will ignore the portion of the silkscreen that extends beyond the board outline. 
 
@@ -148,7 +148,7 @@ If a logo isn't showing up on this layer, try changing your design tool import s
 
 Rendered from "26.999.00.01.01.GTL"
 
-![Top Layer](26-999-00_top copper.png)
+![Top Layer](26-999-00_top\ copper.png)
 
 We will place copper everywhere we see gold color on this layer. 
 
