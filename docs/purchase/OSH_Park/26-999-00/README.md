@@ -1,3 +1,24 @@
+# 26.999.00.01.01
+
+![Top Large](26-999-00_top_large.png)
+
+Top.
+
+![Bottom Large](26-999-00_bottom_large.png)
+
+Bottom.
+
+2 layer board of 0.41 x 0.41 inches (10.4 x 10.4 mm)
+
+Uploaded: June 29th, 2018 18:09
+
+Total price: $0.80 (3 pieces)
+
+Previous orders:
+
+- July 8th, 2018 (PROCESSING)
+
+
 # UNTESTED: SOIC8 - DIP08300 Breakout Board
 
 ## Bill Of Materials
