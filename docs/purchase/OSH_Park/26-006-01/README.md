@@ -1,3 +1,19 @@
+# 26.006.01.01.01
+
+![Top Large](26-006-01_top_large.png)
+
+Top.
+
+![Bottom Large](26-006-01_bottom_large.png)
+
+Bottom.
+
+2 layer board of 6.13 x 1.58 inches (155.8 x 40.2 mm)
+
+Uploaded: August 26th, 2017 20:48
+
+Total price: $48.50 (3 pieces)
+
 # UNTESTED: Dual Band Pass Filter daughter board (PTH) rev. 1.
 
 ## Bill Of Materials
