@@ -46,7 +46,7 @@ Bottom view:
 
 [Project description](26-999-00/README.md)
 
-[Download](26-999-00/26-999-00.zip)
+[Download](https://644db4de3505c40a0444-327723bce298e3ff5813fb42baeefbaa.ssl.cf1.rackcdn.com/28610e09c89701eb2a626645b83d8dd6.zip)
 
 [![Order board](badge.png)](https://oshpark.com/shared_projects/yK5TL8nq/order)
 
