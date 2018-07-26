@@ -16,7 +16,7 @@ Total price: $0.80 (3 pieces)
 
 Previous orders:
 
-- July 8th, 2018 (PROCESSING)
+- July 8th, 2018 (SHIPPED)
 
 
 # UNTESTED: SOIC8 - DIP08300 Breakout Board
