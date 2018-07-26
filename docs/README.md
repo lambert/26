@@ -134,6 +134,8 @@ resulting connectivity of nets in a structured list.
 
 ### Calculations.
 
+...
+
 ### Simulations.
 
 #### gnucap simulations.
@@ -292,32 +294,53 @@ Visualization was done with Fritzing version 0.6.3 (b08.16).
 
 #### Schematic files.
 
-####Design Rule Check.
+...
+
+#### Design Rule Check.
+
+...
 
 #### Netlists.
-Connectivity for the pcb layout editor.
 
-Pin renaming for the pcb layout editor.
+Connectivity for the pcb layout editor is generated with gnetlist from
+the schematics.
+
+Pin renaming for the pcb layout editor is generated with gnetlist from
+the schematics.
 
 #### Bill Of Materials.
+
+...
 
 ### Printed Circuit Board design.
 
 #### Layout files.
 
+![link to layout files](../ecad/pcb/)
+
 #### Visual Testing files.
+
+![link to eyecandy](../ecad/pcb/eyecandy/)
 
 #### Design Rules Check.
 
-<reports go here>
+...
 
 #### Gerber files.
 
+...
+
 #### Bill Of Materials.
+
+...
 
 #### Pick-and-Place files.
 
+...
+
 #### IPC-D-356 netlist files.
+
+...
 
 ## Manufacturing.
 
@@ -325,8 +348,32 @@ Pin renaming for the pcb layout editor.
 
 #### Quotations.
 
+...
+
 #### OSH Park.
 
-![OSH Park logo](purchase/OSH_Park/OSH_Park_logo.jpg)
+![link to OSH Park directory](purchase/OSH_Park/)
+
+#### QA/QC Testing.
+
+...
+
+### Printed Circuit Assembly.
+
+#### Quotations.
+
+...
+
+#### Purchase Orders.
+
+...
+
+#### QA/QC Testing.
+
+...
+
+## Testing and Test Records.
+
+...
 
 
