@@ -376,4 +376,40 @@ the schematics.
 
 ...
 
+# Appendix A: Pinout DIN 41617 31-pin connector.
+
+Pin | Netname        | Description                      |
+----|----------------|----------------------------------|
+1   | MUX_OUT        | Multiplexer output               |
+2   | REG_OUT        | Storage register output          |
+3   | DB_OUT         | dB output                        |
+4   | NOISE_OUT      | Noise Generator output           |
+5   | RFUNCGEN_OUT   | Random Function Generator output |
+6   | AM_OUT         | AM output                        |
+7   | BURST_OUT      | Burst Generator output           |
+8   | SWEEP_OUT      | Sweep Generator output           |
+9   | FUNC_OUT       | Function Generator output        |
+10  | AMPL_OUT       | Amplitude output                 |
+11  | FUNC_0CR       | Function Generator zero crossing |
+12  | SWEEP_SYNC     | Sweep synchronisation            |
+13  | BURST_OUT      | Burst synchronisation            |
+14  | DP_CODE        | Decimal Point code               |
+15  | CH_DBL         | Channel doubleing                |
+16  | MUX_CLOCK      | Multiplexer clock                |
+17  | MUX_RESET      | Multiplexer reset                |
+18  | INHIBIT        | +/- inhibit                      |
+19  | DM_IN          | Digital Meter input              |
+20  | DM_COMMON      | Digital Meter common             |
+21  | LM_IN          | LED Meter input                  |
+22  | LM_COMMON      | LED Meter common                 |
+23  | NEG_UVAR       | -Uvar                            |
+24  | POS_UVAR       | +Uvar                            |
+25  | POS_U          | +U                               |
+26  | NEG_U          | -U                               |
+27  | MAINS_230VAC_F | Mains supply 230 V AC phase      |
+28  | MAINS_230VAC_N | Mains supply 230 V AC neutral    |
+29  | NEG_15VDC      | -15 V DC                         |
+30  | GND            | Ground                           |
+31  | POS_15VDC      | +15 V DC                         |
+
 
