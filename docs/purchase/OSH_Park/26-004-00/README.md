@@ -8,12 +8,11 @@ Top.
 
 Bottom.
 
-2 layer board of 6.13 x 1.58 inches (155.8 x 40.2 mm)
+2 layer board of 6.31 x 3.55 inches (160.3 x 90.3 mm).
 
-Uploaded: July 17th, 2018 ..:..
+Uploaded: July 26th, 2018 15:26.
 
-Total price: $ (3 pieces)
-
+Total Price: $112.10 (3 pieces).
 
 # Main board cover and shielding
 
