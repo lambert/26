@@ -1,0 +1,22 @@
+G04 start of page 8 for group -4062 idx -4062 *
+G04 Title: 26.001.00.01.01.pcb, soldermask *
+G04 Creator: pcb 4.1.2 *
+G04 CreationDate: Sun Jul 29 08:17:15 2018 UTC *
+G04 For: bert *
+G04 Format: Gerber/RS-274X *
+G04 PCB-Dimensions (mil): 2078.74 5078.74 *
+G04 PCB-Coordinate-Origin: lower left *
+%MOIN*%
+%FSLAX25Y25*%
+%LNGBS*%
+%ADD27C,0.0200*%
+%ADD26C,0.4000*%
+%ADD25C,0.1260*%
+G54D25*X80709Y149606D03*
+Y472441D03*
+G54D26*X120079Y311024D03*
+G54D27*X80709Y429134D03*
+X41339D03*
+X120079D03*
+Y192913D03*
+M02*

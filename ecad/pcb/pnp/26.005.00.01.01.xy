@@ -1,0 +1,11 @@
+# PcbXY Version 1.0
+# Date: Sun 29 Jul 2018 08:17:14 AM GMT UTC
+# Author: Bert Timmerman
+# Title: 26.005.00.01.01 - PCB X-Y
+# RefDes, Description, Value, X, Y, rotation, top/bottom
+# X,Y in mm.  rotation in degrees.
+# --------------------------------------------
+p3,"PIN165X102____.fp","unknown",6.50,42.00,0,top
+p4,"PIN165X102____.fp","unknown",6.50,13.00,0,top
+p1,"PIN165X102____.fp","unknown",13.00,6.50,0,top
+p2,"PIN165X102____.fp","unknown",42.00,6.50,0,top

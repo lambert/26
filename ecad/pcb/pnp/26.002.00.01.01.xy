@@ -1,0 +1,22 @@
+# PcbXY Version 1.0
+# Date: Sun 29 Jul 2018 08:17:14 AM GMT UTC
+# Author: Bert Timmerman
+# Title: 26.002.00.01.01.pcb - PCB X-Y
+# RefDes, Description, Value, X, Y, rotation, top/bottom
+# X,Y in mm.  rotation in degrees.
+# --------------------------------------------
+P102,"01_front_pcb_assembly","01_front_pcb_assembly",4.00,50.00,0,top
+J107,"CON-HDR-254P-10C-2R-20N_Molex__8624-Series_","Molex__8624-Series",10.00,39.50,0,top
+S102,"SW_Apem_5547A__","Apem 5547A",10.50,80.00,90,top
+S101,"SW_Apem_5546A__","Apem 5546A",30.50,80.00,90,top
+(unknown),"MTG320-TOOLING____","(unknown)",20.50,9.00,0,top
+(unknown),"MTG320-TOOLING____","(unknown)",20.50,91.00,0,top
+R111,"RES1270-635X229____0.6W","0.6W",16.50,69.00,270,top
+R107,"RES1780-1000X390____2W","2W",22.50,66.50,270,top
+J106,"CON-BNC__UG290__flange","BNC UG290 flange mounted",32.09,21.59,90,top
+C101,"CAPA508","(unknown)",30.50,37.50,90,top
+p2,"PIN165X102____","(unknown)",30.50,96.00,0,top
+p3,"PIN165X102____","(unknown)",10.50,4.00,0,top
+p1,"PIN165X102____","(unknown)",10.50,96.00,0,top
+p4,"PIN165X102____","(unknown)",30.50,4.00,0,top
+D104,"LED254-500_Kingbright_L-7113IT__green","Kingbright L-7113IT green",20.50,80.00,180,top

@@ -1,0 +1,13 @@
+# PcbXY Version 1.0
+# Date: Sun 29 Jul 2018 08:17:14 AM GMT UTC
+# Author: Bert Timmerman
+# Title: 26.004.00.01.01.pcb - PCB X-Y
+# RefDes, Description, Value, X, Y, rotation, top/bottom
+# X,Y in mm.  rotation in degrees.
+# --------------------------------------------
+D,"MTG370-700____.fp","unknown",85.00,7.50,0,top
+C,"MTG370-700____.fp","unknown",85.00,92.50,0,top
+F,"MTG370-700____.fp","unknown",160.80,7.50,0,top
+E,"MTG370-700____.fp","unknown",160.80,92.50,0,top
+B,"MTG370-700____.fp","unknown",9.50,7.50,0,top
+A,"MTG370-700____.fp","unknown",9.50,92.50,0,top

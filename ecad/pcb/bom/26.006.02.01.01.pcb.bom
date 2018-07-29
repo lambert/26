@@ -1,0 +1,24 @@
+# PcbBOM Version 1.0
+# Date: Sun 29 Jul 2018 08:17:15 AM GMT UTC
+# Author: Bert Timmerman
+# Title: 26.006.02.01.01 - PCB BOM
+# Quantity, Description, Value, RefDes
+# --------------------------------------------
+12,"CAPC3216N____.fp","100nF",C609 C608 C657 C655 C656 C654 C658 C607 C605 C606 C604 C659 
+6,"SOIC127P600X155-8N____.fp","CA3140M",U603 U602 U651 U601 U652 U653 
+2,"RESC3216N____.fp","15k",R658 R608 
+2,"CAPAE400X530N____.fp","1uF/50V",C603 C653 
+8,"DIOMELF3216X16N____.fp","LL4148",D653 D654 D652 D651 D603 D604 D602 D601 
+4,"RESC3216N____.fp","2k2",R653 R652 R603 R602 
+2,"RESC3216N____.fp","12k",R651 R601 
+2,"RESC3216N____.fp","120k",R655 R605 
+2,"RESC3216N____.fp","10k",R657 R607 
+2,"RESC3216N____.fp","1k",R659 R609 
+4,"CAPC3216N____.fp","220nF",C651 C602 C652 C601 
+2,"RESC3216N____.fp","22k",R656 R606 
+2,"RESC3216N____.fp","1M",R610 R660 
+2,"TRIM_Panasonic_EVM1D__.fp","10k",R661 R611 
+2,"TRIM_Panasonic_EVM1D__.fp","5k",R654 R604 
+2,"CON-TP_Keystone_5000_compact_red","Keystone 5000 compact red",TP601 TP651 
+1,"CON-SIL-254P-8N____.fp","unknown",P601 
+1,"CON-TP_Keystone_5001_compact_black","Keystone 5001 compact black",TP602 

@@ -1,0 +1,17 @@
+G04 start of page 4 for group 2 idx 2 *
+G04 Title: 26.006.01.01.01, outline *
+G04 Creator: pcb 4.1.2 *
+G04 CreationDate: Sun Jul 29 08:17:17 2018 UTC *
+G04 For: bert *
+G04 Format: Gerber/RS-274X *
+G04 PCB-Dimensions (mil): 6200.00 1620.00 *
+G04 PCB-Coordinate-Origin: lower left *
+%MOIN*%
+%FSLAX25Y25*%
+%LNGKO*%
+%ADD31C,0.0080*%
+G54D31*X2500Y159500D02*Y2000D01*
+X615000D01*
+X2500Y159500D02*X615000D01*
+Y2000D01*
+M02*

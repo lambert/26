@@ -1,0 +1,26 @@
+# PcbBOM Version 1.0
+# Date: Sun 29 Jul 2018 08:17:14 AM GMT UTC
+# Author: Bert Timmerman
+# Title: 26.003.00.01.01.pcb - PCB BOM
+# Quantity, Description, Value, RefDes
+# --------------------------------------------
+1,"____MIN-XY","MIN-XY",(unknown) 
+1,"____MAX-XY","MAX-XY",(unknown) 
+2,"CAPPR200-500X1100____.fp","10uF/35V",C114 C113 
+2,"RES1270-635X229____0.6W.fp","1k",R108 R109 
+1,"CAPPR500-1000X1300____.fp","100uF/63V",C112 
+12,"CAPR250-450X850____.fp","100nF",C115 C116 C108 C109 C102 C103 C104 C105 C106 C107 C110 C111 
+1,"DIO1016-520X270_Diodes_1N4004_DO41_C1A2.fp","1N4004",D101 
+2,"DIO1016-425X185_Diotec_1N4148_DO35_C1A2","1N4148",D103 D102 
+1,"TRIM_Piher_PT-15LH01__.fp","10k",R110 
+4,"PIN165X102____.fp","unknown",p1 p2 p3 p4 
+3,"MTG370____.fp","unknown",C A B 
+1,"DIPS08300____.fp","CA3140E",U101 
+1,"CON-SIL-254P-31N____.fp","unknown",J102 
+1,"MTG370-700____.fp","unknown",GND 
+1,"CON-DIN41617-31N_Assmann_A-31-S1_DIN41617_male.fp","DIN41617_31p",J101 
+1,"RES1270-635X229____0.6W.fp","4k7",R104 
+1,"RES1270-635X229____0.6W.fp","47k",R103 
+1,"RES1270-635X229____0.6W.fp","10k",R102 
+2,"RES1270-635X229____0.6W.fp","1M",R105 R106 
+5,"CON-SIL-254P-8N____.fp","unknown",A101 A102 A103 A104 A105 
