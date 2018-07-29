@@ -1,0 +1,95 @@
+START header
+
+gEDA's netlist format
+Created specifically for testing of gnetlist
+
+END header
+
+START components
+
+U953 device=OPAMP
+U952 device=OPAMP
+U951 device=OPAMP
+U903 device=OPAMP
+U902 device=OPAMP
+U901 device=OPAMP
+R954 device=RESISTOR
+R953 device=RESISTOR
+R955 device=RESISTOR
+R956 device=RESISTOR
+C952 device=CAPACITOR
+C951 device=CAPACITOR
+R952 device=RESISTOR
+R951 device=RESISTOR
+C903 device=POLARIZED_CAPACITOR
+C953 device=POLARIZED_CAPACITOR
+R961 device=RESISTOR
+R960 device=RESISTOR
+D953 device=DIODE
+D954 device=DIODE
+R958 device=RESISTOR
+R959 device=RESISTOR
+D952 device=DIODE
+D951 device=DIODE
+R957 device=RESISTOR
+R911 device=RESISTOR
+R910 device=RESISTOR
+D903 device=DIODE
+D904 device=DIODE
+R908 device=RESISTOR
+R909 device=RESISTOR
+D902 device=DIODE
+D901 device=DIODE
+R907 device=RESISTOR
+R904 device=RESISTOR
+R903 device=RESISTOR
+R905 device=RESISTOR
+R906 device=RESISTOR
+C902 device=CAPACITOR
+C901 device=CAPACITOR
+R902 device=RESISTOR
+R901 device=RESISTOR
+
+END components
+
+START renamed-nets
+
+
+END renamed-nets
+
+START nets
+
+Vcc : U953 7, U952 7, U951 7, U903 7, U902 7, U901 7 
+unnamed_net24 : R954 2, R953 1 
+unnamed_net23 : R955 1, R956 2 
+unnamed_net22 : U951 2, R956 1, C952 2 
+unnamed_net21 : R953 2, C952 1, C951 1, R952 2 
+unnamed_net20 : R952 1, R951 2 
+OUTPUT_4KHZ : R961 3 
+unnamed_net19 : R960 1, D953 2 
+unnamed_net18 : R961 1, U953 6, U953 2, R958 2 
+unnamed_net17 : U953 3, C953 1, R960 2, D954 2, R959 2 
+unnamed_net16 : R959 1, D952 1 
+unnamed_net15 : U952 6, D952 2, D951 1 
+unnamed_net14 : U951 6, C951 2, R955 2, R957 1 
+unnamed_net13 : U952 2, R958 1, D951 2, R957 2 
+OUTPUT_2KHZ : R911 3 
+FOLLOW : D953 1, D903 1 
+unnamed_net12 : R910 1, D903 2 
+RESET : D954 1, D904 1 
+unnamed_net11 : R911 1, U903 6, U903 2, R908 2 
+unnamed_net10 : U903 3, C903 1, R910 2, D904 2, R909 2 
+unnamed_net9 : R909 1, D902 1 
+unnamed_net8 : U902 6, D902 2, D901 1 
+unnamed_net7 : U902 2, R908 1, D901 2, R907 2 
+GND : U953 4, U952 4, U951 4, U903 4, U902 4, U901 4, C953 2, R961 2, U952 3, R954 1, R954 3, U951 3, C903 2, R911 2, U902 3, R904 3, U901 3, R904 1 
+unnamed_net6 : R904 2, R903 1 
+unnamed_net5 : R905 1, R906 2 
+unnamed_net4 : U901 2, R906 1, C902 2 
+unnamed_net3 : U901 6, R907 1, R905 2, C901 2 
+unnamed_net2 : R903 2, C902 1, C901 1, R902 2 
+PREAMP : R951 1, R901 1 
+unnamed_net1 : R902 1, R901 2 
+
+END nets
+

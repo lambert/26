@@ -1,0 +1,32 @@
+Checking non-numbered parts...
+
+Checking duplicated references...
+ERROR: Duplicated reference U753.
+ERROR: Duplicated reference U752.
+ERROR: Duplicated reference U751.
+ERROR: Duplicated reference U703.
+ERROR: Duplicated reference U702.
+ERROR: Duplicated reference U701.
+
+Checking nets with only one connection...
+
+Checking pins without the 'pintype' attribute...
+NOTE: Found pins without the 'pintype' attribute: U753:4 U752:4 U751:4 U703:4 U702:4 U701:4 U753:7 U752:7 U751:7 U703:7 U702:7 U701:7 
+Checking type of pins connected to a net...
+
+Checking unconnected pins...
+
+Checking slots...
+
+Checking duplicated slots...
+ERROR: duplicated slot 1 of uref U753
+ERROR: duplicated slot 1 of uref U752
+ERROR: duplicated slot 1 of uref U751
+ERROR: duplicated slot 1 of uref U703
+ERROR: duplicated slot 1 of uref U702
+ERROR: duplicated slot 1 of uref U701
+
+Checking unused slots...
+
+No warnings found. 
+Found 12 errors.

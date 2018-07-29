@@ -1,0 +1,57 @@
+Checking non-numbered parts...
+ERROR: Reference not numbered: U?
+
+Checking duplicated references...
+ERROR: Duplicated reference U?.
+
+Checking nets with only one connection...
+ERROR: Net '+15V' is connected to only one pin: U?:? .
+ERROR: Net 'BUS_31' is connected to only one pin: U?:? .
+ERROR: Net '-15V' is connected to only one pin: U?:? .
+ERROR: Net 'BUS_29' is connected to only one pin: U?:? .
+ERROR: Net 'OUTPUT_16kHz' is connected to only one pin: U?:? .
+ERROR: Net 'OUTPUT_8kHz' is connected to only one pin: U?:? .
+ERROR: Net 'OUTPUT_4kHz' is connected to only one pin: U?:? .
+ERROR: Net 'OUTPUT_2kHz' is connected to only one pin: U?:? .
+ERROR: Net 'OUTPUT_1kHz' is connected to only one pin: U?:? .
+ERROR: Net 'OUTPUT_500Hz' is connected to only one pin: U?:? .
+ERROR: Net 'OUTPUT_250Hz' is connected to only one pin: U?:? .
+ERROR: Net 'OUTPUT_125Hz' is connected to only one pin: U?:? .
+ERROR: Net 'OUTPUT_63Hz' is connected to only one pin: U?:? .
+ERROR: Net 'OUTPUT_31Hz' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net12' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net11' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net10' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net9' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net8' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net7' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net6' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net5' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net4' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net3' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net2' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net1' is connected to only one pin: U?:? .
+
+Checking pins without the 'pintype' attribute...
+NOTE: Found pins without the 'pintype' attribute: U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? 
+Checking type of pins connected to a net...
+
+Checking unconnected pins...
+
+Checking slots...
+
+Checking duplicated slots...
+ERROR: duplicated slot 1 of uref U?
+ERROR: duplicated slot 1 of uref U?
+ERROR: duplicated slot 1 of uref U?
+ERROR: duplicated slot 1 of uref U?
+ERROR: duplicated slot 1 of uref U?
+ERROR: duplicated slot 1 of uref U?
+ERROR: duplicated slot 1 of uref U?
+ERROR: duplicated slot 1 of uref U?
+ERROR: duplicated slot 1 of uref U?
+
+Checking unused slots...
+
+No warnings found. 
+Found 37 errors.

@@ -1,0 +1,95 @@
+START header
+
+gEDA's netlist format
+Created specifically for testing of gnetlist
+
+END header
+
+START components
+
+U653 device=OPAMP
+U603 device=OPAMP
+U652 device=OPAMP
+U651 device=OPAMP
+U602 device=OPAMP
+U601 device=OPAMP
+R654 device=RESISTOR
+R653 device=RESISTOR
+R655 device=RESISTOR
+R656 device=RESISTOR
+C652 device=CAPACITOR
+C651 device=CAPACITOR
+R652 device=RESISTOR
+R651 device=RESISTOR
+C603 device=POLARIZED_CAPACITOR
+C653 device=POLARIZED_CAPACITOR
+R661 device=RESISTOR
+R660 device=RESISTOR
+D653 device=DIODE
+D654 device=DIODE
+R658 device=RESISTOR
+R659 device=RESISTOR
+D652 device=DIODE
+D651 device=DIODE
+R657 device=RESISTOR
+R611 device=RESISTOR
+R610 device=RESISTOR
+D603 device=DIODE
+D604 device=DIODE
+R608 device=RESISTOR
+R609 device=RESISTOR
+D602 device=DIODE
+D601 device=DIODE
+R607 device=RESISTOR
+R604 device=RESISTOR
+R603 device=RESISTOR
+R605 device=RESISTOR
+R606 device=RESISTOR
+C602 device=CAPACITOR
+C601 device=CAPACITOR
+R602 device=RESISTOR
+R601 device=RESISTOR
+
+END components
+
+START renamed-nets
+
+
+END renamed-nets
+
+START nets
+
+Vcc : U653 7, U603 7, U652 7, U651 7, U602 7, U601 7 
+unnamed_net24 : R654 2, R653 1 
+unnamed_net23 : R655 1, R656 2 
+unnamed_net22 : U651 2, R656 1, C652 2 
+unnamed_net21 : C652 1, R653 2, C651 1, R652 2 
+unnamed_net20 : R652 1, R651 2 
+OUTPUT_63HZ : R661 3 
+unnamed_net19 : R660 1, D653 2 
+unnamed_net18 : U653 2, R661 1, U653 6, R658 2 
+unnamed_net17 : U653 3, C653 1, R660 2, D654 2, R659 2 
+unnamed_net16 : R659 1, D652 1 
+unnamed_net15 : U652 6, D652 2, D651 1 
+unnamed_net14 : U651 6, C651 2, R655 2, R657 1 
+unnamed_net13 : U652 2, R658 1, D651 2, R657 2 
+OUTPUT_31HZ : R611 3 
+FOLLOW : D653 1, D603 1 
+unnamed_net12 : R610 1, D603 2 
+RESET : D654 1, D604 1 
+unnamed_net11 : R611 1, U603 6, U603 2, R608 2 
+unnamed_net10 : U603 3, C603 1, R610 2, D604 2, R609 2 
+unnamed_net9 : R609 1, D602 1 
+unnamed_net8 : U602 6, D602 2, D601 1 
+unnamed_net7 : U602 2, R608 1, D601 2, R607 2 
+GND : U653 4, U603 4, U652 4, U651 4, U602 4, U601 4, C653 2, R661 2, U652 3, R654 1, R654 3, U651 3, C603 2, R611 2, U602 3, R604 3, U601 3, R604 1 
+unnamed_net6 : R604 2, R603 1 
+unnamed_net5 : R605 1, R606 2 
+unnamed_net4 : U601 2, R606 1, C602 2 
+unnamed_net3 : U601 6, R607 1, R605 2, C601 2 
+unnamed_net2 : C602 1, R603 2, C601 1, R602 2 
+PREAMP : R651 1, R601 1 
+unnamed_net1 : R602 1, R601 2 
+
+END nets
+

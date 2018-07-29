@@ -1,0 +1,72 @@
+START header
+
+gEDA's netlist format
+Created specifically for testing of gnetlist
+
+END header
+
+START components
+
+101b device=unknown
+101a device=unknown
+U? device=OUTPUT
+021 device=unknown
+019 device=unknown
+017 device=unknown
+015 device=unknown
+013 device=unknown
+011 device=unknown
+009 device=unknown
+007 device=unknown
+005 device=unknown
+003 device=unknown
+020 device=unknown
+016 device=unknown
+018 device=unknown
+002 device=unknown
+004 device=unknown
+006 device=unknown
+008 device=unknown
+014 device=unknown
+010 device=unknown
+012 device=unknown
+001 device=unknown
+
+END components
+
+START renamed-nets
+
+
+END renamed-nets
+
+START nets
+
++15V : U? ? 
+BUS_31 : U? ? 
+-15V : U? ? 
+BUS_29 : U? ? 
+OUTPUT_16kHz : U? ? 
+OUTPUT_8kHz : U? ? 
+OUTPUT_4kHz : U? ? 
+OUTPUT_2kHz : U? ? 
+OUTPUT_1kHz : U? ? 
+OUTPUT_500Hz : U? ? 
+OUTPUT_250Hz : U? ? 
+OUTPUT_125Hz : U? ? 
+OUTPUT_63Hz : U? ? 
+OUTPUT_31Hz : U? ? 
+unnamed_net12 : U? ? 
+unnamed_net11 : U? ? 
+unnamed_net10 : U? ? 
+unnamed_net9 : U? ? 
+unnamed_net8 : U? ? 
+unnamed_net7 : U? ? 
+unnamed_net6 : U? ? 
+unnamed_net5 : U? ? 
+unnamed_net4 : U? ? 
+unnamed_net3 : U? ? 
+unnamed_net2 : U? ? 
+unnamed_net1 : U? ? 
+
+END nets
+

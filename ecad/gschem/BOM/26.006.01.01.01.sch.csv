@@ -1,0 +1,56 @@
+refdes	footprint	value	mfg	mfg_PN	vendor	vendor_PN	price	documentation	source	comment	
+P601	CON-SIL-254P-8N____.fp	unknown	MPE Garry	088-1-008-0-S-XS0-1080	Conrad	733919	0.29	unknown	unknown	unknown	
+C655	CAPA508____.fp	100nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+C654	CAPA508____.fp	100nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+C657	CAPA508____.fp	100nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+C656	CAPA508____.fp	100nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+C659	CAPA508____.fp	100nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+C658	CAPA508____.fp	100nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+C608	CAPA508____.fp	100nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+C609	CAPA508____.fp	100nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+C607	CAPA508____.fp	100nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+C606	CAPA508____.fp	100nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+C604	CAPA508____.fp	100nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+C605	CAPA508____.fp	100nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+U653	DIPS08300____.fp	CA3140E	Intersil	CA3140E	Conrad	174785	2.39	unknown	unknown	including socket	
+U652	DIPS08300____.fp	CA3140E	Intersil	CA3140E	Conrad	174785	2.39	unknown	unknown	including socket	
+U651	DIPS08300____.fp	CA3140E	Intersil	CA3140E	Conrad	174785	2.39	unknown	unknown	including socket	
+U603	DIPS08300____.fp	CA3140E	Intersil	CA3140E	Conrad	174785	2.39	unknown	unknown	including socket	
+U602	DIPS08300____.fp	CA3140E	Intersil	CA3140E	Conrad	174785	2.39	unknown	unknown	including socket	
+U601	DIPS08300____.fp	CA3140E	Intersil	CA3140E	Conrad	174785	2.39	unknown	unknown	including socket	
+R654	TRIM_Piher_PT-15LH05__.fp	5k	Piher	PT15LH05-502A2020	Conrad	431222	0.58	unknown	unknown	unknown	
+R653	RES1016-635X229____0.6W.fp	2k2	Yageo	MF0207FTE52-2K2	Conrad	1417611	0.05	unknown	unknown	unknown	
+R655	RES1016-635X229____0.6W.fp	120k	Yageo	MF0207FTE52-120K	Conrad	1417572	0.10	unknown	unknown	unknown	
+R656	RES1016-635X229____0.6W.fp	39k	Yageo	MF0207FTE52-39K	Conrad	1417634	0.10	unknown	unknown	unknown	
+C652	CAPRR750W50L900T250H470____.fp	100nF	Epcos	B32560J1104K000	Conrad	501047	0.15	unknown	unknown	MKT 100 VAC 10%	
+C651	CAPRR750W50L900T250H470____.fp	100nF	Epcos	B32560J1104K000	Conrad	501047	0.15	unknown	unknown	MKT 100 VAC 10%	
+R652	RES1016-635X229____0.6W.fp	3k9	Yageo	MF0207FTE52-3K9	Conrad	1417672	0.10	unknown	unknown	unknown	
+R651	RES1016-635X229____0.6W.fp	12k	Yageo	MF0207FTE52-12K	Conrad	1417580	0.10	unknown	unknown	unknown	
+C603	CAPPR200-500X1100____.fp	1uF	Yageo	SE160M1R00B2F-0511	Conrad	445639	0.05	unknown	unknown	160 VDC	
+C653	CAPPR200-500X1100____.fp	1uF	Yageo	SE160M1R00B2F-0511	Conrad	445639	0.05	unknown	unknown	160 VDC	
+R661	TRIM_Piher_PT-15LH05__.fp	10k	Piher	PT15LH05-103A2020	Conrad	431230	0.58	unknown	unknown	unknown	
+R660	RES1016-635X229____0.6W.fp	1M	Yageo	MF0207FTE52-1M	Conrad	1417625	0.05	unknown	unknown	unknown	
+D653	DIO1016-425X185_Diotec_1N4148_DO35_C1A2.fp	1N4148	Diotec	1N4148	Conrad	162280	0.05	unknown	unknown	75V 150mA SOD-27	
+D654	DIO1016-425X185_Diotec_1N4148_DO35_C1A2.fp	1N4148	Diotec	1N4148	Conrad	162280	0.05	unknown	unknown	75V 150mA SOD-27	
+R658	RES1016-635X229____0.6W.fp	15k	Yageo	MF0207FTE52-15K	Conrad	1417581	0.10	unknown	unknown	unknown	
+R659	RES1016-635X229____0.6W.fp	1k	Yageo	MF0207FTE52-1K	Conrad	1417606	0.05	unknown	unknown	unknown	
+D652	DIO1016-425X185_Diotec_1N4148_DO35_C1A2.fp	1N4148	Diotec	1N4148	Conrad	162280	0.15	unknown	unknown	75V 150mA SOD-27	
+D651	DIO1016-425X185_Diotec_1N4148_DO35_C1A2.fp	1N4148	Diotec	1N4148	Conrad	162280	0.15	unknown	unknown	75V 150mA SOD-27	
+R657	RES1016-635X229____0.6W.fp	10k	Yageo	MF0207FTE52-10K	Conrad	1417569	0.05	unknown	unknown	unknown	
+R611	TRIM_Piher_PT-15LH05__.fp	10k	Piher	PT15LH05-103A2020	Conrad	431230	0.58	unknown	unknown	unknown	
+R610	RES1016-635X229____0.6W.fp	1M	Yageo	MF0207FTE52-1M	Conrad	1417625	0.05	unknown	unknown	unknown	
+D603	DIO1016-425X185_Diotec_1N4148_DO35_C1A2.fp	1N4148	Diotec	1N4148	Conrad	162280	0.05	unknown	unknown	75V 150mA SOD-27	
+D604	DIO1016-425X185_Diotec_1N4148_DO35_C1A2.fp	1N4148	Diotec	1N4148	Conrad	162280	0.05	unknown	unknown	75V 150mA SOD-27	
+R608	RES1016-635X229____0.6W.fp	15k	Yageo	MF0207FTE52-15K	Conrad	1417581	0.10	unknown	unknown	unknown	
+R609	RES1016-635X229____0.6W.fp	1k	Yageo	MF0207FTE52-1K	Conrad	1417606	0.05	unknown	unknown	unknown	
+D602	DIO1016-425X185_Diotec_1N4148_DO35_C1A2.fp	1N4148	Diotec	1N4148	Conrad	162280	0.15	unknown	unknown	75V 150mA SOD-27	
+D601	DIO1016-425X185_Diotec_1N4148_DO35_C1A2.fp	1N4148	Diotec	1N4148	Conrad	162280	0.15	unknown	unknown	75V 150mA SOD-27	
+R607	RES1016-635X229____0.6W.fp	10k	Yageo	MF0207FTE52-10K	Conrad	1417569	0.05	unknown	unknown	unknown	
+R604	TRIM_Piher_PT-15LH05__.fp	5k	Piher	PT15LH05-502A2020	Conrad	431222	0.58	unknown	unknown	unknown	
+R603	RES1016-635X229____0.6W.fp	2k2	Yageo	MF0207FTE52-2K2	Conrad	1417611	0.05	unknown	unknown	unknown	
+R605	RES1016-635X229____0.6W.fp	120k	Yageo	MF0207FTE52-120K	Conrad	1417572	0.10	unknown	unknown	unknown	
+R606	RES1016-635X229____0.6W.fp	22k	Yageo	MF0207FTE52-22K	Conrad	1417591	0.05	unknown	unknown	unknown	
+C602	CAPR750-490X750X900____.fp	220nF	Epcos	B32520-C1224-K	Conrad	500895	0.21	unknown	unknown	MKT 100 VAC 10%	
+C601	CAPR750-490X750X900____.fp	220nF	Epcos	B32520-C1224-K	Conrad	500895	0.21	unknown	unknown	MKT 100 VAC 10%	
+R602	RES1016-635X229____0.6W.fp	2k2	Yageo	MF0207FTE52-2K2	Conrad	1417611	0.05	unknown	unknown	unknown	
+R601	RES1016-635X229____0.6W.fp	12k	Yageo	MF0207FTE52-12K	Conrad	1417580	0.10	unknown	unknown	unknown	

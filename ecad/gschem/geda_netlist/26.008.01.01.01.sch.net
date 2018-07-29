@@ -1,0 +1,109 @@
+START header
+
+gEDA's netlist format
+Created specifically for testing of gnetlist
+
+END header
+
+START components
+
+P801 device=CONNECTOR
+C852 device=CAPACITOR
+R853 device=RESISTOR
+C802 device=CAPACITOR
+R806 device=RESISTOR
+C855 device=CAPACITOR
+C854 device=CAPACITOR
+C857 device=CAPACITOR
+C856 device=CAPACITOR
+C859 device=CAPACITOR
+C858 device=CAPACITOR
+C808 device=CAPACITOR
+C809 device=CAPACITOR
+C807 device=CAPACITOR
+C806 device=CAPACITOR
+C804 device=CAPACITOR
+C805 device=CAPACITOR
+U853 device=OPAMP
+U852 device=OPAMP
+U851 device=OPAMP
+U803 device=OPAMP
+U802 device=OPAMP
+U801 device=OPAMP
+R854 device=ADJUSTABLE_RESISTOR
+R855 device=RESISTOR
+R856 device=RESISTOR
+C851 device=CAPACITOR
+R852 device=RESISTOR
+R851 device=RESISTOR
+C803 device=POLARIZED_CAPACITOR
+C853 device=POLARIZED_CAPACITOR
+R861 device=ADJUSTABLE_RESISTOR
+R460 device=RESISTOR
+D853 device=DIODE
+D854 device=DIODE
+R858 device=RESISTOR
+R859 device=RESISTOR
+D852 device=DIODE
+D851 device=DIODE
+R857 device=RESISTOR
+R811 device=ADJUSTABLE_RESISTOR
+R810 device=RESISTOR
+D803 device=DIODE
+D804 device=DIODE
+R808 device=RESISTOR
+R809 device=RESISTOR
+D802 device=DIODE
+D801 device=DIODE
+R807 device=RESISTOR
+R804 device=ADJUSTABLE_RESISTOR
+R803 device=RESISTOR
+R805 device=RESISTOR
+C801 device=CAPACITOR
+R802 device=RESISTOR
+R801 device=RESISTOR
+
+END components
+
+START renamed-nets
+
+
+END renamed-nets
+
+START nets
+
+unnamed_net24 : U801 2, C802 2, R806 1 
+-15V : P801 3, C858 2, U853 4, C856 2, U852 4, C854 2, U851 4, C808 2, U803 4, C806 2, U802 4, C804 2, U801 4 
++15V : P801 5, C859 2, U853 7, C857 2, U852 7, C855 2, U851 7, C809 2, U803 7, C807 2, U802 7, C805 2, U801 7 
+unnamed_net23 : R853 1, R854 2 
+unnamed_net22 : U851 2, C852 2, R856 1 
+unnamed_net21 : R855 1, R856 2 
+unnamed_net20 : C852 1, R853 2, C851 1, R852 2 
+unnamed_net19 : R852 1, R851 2 
+OUT_1kHz : P801 2, R861 3 
+unnamed_net18 : R460 1, D853 2 
+unnamed_net17 : R861 1, U853 6, U853 2, R858 2 
+unnamed_net16 : U853 3, C853 1, R460 2, D854 2, R859 2 
+unnamed_net15 : R859 1, D852 1 
+unnamed_net14 : U852 6, D852 2, D851 1 
+unnamed_net13 : U851 6, C851 2, R855 2, R857 1 
+unnamed_net12 : U852 2, R858 1, D851 2, R857 2 
+OUT_500Hz : P801 1, R811 3 
+FOLLOW : P801 6, D853 1, D803 1 
+unnamed_net11 : R810 1, D803 2 
+RESET : P801 7, D854 1, D804 1 
+unnamed_net10 : R811 1, U803 6, U803 2, R808 2 
+unnamed_net9 : U803 3, C803 1, R810 2, D804 2, R809 2 
+unnamed_net8 : R809 1, D802 1 
+unnamed_net7 : U802 6, D802 2, D801 1 
+unnamed_net6 : U802 2, R808 1, D801 2, R807 2 
+GND : U852 3, U851 3, U802 3, U801 3, P801 4, C855 1, C854 1, C857 1, C856 1, C859 1, C858 1, C808 1, C809 1, C807 1, C806 1, C804 1, C805 1, R854 3, R854 1, C803 2, C853 2, R861 2, R811 2, R804 3, R804 1 
+unnamed_net5 : R804 2, R803 1 
+unnamed_net4 : R806 2, R805 1 
+unnamed_net3 : U801 6, R807 1, R805 2, C801 2 
+unnamed_net2 : C802 1, R803 2, C801 1, R802 2 
+IN : P801 8, R851 1, R801 1 
+unnamed_net1 : R802 1, R801 2 
+
+END nets
+

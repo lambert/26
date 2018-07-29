@@ -1,0 +1,7 @@
+.START
+..device	value	footprint	quantity	refdes
+MTG	unknown	MTG1050____.fp	1	R101
+MTG	unknown	MTG1100____.fp	1	J106
+MTG	unknown	MTG370____.fp	2	A B
+MTG	unknown	MTG650____.fp	2	S101 S102
+.END

@@ -1,0 +1,249 @@
+# Pin name action command file
+
+# Start of element C655
+ChangePinName(C655, 2, 2)
+ChangePinName(C655, 1, 1)
+
+# Start of element C654
+ChangePinName(C654, 2, 2)
+ChangePinName(C654, 1, 1)
+
+# Start of element C657
+ChangePinName(C657, 2, 2)
+ChangePinName(C657, 1, 1)
+
+# Start of element C656
+ChangePinName(C656, 2, 2)
+ChangePinName(C656, 1, 1)
+
+# Start of element C659
+ChangePinName(C659, 2, 2)
+ChangePinName(C659, 1, 1)
+
+# Start of element C658
+ChangePinName(C658, 2, 2)
+ChangePinName(C658, 1, 1)
+
+# Start of element C608
+ChangePinName(C608, 2, 2)
+ChangePinName(C608, 1, 1)
+
+# Start of element C609
+ChangePinName(C609, 2, 2)
+ChangePinName(C609, 1, 1)
+
+# Start of element C607
+ChangePinName(C607, 2, 2)
+ChangePinName(C607, 1, 1)
+
+# Start of element C606
+ChangePinName(C606, 2, 2)
+ChangePinName(C606, 1, 1)
+
+# Start of element C604
+ChangePinName(C604, 2, 2)
+ChangePinName(C604, 1, 1)
+
+# Start of element C605
+ChangePinName(C605, 2, 2)
+ChangePinName(C605, 1, 1)
+
+# Start of element P601
+ChangePinName(P601, 8, 8)
+ChangePinName(P601, 7, 7)
+ChangePinName(P601, 6, 6)
+ChangePinName(P601, 5, 5)
+ChangePinName(P601, 4, 4)
+ChangePinName(P601, 3, 3)
+ChangePinName(P601, 2, 2)
+ChangePinName(P601, 1, 1)
+
+# Start of element U653
+ChangePinName(U653, 6, 6)
+ChangePinName(U653, 3, +)
+ChangePinName(U653, 2, -)
+ChangePinName(U653, 4, GND)
+ChangePinName(U653, 7, Vcc)
+
+# Start of element U652
+ChangePinName(U652, 6, 6)
+ChangePinName(U652, 3, +)
+ChangePinName(U652, 2, -)
+ChangePinName(U652, 4, GND)
+ChangePinName(U652, 7, Vcc)
+
+# Start of element U651
+ChangePinName(U651, 6, 6)
+ChangePinName(U651, 3, +)
+ChangePinName(U651, 2, -)
+ChangePinName(U651, 4, GND)
+ChangePinName(U651, 7, Vcc)
+
+# Start of element U603
+ChangePinName(U603, 6, 6)
+ChangePinName(U603, 3, +)
+ChangePinName(U603, 2, -)
+ChangePinName(U603, 4, GND)
+ChangePinName(U603, 7, Vcc)
+
+# Start of element U602
+ChangePinName(U602, 6, 6)
+ChangePinName(U602, 3, +)
+ChangePinName(U602, 2, -)
+ChangePinName(U602, 4, GND)
+ChangePinName(U602, 7, Vcc)
+
+# Start of element U601
+ChangePinName(U601, 6, 6)
+ChangePinName(U601, 3, +)
+ChangePinName(U601, 2, -)
+ChangePinName(U601, 4, GND)
+ChangePinName(U601, 7, Vcc)
+
+# Start of element R654
+ChangePinName(R654, 3, 3)
+ChangePinName(R654, 2, 2)
+ChangePinName(R654, 1, 1)
+
+# Start of element R653
+ChangePinName(R653, 1, 1)
+ChangePinName(R653, 2, 2)
+
+# Start of element R655
+ChangePinName(R655, 1, 1)
+ChangePinName(R655, 2, 2)
+
+# Start of element R656
+ChangePinName(R656, 1, 1)
+ChangePinName(R656, 2, 2)
+
+# Start of element C652
+ChangePinName(C652, 2, 2)
+ChangePinName(C652, 1, 1)
+
+# Start of element C651
+ChangePinName(C651, 2, 2)
+ChangePinName(C651, 1, 1)
+
+# Start of element R652
+ChangePinName(R652, 1, 1)
+ChangePinName(R652, 2, 2)
+
+# Start of element R651
+ChangePinName(R651, 1, 1)
+ChangePinName(R651, 2, 2)
+
+# Start of element C603
+ChangePinName(C603, 2, -)
+ChangePinName(C603, 1, +)
+
+# Start of element C653
+ChangePinName(C653, 2, -)
+ChangePinName(C653, 1, +)
+
+# Start of element R661
+ChangePinName(R661, 3, 3)
+ChangePinName(R661, 2, 2)
+ChangePinName(R661, 1, 1)
+
+# Start of element R660
+ChangePinName(R660, 1, 1)
+ChangePinName(R660, 2, 2)
+
+# Start of element D653
+ChangePinName(D653, 1, 1)
+ChangePinName(D653, 2, 2)
+
+# Start of element D654
+ChangePinName(D654, 1, 1)
+ChangePinName(D654, 2, 2)
+
+# Start of element R658
+ChangePinName(R658, 1, 1)
+ChangePinName(R658, 2, 2)
+
+# Start of element R659
+ChangePinName(R659, 1, 1)
+ChangePinName(R659, 2, 2)
+
+# Start of element D652
+ChangePinName(D652, 1, 1)
+ChangePinName(D652, 2, 2)
+
+# Start of element D651
+ChangePinName(D651, 1, 1)
+ChangePinName(D651, 2, 2)
+
+# Start of element R657
+ChangePinName(R657, 1, 1)
+ChangePinName(R657, 2, 2)
+
+# Start of element R611
+ChangePinName(R611, 3, 3)
+ChangePinName(R611, 2, 2)
+ChangePinName(R611, 1, 1)
+
+# Start of element R610
+ChangePinName(R610, 1, 1)
+ChangePinName(R610, 2, 2)
+
+# Start of element D603
+ChangePinName(D603, 1, 1)
+ChangePinName(D603, 2, 2)
+
+# Start of element D604
+ChangePinName(D604, 1, 1)
+ChangePinName(D604, 2, 2)
+
+# Start of element R608
+ChangePinName(R608, 1, 1)
+ChangePinName(R608, 2, 2)
+
+# Start of element R609
+ChangePinName(R609, 1, 1)
+ChangePinName(R609, 2, 2)
+
+# Start of element D602
+ChangePinName(D602, 1, 1)
+ChangePinName(D602, 2, 2)
+
+# Start of element D601
+ChangePinName(D601, 1, 1)
+ChangePinName(D601, 2, 2)
+
+# Start of element R607
+ChangePinName(R607, 1, 1)
+ChangePinName(R607, 2, 2)
+
+# Start of element R604
+ChangePinName(R604, 3, 3)
+ChangePinName(R604, 2, 2)
+ChangePinName(R604, 1, 1)
+
+# Start of element R603
+ChangePinName(R603, 1, 1)
+ChangePinName(R603, 2, 2)
+
+# Start of element R605
+ChangePinName(R605, 1, 1)
+ChangePinName(R605, 2, 2)
+
+# Start of element R606
+ChangePinName(R606, 1, 1)
+ChangePinName(R606, 2, 2)
+
+# Start of element C602
+ChangePinName(C602, 2, 2)
+ChangePinName(C602, 1, 1)
+
+# Start of element C601
+ChangePinName(C601, 2, 2)
+ChangePinName(C601, 1, 1)
+
+# Start of element R602
+ChangePinName(R602, 1, 1)
+ChangePinName(R602, 2, 2)
+
+# Start of element R601
+ChangePinName(R601, 1, 1)
+ChangePinName(R601, 2, 2)

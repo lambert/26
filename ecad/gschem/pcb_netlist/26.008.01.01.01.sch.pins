@@ -1,0 +1,249 @@
+# Pin name action command file
+
+# Start of element P801
+ChangePinName(P801, 8, 8)
+ChangePinName(P801, 7, 7)
+ChangePinName(P801, 6, 6)
+ChangePinName(P801, 5, 5)
+ChangePinName(P801, 4, 4)
+ChangePinName(P801, 3, 3)
+ChangePinName(P801, 2, 2)
+ChangePinName(P801, 1, 1)
+
+# Start of element C852
+ChangePinName(C852, 2, 2)
+ChangePinName(C852, 1, 1)
+
+# Start of element R853
+ChangePinName(R853, 1, 1)
+ChangePinName(R853, 2, 2)
+
+# Start of element C802
+ChangePinName(C802, 2, 2)
+ChangePinName(C802, 1, 1)
+
+# Start of element R806
+ChangePinName(R806, 1, 1)
+ChangePinName(R806, 2, 2)
+
+# Start of element C855
+ChangePinName(C855, 2, 2)
+ChangePinName(C855, 1, 1)
+
+# Start of element C854
+ChangePinName(C854, 2, 2)
+ChangePinName(C854, 1, 1)
+
+# Start of element C857
+ChangePinName(C857, 2, 2)
+ChangePinName(C857, 1, 1)
+
+# Start of element C856
+ChangePinName(C856, 2, 2)
+ChangePinName(C856, 1, 1)
+
+# Start of element C859
+ChangePinName(C859, 2, 2)
+ChangePinName(C859, 1, 1)
+
+# Start of element C858
+ChangePinName(C858, 2, 2)
+ChangePinName(C858, 1, 1)
+
+# Start of element C808
+ChangePinName(C808, 2, 2)
+ChangePinName(C808, 1, 1)
+
+# Start of element C809
+ChangePinName(C809, 2, 2)
+ChangePinName(C809, 1, 1)
+
+# Start of element C807
+ChangePinName(C807, 2, 2)
+ChangePinName(C807, 1, 1)
+
+# Start of element C806
+ChangePinName(C806, 2, 2)
+ChangePinName(C806, 1, 1)
+
+# Start of element C804
+ChangePinName(C804, 2, 2)
+ChangePinName(C804, 1, 1)
+
+# Start of element C805
+ChangePinName(C805, 2, 2)
+ChangePinName(C805, 1, 1)
+
+# Start of element U853
+ChangePinName(U853, 6, 6)
+ChangePinName(U853, 3, +)
+ChangePinName(U853, 2, -)
+ChangePinName(U853, 4, GND)
+ChangePinName(U853, 7, Vcc)
+
+# Start of element U852
+ChangePinName(U852, 6, 6)
+ChangePinName(U852, 3, +)
+ChangePinName(U852, 2, -)
+ChangePinName(U852, 4, GND)
+ChangePinName(U852, 7, Vcc)
+
+# Start of element U851
+ChangePinName(U851, 6, 6)
+ChangePinName(U851, 3, +)
+ChangePinName(U851, 2, -)
+ChangePinName(U851, 4, GND)
+ChangePinName(U851, 7, Vcc)
+
+# Start of element U803
+ChangePinName(U803, 6, 6)
+ChangePinName(U803, 3, +)
+ChangePinName(U803, 2, -)
+ChangePinName(U803, 4, GND)
+ChangePinName(U803, 7, Vcc)
+
+# Start of element U802
+ChangePinName(U802, 6, 6)
+ChangePinName(U802, 3, +)
+ChangePinName(U802, 2, -)
+ChangePinName(U802, 4, GND)
+ChangePinName(U802, 7, Vcc)
+
+# Start of element U801
+ChangePinName(U801, 6, 6)
+ChangePinName(U801, 3, +)
+ChangePinName(U801, 2, -)
+ChangePinName(U801, 4, GND)
+ChangePinName(U801, 7, Vcc)
+
+# Start of element R854
+ChangePinName(R854, 3, 3)
+ChangePinName(R854, 2, 2)
+ChangePinName(R854, 1, 1)
+
+# Start of element R855
+ChangePinName(R855, 1, 1)
+ChangePinName(R855, 2, 2)
+
+# Start of element R856
+ChangePinName(R856, 1, 1)
+ChangePinName(R856, 2, 2)
+
+# Start of element C851
+ChangePinName(C851, 2, 2)
+ChangePinName(C851, 1, 1)
+
+# Start of element R852
+ChangePinName(R852, 1, 1)
+ChangePinName(R852, 2, 2)
+
+# Start of element R851
+ChangePinName(R851, 1, 1)
+ChangePinName(R851, 2, 2)
+
+# Start of element C803
+ChangePinName(C803, 2, -)
+ChangePinName(C803, 1, +)
+
+# Start of element C853
+ChangePinName(C853, 2, -)
+ChangePinName(C853, 1, +)
+
+# Start of element R861
+ChangePinName(R861, 3, 3)
+ChangePinName(R861, 2, 2)
+ChangePinName(R861, 1, 1)
+
+# Start of element R460
+ChangePinName(R460, 1, 1)
+ChangePinName(R460, 2, 2)
+
+# Start of element D853
+ChangePinName(D853, 1, 1)
+ChangePinName(D853, 2, 2)
+
+# Start of element D854
+ChangePinName(D854, 1, 1)
+ChangePinName(D854, 2, 2)
+
+# Start of element R858
+ChangePinName(R858, 1, 1)
+ChangePinName(R858, 2, 2)
+
+# Start of element R859
+ChangePinName(R859, 1, 1)
+ChangePinName(R859, 2, 2)
+
+# Start of element D852
+ChangePinName(D852, 1, 1)
+ChangePinName(D852, 2, 2)
+
+# Start of element D851
+ChangePinName(D851, 1, 1)
+ChangePinName(D851, 2, 2)
+
+# Start of element R857
+ChangePinName(R857, 1, 1)
+ChangePinName(R857, 2, 2)
+
+# Start of element R811
+ChangePinName(R811, 3, 3)
+ChangePinName(R811, 2, 2)
+ChangePinName(R811, 1, 1)
+
+# Start of element R810
+ChangePinName(R810, 1, 1)
+ChangePinName(R810, 2, 2)
+
+# Start of element D803
+ChangePinName(D803, 1, 1)
+ChangePinName(D803, 2, 2)
+
+# Start of element D804
+ChangePinName(D804, 1, 1)
+ChangePinName(D804, 2, 2)
+
+# Start of element R808
+ChangePinName(R808, 1, 1)
+ChangePinName(R808, 2, 2)
+
+# Start of element R809
+ChangePinName(R809, 1, 1)
+ChangePinName(R809, 2, 2)
+
+# Start of element D802
+ChangePinName(D802, 1, 1)
+ChangePinName(D802, 2, 2)
+
+# Start of element D801
+ChangePinName(D801, 1, 1)
+ChangePinName(D801, 2, 2)
+
+# Start of element R807
+ChangePinName(R807, 1, 1)
+ChangePinName(R807, 2, 2)
+
+# Start of element R804
+ChangePinName(R804, 3, 3)
+ChangePinName(R804, 2, 2)
+ChangePinName(R804, 1, 1)
+
+# Start of element R803
+ChangePinName(R803, 1, 1)
+ChangePinName(R803, 2, 2)
+
+# Start of element R805
+ChangePinName(R805, 1, 1)
+ChangePinName(R805, 2, 2)
+
+# Start of element C801
+ChangePinName(C801, 2, 2)
+ChangePinName(C801, 1, 1)
+
+# Start of element R802
+ChangePinName(R802, 1, 1)
+ChangePinName(R802, 2, 2)
+
+# Start of element R801
+ChangePinName(R801, 1, 1)
+ChangePinName(R801, 2, 2)

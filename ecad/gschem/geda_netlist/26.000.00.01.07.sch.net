@@ -1,0 +1,95 @@
+START header
+
+gEDA's netlist format
+Created specifically for testing of gnetlist
+
+END header
+
+START components
+
+U1053 device=OPAMP
+U1052 device=OPAMP
+U1051 device=OPAMP
+U1003 device=OPAMP
+U1002 device=OPAMP
+U1001 device=OPAMP
+R1054 device=RESISTOR
+R1053 device=RESISTOR
+R1055 device=RESISTOR
+R1056 device=RESISTOR
+C1052 device=CAPACITOR
+C1051 device=CAPACITOR
+R1052 device=RESISTOR
+R1051 device=RESISTOR
+C1003 device=POLARIZED_CAPACITOR
+C1053 device=POLARIZED_CAPACITOR
+R1061 device=RESISTOR
+R1060 device=RESISTOR
+D1053 device=DIODE
+D1054 device=DIODE
+R1058 device=RESISTOR
+R1059 device=RESISTOR
+D1052 device=DIODE
+D1051 device=DIODE
+R1057 device=RESISTOR
+R1011 device=RESISTOR
+R1010 device=RESISTOR
+D1003 device=DIODE
+D1004 device=DIODE
+R1008 device=RESISTOR
+R1009 device=RESISTOR
+D1002 device=DIODE
+D1001 device=DIODE
+R1007 device=RESISTOR
+R1004 device=RESISTOR
+R1003 device=RESISTOR
+R1005 device=RESISTOR
+R1006 device=RESISTOR
+C1002 device=CAPACITOR
+C1001 device=CAPACITOR
+R1002 device=RESISTOR
+R1001 device=RESISTOR
+
+END components
+
+START renamed-nets
+
+
+END renamed-nets
+
+START nets
+
+Vcc : U1053 7, U1052 7, U1051 7, U1003 7, U1002 7, U1001 7 
+unnamed_net24 : R1054 2, R1053 1 
+unnamed_net23 : R1055 1, R1056 2 
+unnamed_net22 : U1051 2, R1056 1, C1052 2 
+unnamed_net21 : R1053 2, C1051 1, C1052 1, R1052 2 
+unnamed_net20 : R1052 1, R1051 2 
+OUTPUT_16KHZ : R1061 3 
+unnamed_net19 : R1060 1, D1053 2 
+unnamed_net18 : R1061 1, U1053 6, U1053 2, R1058 2 
+unnamed_net17 : U1053 3, C1053 1, R1060 2, D1054 2, R1059 2 
+unnamed_net16 : R1059 1, D1052 1 
+unnamed_net15 : U1052 6, D1052 2, D1051 1 
+unnamed_net14 : U1051 6, C1051 2, R1055 2, R1057 1 
+unnamed_net13 : U1052 2, R1058 1, D1051 2, R1057 2 
+OUTPUT_8KHZ : R1011 3 
+FOLLOW : D1053 1, D1003 1 
+unnamed_net12 : R1010 1, D1003 2 
+RESET : D1054 1, D1004 1 
+unnamed_net11 : R1011 1, U1003 6, U1003 2, R1008 2 
+unnamed_net10 : U1003 3, C1003 1, R1010 2, D1004 2, R1009 2 
+unnamed_net9 : R1009 1, D1002 1 
+unnamed_net8 : U1002 6, D1002 2, D1001 1 
+unnamed_net7 : U1002 2, R1008 1, D1001 2, R1007 2 
+GND : U1053 4, U1052 4, U1051 4, U1003 4, U1002 4, U1001 4, C1053 2, R1061 2, U1052 3, R1054 1, R1054 3, U1051 3, C1003 2, R1011 2, U1002 3, R1004 3, U1001 3, R1004 1 
+unnamed_net6 : R1004 2, R1003 1 
+unnamed_net5 : R1005 1, R1006 2 
+unnamed_net4 : U1001 2, R1006 1, C1002 2 
+unnamed_net3 : U1001 6, R1007 1, R1005 2, C1001 2 
+unnamed_net2 : R1003 2, C1001 1, C1002 1, R1002 2 
+PREAMP : R1051 1, R1001 1 
+unnamed_net1 : R1002 1, R1001 2 
+
+END nets
+

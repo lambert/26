@@ -1,0 +1,32 @@
+Checking non-numbered parts...
+
+Checking duplicated references...
+ERROR: Duplicated reference U853.
+ERROR: Duplicated reference U852.
+ERROR: Duplicated reference U851.
+ERROR: Duplicated reference U803.
+ERROR: Duplicated reference U802.
+ERROR: Duplicated reference U801.
+
+Checking nets with only one connection...
+
+Checking pins without the 'pintype' attribute...
+NOTE: Found pins without the 'pintype' attribute: U853:4 U852:4 U851:4 U803:4 U802:4 U801:4 U853:7 U852:7 U851:7 U803:7 U802:7 U801:7 
+Checking type of pins connected to a net...
+
+Checking unconnected pins...
+
+Checking slots...
+
+Checking duplicated slots...
+ERROR: duplicated slot 1 of uref U853
+ERROR: duplicated slot 1 of uref U852
+ERROR: duplicated slot 1 of uref U851
+ERROR: duplicated slot 1 of uref U803
+ERROR: duplicated slot 1 of uref U802
+ERROR: duplicated slot 1 of uref U801
+
+Checking unused slots...
+
+No warnings found. 
+Found 12 errors.
