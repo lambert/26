@@ -1,0 +1,5 @@
+.START
+..device	value	footprint	quantity	refdes
+CONNECTOR	unknown	DIP08300____.fp	1	J1
+unknown	unknown	SOIC127P600X155-8N____.fp	1	U1
+.END

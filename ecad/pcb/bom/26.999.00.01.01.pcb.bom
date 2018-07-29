@@ -1,0 +1,8 @@
+# PcbBOM Version 1.0
+# Date: Sun 29 Jul 2018 08:17:15 AM GMT UTC
+# Author: Bert Timmerman
+# Title: 26.999.00.01.01.pcb - PCB BOM
+# Quantity, Description, Value, RefDes
+# --------------------------------------------
+1,"DIP08300____.fp","unknown",J1 
+1,"SOIC127P600X155-8N____.fp","unknown",U1 
