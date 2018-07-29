@@ -348,7 +348,7 @@ the schematics.
 
 #### Quotations.
 
-...
+![link to OSH Park fabrication services](purchase/OSH_Park/fabrication_services.md)
 
 #### OSH Park.
 
