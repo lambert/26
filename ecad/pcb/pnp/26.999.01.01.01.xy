@@ -1,0 +1,10 @@
+# PcbXY Version 1.0
+# Date: Sat 28 Jul 2018 08:24:32 PM GMT UTC
+# Author: Bert Timmerman
+# Title: 26.999.00.01.01.pcb - PCB X-Y
+# RefDes, Description, Value, X, Y, rotation, top/bottom
+# X,Y in mm.  rotation in degrees.
+# --------------------------------------------
+U1,"SOIC127P600X155-8N____.fp","unknown",6.35,8.65,90,bottom
+J2,"CON-SIL-254P-4N____.fp","unknown",10.16,8.65,180,top
+J1,"CON-SIL-254P-4N____.fp","unknown",2.54,8.65,0,top
