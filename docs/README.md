@@ -1,5 +1,11 @@
 # 26 Octave Filter
 
+Author: Bert Timmerman
+
+Organisation: Me Organized ??
+
+Date: 20180729
+
 ## Specification.
 
 ### Description.
