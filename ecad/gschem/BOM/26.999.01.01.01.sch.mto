@@ -1,0 +1,5 @@
+.START
+..device	value	footprint	quantity	refdes
+CONNECTOR	unknown	CON-SIL-254P-4N____.fp	2	J1 J2
+unknown	unknown	SOIC127P600X155-8N____.fp	1	U1
+.END
