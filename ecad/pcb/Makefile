@@ -10,7 +10,8 @@ LAYOUTS = \
 	26.006.01.01.01.pcb \
 	26.006.02.01.01.pcb \
 	26.007.01.01.01.pcb \
-	26.999.00.01.01.pcb
+	26.999.00.01.01.pcb \
+	26.999.01.01.01.pcb
 
 notarget:
 	@echo "Please specify a target:"
