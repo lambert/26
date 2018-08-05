@@ -7,10 +7,15 @@ END header
 
 START components
 
-J106 device=MTG
+R101 device=MTG
 S102 device=MTG
 S101 device=MTG
-R101 device=MTG
+D104 device=MTG
+p4 device=PIN
+p3 device=PIN
+p2 device=PIN
+p1 device=PIN
+J106 device=MTG
 B device=MTG
 A device=MTG
 
@@ -23,6 +28,7 @@ END renamed-nets
 
 START nets
 
+GND : p4 1, p3 1, R101 1, S101 1, S102 1, p2 1, p1 1 
 
 END nets
 

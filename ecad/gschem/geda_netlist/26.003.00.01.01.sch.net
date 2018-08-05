@@ -7,6 +7,9 @@ END header
 
 START components
 
+D303 device=DIODE
+D302 device=DIODE
+D301 device=DIODE
 J305 device=CONNECTOR
 J304 device=CONNECTOR
 J303 device=CONNECTOR
@@ -25,14 +28,11 @@ C device=MTG
 B device=MTG
 A device=MTG
 J300 device=CONNECTOR
-D301 device=DIODE
 C312 device=CAPACITOR
 R308 device=RESISTOR
 U301 device=OPAMP
 R310 device=ADJUSTABLE_RESISTOR
 R309 device=RESISTOR
-D302 device=DIODE
-D303 device=DIODE
 C311 device=CAPACITOR
 C310 device=CAPACITOR
 C309 device=CAPACITOR
@@ -62,6 +62,7 @@ END renamed-nets
 
 START nets
 
+unnamed_net44 : D303 2, D302 1 
 OUT10 : J305 2, J300 31 
 OUT09 : J305 1, J300 30 
 OUT08 : J304 2, J300 29 
@@ -72,28 +73,27 @@ OUT04 : J302 2, J300 25
 OUT03 : J302 1, J300 24 
 OUT02 : J301 2, J300 23 
 OUT01 : J301 1, J300 22 
-unnamed_net44 : J300 21 
 unnamed_net43 : J300 20 
 unnamed_net42 : J300 19 
 unnamed_net41 : J300 18 
-unnamed_net40 : J300 16 
-unnamed_net39 : J300 15 
-unnamed_net38 : J300 14 
-unnamed_net37 : J300 13 
-unnamed_net36 : J300 12 
-unnamed_net35 : J300 11 
-unnamed_net34 : J300 10 
+unnamed_net40 : J300 17 
+unnamed_net39 : J300 16 
+unnamed_net38 : J300 15 
+unnamed_net37 : J300 14 
+unnamed_net36 : J300 13 
+unnamed_net35 : J300 12 
+unnamed_net34 : J300 11 
+unnamed_net33 : J300 10 
 RESET : R305 1, J305 7, J304 7, J303 7, J302 7, J301 7, J300 9 
 FOLLOW : R306 1, J305 6, J304 6, J303 6, J302 6, J301 6, J300 8 
-S102COM : J300 4, C312 1, D301 2, R308 2 
-VREF : J300 17, R310 3 
-unnamed_net33 : R310 1, R309 1, D302 1 
-unnamed_net32 : D302 2, D303 1 
+S102COM : J300 4, C312 1, D301 1, R308 2 
+VREF : J300 21, R310 3 
+unnamed_net32 : R310 1, D302 2, R309 1 
 -15V : J300 7, R308 1, C316 2, U301 4, J305 3, C311 2, J304 3, C309 2, J303 3, C307 2, J302 3, C305 2, J301 3, C303 2 
 +15V : R305 2, R306 2, J300 5, C315 2, U301 7, R309 2, J305 5, C310 1, J304 5, C308 1, J303 5, C306 1, J302 5, C304 1, J301 5, C302 1 
 unnamed_net31 : U301 6, J305 8, J304 8, J303 8, J302 8, J301 8, R303 2 
 unnamed_net30 : R303 1, U301 2, R304 2 
-GND : C316 1, C315 1, p3 1, p4 1, p1 1, p2 1, GND 1, J300 6, D301 1, C312 2, R310 2, D303 2, J305 4, C311 1, C310 2, J304 4, C309 1, C308 2, J303 4, C307 1, C306 2, J302 4, C305 1, C304 2, J301 4, C303 1, C302 2, R304 1, C314 2, C313 1, P300 30 
+GND : C316 1, C315 1, p3 1, p4 1, p1 1, p2 1, GND 1, J300 6, D301 2, C312 2, D303 1, R310 2, J305 4, C311 1, C310 2, J304 4, C309 1, C308 2, J303 4, C307 1, C306 2, J302 4, C305 1, C304 2, J301 4, C303 1, C302 2, R304 1, C314 2, C313 1, P300 30 
 unnamed_net29 : P300 14 
 unnamed_net28 : P300 12 
 unnamed_net27 : P300 8 

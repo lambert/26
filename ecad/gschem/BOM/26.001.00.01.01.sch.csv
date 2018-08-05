@@ -1,7 +1,12 @@
 refdes	footprint	value	mfg	mfg_PN	vendor	vendor_PN	price	documentation	source	comment	
+R101	MTG1050-1250____pad.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+S102	MTG650____pad.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+S101	MTG650____pad.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+D104	MTG508____.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+p4	MTG280-500____.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+p3	MTG280-500____.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+p2	MTG280-500____.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+p1	MTG280-500____.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
 J106	MTG1100____.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
-S102	MTG650____.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
-S101	MTG650____.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
-R101	MTG1050____.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
 B	MTG370____.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
 A	MTG370____.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	

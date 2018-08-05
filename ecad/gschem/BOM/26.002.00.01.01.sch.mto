@@ -1,9 +1,9 @@
 .START
 ..device	value	footprint	quantity	refdes
-CAPACITOR	680nF / 50V	CAPR508____.fp	1	C201
+CAPACITOR	680nF	CAPA508____.fp	1	C201
 CONNECTOR	UG290U	CON-BNC__UG290__flange-modded.fp	1	J206
-CONNECTOR	unknown	CON-HDR-254P-10C-2R-20N_TE_5103309-5__.fp	1	J207
-CONNECTOR	unknown	CON-SIL-254P-31N____.fp	1	P202
+CONNECTOR	unknown	CON-HDR-254P-2C-16R-32N____.fp	1	J?
+CONNECTOR	unknown	CON-SIL-254P-31N____front.fp	1	P202
 DIODE	GREEN	LED254-500_Temic_TLLG5400__green.fp	1	D204
 MTG	unknown	MTG370____.fp	2	A B
 PIN	unknown	PIN165X102____.fp	4	p1 p2 p3 p4

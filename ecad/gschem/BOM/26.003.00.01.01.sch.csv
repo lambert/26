@@ -1,4 +1,7 @@
 refdes	footprint	value	mfg	mfg_PN	vendor	vendor_PN	price	documentation	source	comment	
+D303	DIO1016-425X185_Diotec_1N4148_DO35_C1A2	1N4148	Diotec	1N4148	Conrad	162280	0.15	unknown	unknown	SOD-27	
+D302	DIO1016-425X185_Diotec_1N4148_DO35_C1A2	1N4148	Diotec	1N4148	Conrad	162280	0.15	unknown	unknown	SOD-27	
+D301	DIO1016-520X270_Diodes_1N4004_DO41_C1A2.fp	1N4004	Diotec	1N4004	Conrad	162248	0.08	unknown	unknown	DO-204AL	
 J305	CON-SIL-254P-8N____.fp	unknown	W+P	257-008-1-50-00-6	Conrad	719755	1.15	unknown	unknown	female	
 J304	CON-SIL-254P-8N____.fp	unknown	W+P	257-008-1-50-00-6	Conrad	719755	1.15	unknown	unknown	female	
 J303	CON-SIL-254P-8N____.fp	unknown	W+P	257-008-1-50-00-6	Conrad	719755	1.15	unknown	unknown	female	
@@ -17,14 +20,11 @@ C	MTG370____.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
 B	MTG370____.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
 A	MTG370____.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
 J300	CON-SIL-254P-31N____.fp	unknown	W+P	153-034-1-50-00	Conrad	738348	2.37	unknown	unknown	female	
-D301	DIO1016-520X270_Diodes_1N4004_DO41_C1A2.fp	1N4004	Diotec	1N4004	Conrad	162248	0.08	unknown	unknown	DO-204AL	
 C312	CAPPR500-1000X1300____.fp	100uF/63V	Teapo	SY	Conrad	444066	0.18	unknown	unknown	unknown	
 R308	RES1270-635X229____0.6W.fp	1k	UNI-OHM	CFR0W2J0102**0	Conrad	405256	0.11	unknown	unknown	0411	
 U301	DIPS08300____.fp	CA3140E	Intersil	CA3140E	Conrad	174785	0.92	unknown	unknown	Conrad 189600 DIP-8 socket	
-R310	TRIM_Piher_PT-15LH01__.fp	10k	Piher	PT 15 LH 01 10K	Conrad	431230	0.53	unknown	unknown	unknown	
+R310	TRIM_Piher_PT-15LH05__.fp	10k	Piher	PT 15 LH 05 10K	Conrad	431230	0.53	unknown	unknown	unknown	
 R309	RES1270-635X229____0.6W.fp	1k	UNI-OHM	CFR0W2J0102**0	Conrad	405256	0.11	unknown	unknown	0411	
-D302	DIO1016-425X185_Diotec_1N4148_DO35_C1A2	1N4148	Diotec	1N4148	Conrad	162280	0.15	unknown	unknown	SOD-27	
-D303	DIO1016-425X185_Diotec_1N4148_DO35_C1A2	1N4148	Diotec	1N4148	Conrad	162280	0.15	unknown	unknown	SOD-27	
 C311	CAPR250-450X850____.fp	100nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	X7R	
 C310	CAPR250-450X850____.fp	100nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	X7R	
 C309	CAPR250-450X850____.fp	100nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	X7R	

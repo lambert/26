@@ -240,7 +240,7 @@ D204	unknown	RED	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown
 R211	RES1270-635X229____0.5W	680	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
 R303	unknown	47k	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
 R304	unknown	4k7	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
-C314	unknown	100nF	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+C314	unknown	10uF/35V	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
 C313	unknown	10uF/35V	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
 S201	CONNECTOR 2 3	2P2T	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
 R302	unknown	10k	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
