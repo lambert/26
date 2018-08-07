@@ -1,19 +1,18 @@
 # PcbBOM Version 1.0
-# Date: Sun 29 Jul 2018 08:17:14 AM GMT UTC
+# Date: Tue 07 Aug 2018 08:07:54 PM GMT UTC
 # Author: Bert Timmerman
 # Title: 26.002.00.01.01.pcb - PCB BOM
 # Quantity, Description, Value, RefDes
 # --------------------------------------------
-1,"01_front_pcb_assembly","01_front_pcb_assembly",P102 
-1,"____MIN-XY","MIN-XY",(unknown) 
-1,"____MAX-XY","MAX-XY",(unknown) 
-1,"CON-HDR-254P-10C-2R-20N_Molex__8624-Series_","Molex__8624-Series",J107 
-1,"SW_Apem_5547A__","Apem 5547A",S102 
-1,"SW_Apem_5546A__","Apem 5546A",S101 
-2,"MTG320-TOOLING____","(unknown)",(unknown) (unknown) 
-1,"RES1270-635X229____0.6W","0.6W",R111 
-1,"RES1780-1000X390____2W","2W",R107 
-1,"CON-BNC__UG290__flange","BNC UG290 flange mounted",J106 
-1,"CAPA508","(unknown)",C101 
-4,"PIN165X102____","(unknown)",p2 p3 p1 p4 
-1,"LED254-500_Kingbright_L-7113IT__green","Kingbright L-7113IT green",D104 
+1,"RES1780-1000X390____2W","150 / 2W",R207 
+4,"PIN165X102____.fp","unknown",p3 p4 p1 p2 
+2,"MTG370____.fp","unknown",B A 
+1,"SW_Apem_5547A__.fp","Apem 5547A",S202 
+1,"SW_Apem_5546A__.fp","Apem 5546A",S201 
+1,"LED254-500_Temic_TLLG5400__green.fp","GREEN",D204 
+1,"RES1270-635X229____0.6W.fp","680",R211 
+1,"CON-BNC__UG290__flange-modded.fp","UG290U",J206 
+1,"POT-3N_Weltron_WP20CS-08-60F1-100K-20%-LIN__","100k lin",R201 
+1,"CAPA508____.fp","680nF",C201 
+1,"CON-SIL-254P-31N____front.fp","unknown",P202 
+1,"CON-HDR-254P-16C-2R-32N____.fp","unknown",J? 
