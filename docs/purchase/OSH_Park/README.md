@@ -62,3 +62,17 @@ Bottom view:
 
 [Project description](26-999-00/README.md)
 
+----
+
+# 26.999.01 SOIC8 - DIP08300 Breakout Board.
+
+Top view:
+
+![Top view](26-999-01/26-999-01_top_large.png)
+
+Bottom view:
+
+![Bottom view](26-999-01/26-999-01_bottom_large.png)
+
+[Project description](26-999-01/README.md)
+
