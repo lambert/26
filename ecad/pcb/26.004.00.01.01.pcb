@@ -1,4 +1,4 @@
-# release: pcb 4.0.2
+# release: pcb 4.1.2
 
 # To read pcb files, the pcb version (or the git source date) must be >= the file version
 FileVersion[20091103]
@@ -1228,7 +1228,7 @@ Element["" "____MAX-XY" "" "MAX-XY" 165.0000mm 5.0000mm -0.0349mm 5.0242mm 0 100
 
 	)
 
-Element["" "MTG370-700____.fp" "D" "unknown" 85.0000mm 92.5000mm -5.4200mm -0.6750mm 0 100 ""]
+Element["" "MTG370-700____.fp" "D" "unknown" 85.0000mm 92.5000mm -0.4200mm 4.3250mm 0 100 ""]
 (
 	Attribute("device" "MTG")
 	Attribute("manufacturer" "unknown")
@@ -1239,7 +1239,7 @@ Element["" "MTG370-700____.fp" "D" "unknown" 85.0000mm 92.5000mm -5.4200mm -0.67
 
 	)
 
-Element["" "MTG370-700____.fp" "C" "unknown" 85.0000mm 7.5000mm -5.4450mm -0.2300mm 0 100 ""]
+Element["" "MTG370-700____.fp" "C" "unknown" 85.0000mm 7.5000mm -0.4450mm -5.7300mm 0 100 ""]
 (
 	Attribute("device" "MTG")
 	Attribute("manufacturer" "unknown")
@@ -1250,7 +1250,7 @@ Element["" "MTG370-700____.fp" "C" "unknown" 85.0000mm 7.5000mm -5.4450mm -0.230
 
 	)
 
-Element["" "MTG370-700____.fp" "F" "unknown" 160.8000mm 92.5000mm -4.0950mm -0.2700mm 0 100 ""]
+Element["" "MTG370-700____.fp" "F" "unknown" 160.8000mm 92.5000mm -0.0950mm 4.2300mm 0 100 ""]
 (
 	Attribute("device" "MTG")
 	Attribute("manufacturer" "unknown")
@@ -1261,7 +1261,7 @@ Element["" "MTG370-700____.fp" "F" "unknown" 160.8000mm 92.5000mm -4.0950mm -0.2
 
 	)
 
-Element["" "MTG370-700____.fp" "E" "unknown" 160.8000mm 7.5000mm -4.2450mm -0.7700mm 0 100 ""]
+Element["" "MTG370-700____.fp" "E" "unknown" 160.8000mm 7.5000mm -0.2450mm -5.7700mm 0 100 ""]
 (
 	Attribute("device" "MTG")
 	Attribute("manufacturer" "unknown")
@@ -1272,7 +1272,7 @@ Element["" "MTG370-700____.fp" "E" "unknown" 160.8000mm 7.5000mm -4.2450mm -0.77
 
 	)
 
-Element["" "MTG370-700____.fp" "B" "unknown" 9.5000mm 92.5000mm 4.1900mm -25.00mil 0 100 ""]
+Element["" "MTG370-700____.fp" "B" "unknown" 9.5000mm 92.5000mm -0.3100mm 4.3650mm 0 100 ""]
 (
 	Attribute("device" "MTG")
 	Attribute("manufacturer" "unknown")
@@ -1283,7 +1283,7 @@ Element["" "MTG370-700____.fp" "B" "unknown" 9.5000mm 92.5000mm 4.1900mm -25.00m
 
 	)
 
-Element["" "MTG370-700____.fp" "A" "unknown" 9.5000mm 7.5000mm 4.1900mm -0.2700mm 0 100 ""]
+Element["" "MTG370-700____.fp" "A" "unknown" 9.5000mm 7.5000mm -0.3100mm -5.7700mm 0 100 ""]
 (
 	Attribute("device" "MTG")
 	Attribute("manufacturer" "unknown")
@@ -1341,7 +1341,7 @@ Layer(6 "top silk" "silk")
 	Text[12.4300mm 17.5600mm 0 100 "open source" "clearline"]
 	Text[13.7000mm 19.9730mm 0 100 "hardware" "clearline"]
 	Text[23.9870mm 13.7500mm 0 100 "Shielding" "clearline"]
-	Text[23.9870mm 17.6870mm 0 100 "Copyright (C) 2017 Bert Timmerman" "clearline"]
+	Text[23.9870mm 17.6870mm 0 100 "Copyright (C) 2018 Bert Timmerman" "clearline"]
 	Text[23.9870mm 15.7820mm 0 100 "26.004.00.01.01" "clearline"]
 	Polygon("pin,via")
 	(
