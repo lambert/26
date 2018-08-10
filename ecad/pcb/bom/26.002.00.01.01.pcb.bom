@@ -1,10 +1,9 @@
 # PcbBOM Version 1.0
-# Date: Tue 07 Aug 2018 08:07:54 PM GMT UTC
+# Date: Fri 10 Aug 2018 08:06:20 PM GMT UTC
 # Author: Bert Timmerman
 # Title: 26.002.00.01.01.pcb - PCB BOM
 # Quantity, Description, Value, RefDes
 # --------------------------------------------
-1,"RES1780-1000X390____2W","150 / 2W",R207 
 4,"PIN165X102____.fp","unknown",p3 p4 p1 p2 
 2,"MTG370____.fp","unknown",B A 
 1,"SW_Apem_5547A__.fp","Apem 5547A",S202 
@@ -15,4 +14,5 @@
 1,"POT-3N_Weltron_WP20CS-08-60F1-100K-20%-LIN__","100k lin",R201 
 1,"CAPA508____.fp","680nF",C201 
 1,"CON-SIL-254P-31N____front.fp","unknown",P202 
-1,"CON-HDR-254P-16C-2R-32N____.fp","unknown",J? 
+1,"CON-HDR-254P-17C-2R-34N____.fp","unknown",J207 
+1,"RES1780-1500X400____2W","150 / 2W",R207 

@@ -1,5 +1,5 @@
 refdes	footprint	value	mfg	mfg_PN	vendor	vendor_PN	price	documentation	source	comment	
-J207	CON-HDR-254P-16C-2R-32N____.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+J207	CON-HDR-254P-17C-2R-34N____.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
 p3	PIN165X102____.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
 p4	PIN165X102____.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
 p1	PIN165X102____.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
@@ -9,7 +9,7 @@ A	MTG370____.fp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
 S202	SW_Apem_5547A__.fp	Apem 5547A	unknown	unknown	Conrad	700391	5.03	unknown	unknown	unknown	
 S201	SW_Apem_5546A__.fp	Apem 5546A	unknown	unknown	Conrad	700378	4.46	unknown	unknown	unknown	
 P202	CON-SIL-254P-31N____front.fp	unknown	unknown	unknown	Conrad	735000	4.13	unknown	unknown	unknown	
-R207	RES1780-1000X390____2W	150 / 2W	unknown	unknown	Radiocentrum	600388	unknown	unknown	unknown	unknown	
+R207	RES1780-1500X400____2W	150 / 2W	unknown	unknown	Conrad	1474577	0.41	unknown	unknown	unknown	
 D204	LED254-500_Temic_TLLG5400__green.fp	GREEN	unknown	unknown	Conrad	180148	0.21	unknown	unknown	unknown	
 R211	RES1270-635X229____0.6W.fp	680	unknown	unknown	Conrad	405230	0.06	unknown	unknown	unknown	
 J206	CON-BNC__UG290__flange-modded.fp	UG290U	unknown	unknown	Conrad	740837	1.99	unknown	unknown	unknown	
