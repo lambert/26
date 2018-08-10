@@ -4,7 +4,7 @@ Author: Bert Timmerman
 
 Organisation: Me Organized ??
 
-Date: 20180729
+Date: 20180810
 
 ## Specification.
 
@@ -56,28 +56,29 @@ ID  | Description                                  |
 
 ID   | Description                        | Location   |
 -----|------------------------------------|------------|
-J101 | DIN 41617 31-pin connector (male). | main pcb.  |
-J102 | BNC connector (male).              | front pcb. |
+J301 | DIN 41617 31-pin connector (male). | main pcb.  |
+J202 | BNC connector (male).              | front pcb. |
 
 ### Controls.
 
 ID   | Description                        | Location   |
 -----|------------------------------------|------------|
-S101 | Power on/off switch.               | front pcb. |
-S102 | Follow/Reset switch.               | front pcb. |
-R110 | Reference voltage level control.   | front pcb. |
+S201 | Power on/off switch.               | front pcb. |
+S202 | Follow/Reset switch.               | front pcb. |
+R407 | Level control input signal         | front pcb  |
+R310 | Reference voltage level control.   | main pcb.  |
 
 ### Outputs.
 
 ID   | Description                        | Location   |
 -----|------------------------------------|------------|
-J002 | 10-pin connector (female).         | front pcb. |
+J002 | 34-pin connector (female).         | front pcb. |
 
 ### Indicators.
 
 ID   | Description                          | Location   |
 -----|--------------------------------------|------------|
-D104 | LED indicates the "power on" status. | front pcb. |
+D204 | LED indicates the "power on" status. | front pcb. |
 
 ### Power supply.
 
@@ -93,21 +94,21 @@ ID   | Description                          | Location |
 
 ID   | Description                                                     | Location  |
 -----|-----------------------------------------------------------------|-----------|
-U101 | CA3140E operational amplifier in 8 pin DIP 300 mil wide socket. | main pcb. |
-A101 | Filter module in 8 pin SIL socket.                              | main pcb. |
-A102 | Filter module in 8 pin SIL socket.                              | main pcb. |
-A103 | Filter module in 8 pin SIL socket.                              | main pcb. |
-A104 | Filter module in 8 pin SIL socket.                              | main pcb. |
-A105 | Filter module in 8 pin SIL socket.                              | main pcb. |
+U301 | CA3140E operational amplifier in 8 pin DIP 300 mil wide socket. | main pcb. |
+A301 | Filter module in 8 pin SIL socket.                              | main pcb. |
+A302 | Filter module in 8 pin SIL socket.                              | main pcb. |
+A303 | Filter module in 8 pin SIL socket.                              | main pcb. |
+A304 | Filter module in 8 pin SIL socket.                              | main pcb. |
+A305 | Filter module in 8 pin SIL socket.                              | main pcb. |
 
 ### Connectors.
 
 ID    | Description                          | Location   |
 ------|--------------------------------------|------------|
-J001  | DIN 41617 31-pin connector (male).   | main pcb.  |
-J002  | 10-pin connector (female).           | front pcb. |
-TP101 | Test point for GND.                  | main pcb.  |
-TP102 | Test point for GND.                  | front pcb. |
+J301  | DIN 41617 31-pin connector (male).   | main pcb.  |
+J202  | 34-pin connector (female).           | front pcb. |
+TP301 | Test point for GND.                  | main pcb.  |
+TP202 | Test point for GND.                  | front pcb. |
 
 ### Physical dimensions and form factors.
 
@@ -193,7 +194,7 @@ simulated.
 Input stage.
 
 The input stage consists of a single CA3140E operational amplifier with
-feedback loop and dc filtering with a capacitor.
+feedback loop and DC filtering with a capacitor.
 
 The input stage is simulated for both frequency and transient responses.
 
