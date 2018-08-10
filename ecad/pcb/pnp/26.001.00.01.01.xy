@@ -1,9 +1,18 @@
 # PcbXY Version 1.0
-# Date: Sun 29 Jul 2018 08:17:14 AM GMT UTC
+# Date: Fri 10 Aug 2018 08:06:20 PM GMT UTC
 # Author: Bert Timmerman
 # Title: 26.001.00.01.01.pcb - PCB X-Y
 # RefDes, Description, Value, X, Y, rotation, top/bottom
 # X,Y in mm.  rotation in degrees.
 # --------------------------------------------
-(unknown),"MTG320-TOOLING____","(unknown)",20.50,38.00,0,top
-(unknown),"MTG320-TOOLING____","(unknown)",20.50,120.00,0,top
+p4,"MTG280-500____.fp","unknown",55.50,15.00,0,top
+p3,"MTG280-500____.fp","unknown",15.00,15.00,0,top
+p2,"MTG280-500____.fp","unknown",55.50,137.00,0,top
+p1,"MTG280-500____.fp","unknown",15.00,137.00,0,top
+J106,"MTG1100____.fp","unknown",45.25,46.00,0,top
+A,"MTG370____.fp","unknown",35.25,117.00,0,top
+B,"MTG370____.fp","unknown",35.25,35.00,0,top
+S102,"MTG650____pad.fp","unknown",25.25,106.00,0,bottom
+S101,"MTG650____pad.fp","unknown",45.25,106.00,0,bottom
+R101,"MTG1050-1250____pad.fp","unknown",45.25,76.00,0,bottom
+D104,"MTG508____","(unknown)",35.25,106.00,0,top

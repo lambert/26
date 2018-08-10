@@ -1,9 +1,12 @@
 # PcbBOM Version 1.0
-# Date: Sun 29 Jul 2018 08:17:14 AM GMT UTC
+# Date: Fri 10 Aug 2018 08:06:20 PM GMT UTC
 # Author: Bert Timmerman
 # Title: 26.001.00.01.01.pcb - PCB BOM
 # Quantity, Description, Value, RefDes
 # --------------------------------------------
-1,"____MIN-XY","MIN-XY",(unknown) 
-1,"____MAX-XY","MAX-XY",(unknown) 
-2,"MTG320-TOOLING____","(unknown)",(unknown) (unknown) 
+4,"MTG280-500____.fp","unknown",p4 p3 p2 p1 
+1,"MTG1100____.fp","unknown",J106 
+2,"MTG370____.fp","unknown",A B 
+2,"MTG650____pad.fp","unknown",S102 S101 
+1,"MTG1050-1250____pad.fp","unknown",R101 
+1,"MTG508____","(unknown)",D104 
