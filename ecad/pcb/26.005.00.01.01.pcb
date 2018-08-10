@@ -1,4 +1,4 @@
-# release: pcb 4.0.2
+# release: pcb 4.1.2
 
 # To read pcb files, the pcb version (or the git source date) must be >= the file version
 FileVersion[20091103]
@@ -1214,7 +1214,7 @@ Attribute("PCB::grid::unit" "mm")
 Attribute("PCB::grid::size" "0.5000mm")
 Attribute("import::src0" "/home/bert/workspace/git/projects/26_Octave_Filter/ecad/gschem/26.005.00.01.01.sch")
 
-Element["" "PIN165X102____.fp" "p3" "unknown" 6.5000mm 10.0000mm 0.0240mm 1.2300mm 0 100 ""]
+Element["" "PIN165X102____.fp" "p3" "unknown" 6.5000mm 10.0000mm -4.4760mm -0.7700mm 0 100 ""]
 (
 	Attribute("device" "PIN")
 	Attribute("manufacturer" "unknown")
@@ -1225,7 +1225,7 @@ Element["" "PIN165X102____.fp" "p3" "unknown" 6.5000mm 10.0000mm 0.0240mm 1.2300
 
 	)
 
-Element["" "PIN165X102____.fp" "p4" "unknown" 6.5000mm 39.0000mm 60.00mil -50.00mil 0 100 ""]
+Element["" "PIN165X102____.fp" "p4" "unknown" 6.5000mm 39.0000mm -4.4760mm -50.00mil 0 100 ""]
 (
 	Attribute("device" "PIN")
 	Attribute("manufacturer" "unknown")
@@ -1236,7 +1236,7 @@ Element["" "PIN165X102____.fp" "p4" "unknown" 6.5000mm 39.0000mm 60.00mil -50.00
 
 	)
 
-Element["" "PIN165X102____.fp" "p1" "unknown" 13.0000mm 45.5000mm 60.00mil -50.00mil 0 100 ""]
+Element["" "PIN165X102____.fp" "p1" "unknown" 13.0000mm 45.5000mm -0.4760mm 2.7300mm 0 100 ""]
 (
 	Attribute("device" "PIN")
 	Attribute("manufacturer" "unknown")
@@ -1247,7 +1247,7 @@ Element["" "PIN165X102____.fp" "p1" "unknown" 13.0000mm 45.5000mm 60.00mil -50.0
 
 	)
 
-Element["" "PIN165X102____.fp" "p2" "unknown" 42.0000mm 45.5000mm -2.9760mm -50.00mil 0 100 ""]
+Element["" "PIN165X102____.fp" "p2" "unknown" 42.0000mm 45.5000mm -0.4760mm 2.7300mm 0 100 ""]
 (
 	Attribute("device" "PIN")
 	Attribute("manufacturer" "unknown")
@@ -1295,7 +1295,7 @@ Layer(6 "top silk" "silk")
 	Text[7.4300mm 27.5600mm 0 100 "open source" "clearline"]
 	Text[8.7000mm 29.9730mm 0 100 "hardware" "clearline"]
 	Text[11.9870mm 35.7500mm 0 100 "Strut" "clearline"]
-	Text[11.9870mm 39.6870mm 0 100 "Copyright (C) 2017 Bert Timmerman" "clearline"]
+	Text[11.9870mm 39.6870mm 0 100 "Copyright (C) 2018 Bert Timmerman" "clearline"]
 	Text[11.9870mm 37.7820mm 0 100 "26.005.00.01.01" "clearline"]
 	Polygon("pin,via")
 	(
