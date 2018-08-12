@@ -1,7 +1,7 @@
 G04 start of page 8 for group -4063 idx -4063 *
 G04 Title: 26.003.00.01.01.pcb, componentmask *
 G04 Creator: pcb 4.1.2 *
-G04 CreationDate: Fri Aug 10 20:06:22 2018 UTC *
+G04 CreationDate: Sat Aug 11 09:36:16 2018 UTC *
 G04 For: bert *
 G04 Format: Gerber/RS-274X *
 G04 PCB-Dimensions (mil): 6896.06 4633.86 *
