@@ -272,6 +272,10 @@ Detector sections.
 
 ![63 Hz module - BPF stage - Transient response (detail)](../ecad/gnucap/26.006.00.52.02-2.png)
 
+![63 Hz module - BPF stage - Frequency response](../ecad/gnucap/26.006.00.52.03.png)
+
+![63 Hz module - BPF stage - Frequency response](../ecad/gnucap/26.006.00.52.04.png)
+
 ![63 Hz module - Detector stage - Frequency response](../ecad/gnucap/26.006.00.53.01.png)
 
 ![63 Hz module - Detector stage - Transient response](../ecad/gnucap/26.006.00.53.02-1.png)
@@ -281,6 +285,10 @@ Detector sections.
 ![63 Hz module - Detector stage - Transient response (detail)](../ecad/gnucap/26.006.00.53.02-3.png)
 
 ![63 Hz module - Detector stage - Transient response (detail)](../ecad/gnucap/26.006.00.53.02-4.png)
+
+![63 Hz module - Detector stage - Frequency response](../ecad/gnucap/26.006.00.53.03.png)
+
+![63 Hz module - Detector stage - Frequency response](../ecad/gnucap/26.006.00.53.04.png)
 
 ----
 125 Hz Band Pass Filter and Detector section.
