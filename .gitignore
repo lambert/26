@@ -1,8 +1,5 @@
 .*~
 docs/*~
-docs/*.html
-docs/*.pdf
-ecad/gnucap/*.dat
 ecad/gschem/*~
 ecad/pcb/*.save
 src/*~
