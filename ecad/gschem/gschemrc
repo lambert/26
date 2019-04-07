@@ -2,12 +2,9 @@
 (component-library "sym")
 (component-library "sym/components")
 (component-library "sym/generic")
-(component-library "sym/mechanical")
-(component-library "sym/power")
 (component-library "sym/sheets")
 (component-library "sym/units")
 (component-library "sym/vhdl")
 (component-library "sym/installation")
-(paper-size 16.54 11.69)
-lib-newlib = ../../../pcb-footprints/
-
+(paper-size 16.54 11.69) ; A3
+(magnetic-net-mode "disabled")

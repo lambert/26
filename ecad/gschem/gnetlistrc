@@ -1,1 +1,3 @@
-../../../00_utilities/electrical/gschem/gnetlistrc
+(debug-options (list 'stack 200000))
+(eval-options (list 'stack 200000))
+
