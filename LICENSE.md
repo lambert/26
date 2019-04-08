@@ -4,7 +4,9 @@ License Information
 I use two different licenses for files — one for hardware and one for
 source code.
 
-Hardware files (docs, ecad and mcad directories)
+<hr>
+
+## Hardware files (docs, ecad and mcad directories) ##
 
 **This hardware is released under [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).**
 
@@ -49,7 +51,7 @@ may limit how you use the material.
 
 <hr>
 
-Source Code (source directory)
+## Source Code (source directory) ##
 
 **Source code, firmware, and software is released under the GPLv2+ License).**
 
