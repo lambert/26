@@ -51,11 +51,11 @@ may limit how you use the material.
 
 <hr>
 
-## Source Code (source directory) ##
+## Source Code (src directory) ##
 
 **Source code, firmware, and software is released under the GPLv2+ License).**
 
-Copyright (c) 2017 Bert Timmerman <bert.timmerman@xs4all.nl>
+Copyright (c) Bert Timmerman <bert.timmerman@xs4all.nl>
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by the
