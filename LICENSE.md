@@ -1,5 +1,4 @@
-License Information
-===================
+# License Information #
 
 I use two different licenses for files — one for hardware and one for
 source code.
