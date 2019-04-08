@@ -1,10 +1,10 @@
 License Information
 ===================
 
-I use two different licenses for files — one for hardware and one for source code.
+I use two different licenses for files — one for hardware and one for
+source code.
 
 Hardware files (docs, ecad and mcad directories)
-------------------------------------------
 
 **This hardware is released under [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).**
 
@@ -13,22 +13,43 @@ Note: This is a human-readable summary of (and not a substitute for) the [licens
 You are free to:
 
 Share — copy and redistribute the material in any medium or format
+
 Adapt — remix, transform, and build upon the material
 for any purpose, even commercially.
-The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+The licensor cannot revoke these freedoms as long as you follow the
+license terms.
+
 Under the following terms:
 
-Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+Attribution — You must give appropriate credit, provide a link to the
+license, and indicate if changes were made.
+You may do so in any reasonable manner, but not in any way that suggests
+the licensor endorses you or your use.
+
+ShareAlike — If you remix, transform, or build upon the material, you
+must distribute your contributions under the same license as the
+original.
+
+No additional restrictions — You may not apply legal terms or
+technological measures that legally restrict others from doing anything
+the license permits.
+
 Notices:
 
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+You do not have to comply with the license for elements of the material
+in the public domain or where your use is permitted by an applicable
+exception or limitation.
 
+No warranties are given.
+The license may not give you all of the permissions necessary for your
+intended use.
+For example, other rights such as publicity, privacy, or moral rights
+may limit how you use the material.
+
+<hr>
 
 Source Code (source directory)
-------------------------------
 
 **Source code, firmware, and software is released under the GPLv2+ License).**
 
@@ -196,7 +217,8 @@ Sections 1 and 2 above provided that you also do one of the following:
 
     a) Accompany it with the complete corresponding machine-readable
     source code, which must be distributed under the terms of Sections
-    1 and 2 above on a medium customarily used for software interchange; or,
+    1 and 2 above on a medium customarily used for software interchange;
+    or,
 
     b) Accompany it with a written offer, valid for at least three
     years, to give any third party, for a charge no more than your
