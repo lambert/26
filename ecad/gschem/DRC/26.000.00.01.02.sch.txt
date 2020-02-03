@@ -5,8 +5,7 @@ ERROR: Duplicated reference U301.
 
 Checking nets with only one connection...
 ERROR: Net 'Vcc' is connected to only one pin: U301:7 .
-ERROR: Net 'unnamed_net8' is connected to only one pin: R308:1 .
-ERROR: Net 'IN' is connected to only one pin: C201:1 .
+ERROR: Net 'unnamed_net7' is connected to only one pin: R308:1 .
 
 Checking pins without the 'pintype' attribute...
 INTERNAL ERROR: unknown pin type : gnd
@@ -14,16 +13,16 @@ INTERNAL ERROR: unknown pin type : gnd
 INTERNAL ERROR: unknown pin type : gnd
 INTERNAL ERROR: unknown pin type : gnd
 INTERNAL ERROR: unknown pin type : gnd
-NOTE: Found pins without the 'pintype' attribute: S202:6 U301:7 S202:4 S202:2 S202:5 S202:1 S202:3 U301:7 U301:4 U301:4 
+NOTE: Found pins without the 'pintype' attribute: S202:6 U301:7 S202:4 S202:2 S202:5 S202:1 S202:3 U301:4 U301:7 U301:4 
 Checking type of pins connected to a net...
-ERROR: Pin(s) with pintype 'output': A305:1 A305:2 A304:1 A304:2 A303:1 A303:2 A302:1 A302:2 A301:1 A301:2 
+INTERNAL ERROR: unknown pin type : gnd
+INTERNAL ERROR: unknown pin type : gnd
+INTERNAL ERROR: unknown pin type : gnd
+INTERNAL ERROR: unknown pin type : gnd
+INTERNAL ERROR: unknown pin type : gnd
+ERROR: Pin(s) with pintype 'output': A305:1 A305:2 A304:1 A304:2 A303:1 A303:2 A302:1 A302:2 A301:1 A301:2 U301:6 
 	are connected by net 'OUTPUT'
-	to pin(s) with pintype 'output': A305:1 A305:2 A304:1 A304:2 A303:1 A303:2 A302:1 A302:2 A301:1 A301:2 
-INTERNAL ERROR: unknown pin type : gnd
-INTERNAL ERROR: unknown pin type : gnd
-INTERNAL ERROR: unknown pin type : gnd
-INTERNAL ERROR: unknown pin type : gnd
-INTERNAL ERROR: unknown pin type : gnd
+	to pin(s) with pintype 'output': A305:1 A305:2 A304:1 A304:2 A303:1 A303:2 A302:1 A302:2 A301:1 A301:2 U301:6 
 
 Checking unconnected pins...
 
@@ -35,4 +34,4 @@ ERROR: duplicated slot 1 of uref U301
 Checking unused slots...
 
 No warnings found. 
-Found 6 errors.
+Found 5 errors.
