@@ -7,7 +7,7 @@ page=01
 T 51500 40100 5 10 1 1 0 0 1
 pages=01
 T 54000 40400 5 10 1 1 0 0 1
-revision=20170917
+revision=20200203
 T 54000 40100 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 50000 40700 5 10 1 1 0 0 1
@@ -72,4 +72,18 @@ T 48800 44300 5 10 1 1 0 0 1
 refdes=D
 T 48300 45300 5 10 0 0 0 0 1
 footprint=MTG370-700____.fp
+}
+C 48300 41100 1 0 0 CC-BY-SA.sym
+{
+T 48400 42100 5 10 0 0 0 0 1
+symversion=20180915
+T 48400 42300 5 10 0 0 0 0 1
+footprint=CC-BY-SA.fp
+}
+C 48300 40800 1 0 0 Made_in_NL.sym
+{
+T 48400 41800 5 10 0 0 0 0 1
+symversion=20180915
+T 48400 42000 5 10 0 0 0 0 1
+footprint=NL_contour_filled_150x188.fp
 }

@@ -148,7 +148,7 @@ pages=01
 T 26400 600 5 10 1 1 0 0 1
 file=26.002.00.01.01.sch
 T 30300 600 5 10 1 1 0 0 1
-revision=20190513
+revision=20200203
 T 30300 300 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 26400 900 5 10 1 1 0 0 1
@@ -581,4 +581,18 @@ N 17900 8900 16800 8900 4
 {
 T 18700 8900 5 10 1 1 0 1 1
 netname=IN
+}
+C 24600 1300 1 0 0 CC-BY-SA.sym
+{
+T 24700 2300 5 10 0 0 0 0 1
+symversion=20180915
+T 24700 2500 5 10 0 0 0 0 1
+footprint=CC-BY-SA.fp
+}
+C 24600 1000 1 0 0 Made_in_NL.sym
+{
+T 24700 2000 5 10 0 0 0 0 1
+symversion=20180915
+T 24700 2200 5 10 0 0 0 0 1
+footprint=NL_contour_filled_150x188.fp
 }

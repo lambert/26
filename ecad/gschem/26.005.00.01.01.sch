@@ -56,7 +56,7 @@ page=01
 T 51500 40100 5 10 1 1 0 0 1
 pages=01
 T 54000 40400 5 10 1 1 0 0 1
-revision=20170917
+revision=20200203
 T 54000 40100 5 10 1 1 0 0 1
 author=Bert Timmerman
 L 49700 44200 47600 44200 3 0 0 0 -1 -1
@@ -70,3 +70,10 @@ T 50000 40900 5 10 1 1 0 0 1
 comment=schematic
 T 50000 41100 5 10 1 1 0 0 1
 description=Octave Filter - Strut pcb (DFM)
+C 48300 41100 1 0 0 CC-BY-SA.sym
+{
+T 48400 42100 5 10 0 0 0 0 1
+symversion=20180915
+T 48400 42300 5 10 0 0 0 0 1
+footprint=CC-BY-SA.fp
+}
