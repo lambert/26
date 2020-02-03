@@ -617,7 +617,7 @@ pages=07
 T 26400 600 5 10 1 1 0 0 1
 file=26.000.00.01.02.sch
 T 30300 600 5 10 1 1 0 0 1
-revision=20180811
+revision=20190513
 T 30300 300 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 26400 900 5 10 1 1 0 0 1
@@ -761,8 +761,6 @@ device=DRC_Directive
 }
 C 13900 11100 1 180 0 15V-minus.sym
 C 13500 11800 1 0 0 15V-plus.sym
-C 10100 9300 1 0 0 15V-plus.sym
-C 10100 8500 1 0 0 15V-minus.sym
 C 25500 8200 1 0 0 15V-plus.sym
 C 22800 21000 1 0 0 15V-plus.sym
 C 17600 20600 1 0 0 15V-plus.sym
@@ -816,3 +814,5 @@ T 28200 9700 5 10 0 0 0 0 1
 device=none
 }
 V 27700 9100 50 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+C 10100 9300 1 0 0 15V-minus.sym
+C 10100 8500 1 0 0 15V-plus.sym
