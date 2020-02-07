@@ -13,6 +13,7 @@ set ylabel "Current [A]"
 # setup X-axis
 set grid xtics lt 1 lw 1 lc rgb "#bbbbbb"
 set mxtics
+set xrange [0:0.1]
 set xlabel "Time [sec]"
 
 # setup plot style

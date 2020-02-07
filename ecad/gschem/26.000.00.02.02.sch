@@ -5,7 +5,7 @@ T 15400 1700 15 10 0 0 0 0 1
 device=none
 }
 T 13400 400 5 10 1 1 0 0 1
-revision=20200205
+revision=20200207
 T 13400 100 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 9500 100 5 10 1 1 0 0 1
@@ -194,7 +194,7 @@ XOP1 6 7 0 4 5 3 UA741
 
 .PRINT OP Iter(0) V(3)
 
-.PRINT TRAN V(1) V(3) V(9)
+.PRINT TRAN V(1) V(3) V(4) V(5)
 
 *     FROM  TO   STEP
 .TRAN 0     0.4  0.00001 TRACE ALL

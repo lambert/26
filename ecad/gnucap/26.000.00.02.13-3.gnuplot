@@ -21,7 +21,9 @@ set xlabel "Time [sec]"
 set style data lines
 plot '26.000.00.02.13.dat' using 1:2 title "Vin", \
      '26.000.00.02.13.dat' using 1:3 title "Vout1", \
-     '26.000.00.02.13.dat' using 1:4 title "Vout2"
+     '26.000.00.02.13.dat' using 1:4 title "Vout2", \
+     '26.000.00.02.13.dat' using 1:5 title "Vcc", \
+     '26.000.00.02.13.dat' using 1:6 title "Vee"
 
 # set output back to default
 set output

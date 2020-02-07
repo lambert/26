@@ -1,0 +1,39 @@
+START header
+
+gEDA's netlist format
+Created specifically for testing of gnetlist
+
+END header
+
+START components
+
+XOP1 device=OPAMP
+C2 device=CAPACITOR
+C1 device=CAPACITOR
+R3 device=RESISTOR
+R2 device=RESISTOR
+VS device=vac
+R1 device=RESISTOR
+
+END components
+
+START renamed-nets
+
+5 -> Vee
+4 -> Vcc
+0 -> GND
+
+END renamed-nets
+
+START nets
+
+Vee : XOP1 4 
+Vcc : XOP1 7 
+6 : XOP1 2, C1 2, R2 1 
+3 : C2 2, XOP1 6, R2 2 
+GND : R3 1, XOP1 3, VS 2 
+1 : VS 1, R1 1 
+2 : C2 1, C1 1, R3 2, R1 2 
+
+END nets
+

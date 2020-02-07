@@ -6,7 +6,7 @@
 VCC 4 0 pulse(iv=0 pv=15 rise=.01)
 VEE 5 0 pulse(iv=0 pv=-15 rise=.01)
 
-VS 1 0 AC 1 SIN(0 1 63)
+VS 1 0 AC 1 SIN(0 0.141 63)
 R1 1 2 15900
 R2 3 6 159K
 R3 0 2 7200
@@ -17,7 +17,7 @@ XOP1 0 6 0 4 5 3 UA741
 
 .PRINT OP Iter(0) V(3)
 
-.PRINT TRAN P(R1) P(R2) P(R3)
+.PRINT TRAN V(1) V(3) V(4) V(5)
 
 *     FROM  TO   STEP
 .TRAN 0     0.2  0.0001 TRACE ALL

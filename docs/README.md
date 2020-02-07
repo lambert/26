@@ -246,6 +246,8 @@ Detector sections.
 
 ![31.5 Hz section - BPF stage - Transient response @ 31.5 Hz(detail)](../ecad/gnucap/26.000.00.02.06-2.png)
 
+![31.5 Hz section - BPF stage - Transient response @ 31.5 Hz(detail)](../ecad/gnucap/26.000.00.02.06-3.png)
+
 ![31.5 Hz section - BPF stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.000.00.02.07.png)
 
 ![31.5 Hz section - BPF stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.000.00.02.08.png)
@@ -274,15 +276,23 @@ Detector sections.
 
 **63 Hz Band Pass Filter and Detector section.**
 
-![63 Hz module - BPF stage - Frequency response](../ecad/gnucap/26.006.00.52.01.png)
+![63 Hz module - BPF stage - Frequency response](../ecad/gnucap/26.000.00.02.16.png)
 
-![63 Hz module - BPF stage - Transient response](../ecad/gnucap/26.006.00.52.02-1.png)
+![63 Hz module - BPF stage - Transient response @ 63 Hz](../ecad/gnucap/26.000.00.02.17-1.png)
 
-![63 Hz module - BPF stage - Transient response (detail)](../ecad/gnucap/26.006.00.52.02-2.png)
+![63 Hz module - BPF stage - Transient response @ 63 Hz (detail)](../ecad/gnucap/26.000.00.02.17-2.png)
 
-![63 Hz module - BPF stage - Frequency response](../ecad/gnucap/26.006.00.52.03.png)
+![63 Hz module - BPF stage - Transient response @ 63 Hz](../ecad/gnucap/26.000.00.02.18.png)
 
-![63 Hz module - BPF stage - Frequency response](../ecad/gnucap/26.006.00.52.04.png)
+![63 Hz module - BPF stage - Frequency response @ 63 Hz](../ecad/gnucap/26.000.00.02.19.png)
+
+![63 Hz module - BPF stage - Frequency response @ 16 kHz](../ecad/gnucap/26.000.00.02.20-1.png)
+
+![63 Hz module - BPF stage - Frequency response @ 16 kHz (detail)](../ecad/gnucap/26.000.00.02.20-2.png)
+
+![63 Hz module - BPF stage - Frequency response @ 16 kHz](../ecad/gnucap/26.000.00.02.21.png)
+
+![63 Hz module - BPF stage - Frequency response @ 16 kHz](../ecad/gnucap/26.000.00.02.22.png)
 
 ![63 Hz module - Detector stage - Frequency response](../ecad/gnucap/26.006.00.53.01.png)
 
