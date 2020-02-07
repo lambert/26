@@ -1,5 +1,6 @@
 .*~
 docs/*~
+ecad/gnucap/*.dat
 ecad/gschem/doc
 ecad/gschem/plotfiles
 ecad/gschem/sym
