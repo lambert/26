@@ -211,25 +211,25 @@ The transient responses are simulated with a ramp up (step) of 0.01
 seconds in the power supply (+/- 15 V DC) for the operational amplifier,
 as to investigate the power up of the input stage.
 
-![Main board - Input stage - Frequency response](../ecad/gnucap/26.003.00.02.01.png)
+![Main board - Input stage - Frequency response](../ecad/gnucap/26.000.00.02.01.png)
 
-![Main board - Input stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.003.00.02.02-1.png)
+![Main board - Input stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.000.00.02.02-1.png)
 
-![Main board - Input stage - Transient response @ 31.5 Hz (detail)](../ecad/gnucap/26.003.00.02.02-2.png)
+![Main board - Input stage - Transient response @ 31.5 Hz (detail)](../ecad/gnucap/26.000.00.02.02-2.png)
 
-![Main board - Input stage - Transient response @ 16 kHz](../ecad/gnucap/26.003.00.02.03-1.png)
+![Main board - Input stage - Transient response @ 16 kHz](../ecad/gnucap/26.000.00.02.03-1.png)
 
-![Main board - Input stage - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.003.00.02.03-2.png)
+![Main board - Input stage - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.000.00.02.03-2.png)
 
-![Main board - Input stage - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.003.00.02.03-3.png)
+![Main board - Input stage - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.000.00.02.03-3.png)
 
-![Main board - Input stage - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.003.00.02.03-4.png)
+![Main board - Input stage - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.000.00.02.03-4.png)
 
-![Main board - Input stage - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.003.00.02.03-5.png)
+![Main board - Input stage - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.000.00.02.03-5.png)
 
-![Main board - Input stage - Transient response @ 1 kHz](../ecad/gnucap/26.003.00.02.04-1.png)
+![Main board - Input stage - Transient response @ 1 kHz](../ecad/gnucap/26.0003.00.02.04-1.png)
 
-![Main board - Input stage - Transient response @ 1 kHz (detail)](../ecad/gnucap/26.003.00.02.04-2.png)
+![Main board - Input stage - Transient response @ 1 kHz (detail)](../ecad/gnucap/26.000.00.02.04-2.png)
 
 ----
 
@@ -240,29 +240,37 @@ Detector sections.
 
 **31.5 Hz Band Pass Filter and Detector section.**
 
-![31.5 Hz section - BPF stage - Frequency response](../ecad/gnucap/26.006.00.02.01.png)
+![31.5 Hz section - BPF stage - Frequency response](../ecad/gnucap/26.000.00.02.05.png)
 
-![31.5 Hz section - BPF stage - Transient response](../ecad/gnucap/26.006.00.02.02-1.png)
+![31.5 Hz section - BPF stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.000.00.02.06-1.png)
 
-![31.5 Hz section - BPF stage - Transient response (detail)](../ecad/gnucap/26.006.00.02.02-2.png)
+![31.5 Hz section - BPF stage - Transient response @ 31.5 Hz(detail)](../ecad/gnucap/26.000.00.02.06-2.png)
 
-![31.5 Hz section - BPF stage - Transient response](../ecad/gnucap/26.006.00.02.03.png)
+![31.5 Hz section - BPF stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.000.00.02.07.png)
 
-![31.5 Hz section - BPF stage - Transient response](../ecad/gnucap/26.006.00.02.04.png)
+![31.5 Hz section - BPF stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.000.00.02.08.png)
 
-![31.5 Hz section - BPF stage - Transient response @ 16 kHz](../ecad/gnucap/26.006.00.02.05.png)
+![31.5 Hz section - BPF stage - Transient response @ 16 kHz](../ecad/gnucap/26.000.00.02.09-1.png)
 
-![31.5 Hz section - BPF stage - Transient response @ 16 kHz](../ecad/gnucap/26.006.00.02.06.png)
+![31.5 Hz section - BPF stage - Transient response @ 16 kHz(detail)](../ecad/gnucap/26.000.00.02.09-2.png)
 
-![31.5 Hz section - Detector stage - Frequency response](../ecad/gnucap/26.006.00.03.01.png)
+![31.5 Hz section - BPF stage - Transient response @ 16 kHz](../ecad/gnucap/26.000.00.02.10.png)
 
-![31.5 Hz section - Detector stage - Transient response](../ecad/gnucap/26.006.00.03.02-1.png)
+![31.5 Hz section - BPF stage - Transient response @ 16 kHz](../ecad/gnucap/26.000.00.02.11.png)
 
-![31.5 Hz section - Detector stage - Transient response (detail)](../ecad/gnucap/26.006.00.03.02-2.png)
+![31.5 Hz section - Detector stage - Frequency response](../ecad/gnucap/26.000.00.02.12.png)
 
-![31.5 Hz section - Detector stage - Transient response (detail)](../ecad/gnucap/26.006.00.03.02-3.png)
+![31.5 Hz section - Detector stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.000.00.02.13-1.png)
 
-![31.5 Hz section - Detector stage - Transient response (detail)](../ecad/gnucap/26.006.00.03.02-4.png)
+![31.5 Hz section - Detector stage - Transient response @ 31.5 Hz (detail)](../ecad/gnucap/26.000.00.02.13-2.png)
+
+![31.5 Hz section - Detector stage - Transient response @ 31.5 Hz (detail)](../ecad/gnucap/26.000.00.02.13-3.png)
+
+![31.5 Hz section - Detector stage - Transient response @ 31.5 Hz (detail)](../ecad/gnucap/26.000.00.02.13-4.png)
+
+![31.5 Hz section - Detector stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.000.00.02.14.png)
+
+![31.5 Hz section - Detector stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.000.00.02.15.png)
 
 **63 Hz Band Pass Filter and Detector section.**
 
