@@ -353,11 +353,11 @@ the schematics.
 
 #### Layout files.
 
-![link to layout files](../ecad/pcb/)
+[link to layout files](../ecad/pcb/)
 
 #### Visual Testing files.
 
-![link to eyecandy](../ecad/pcb/eyecandy/)
+[link to eyecandy](../ecad/pcb/eyecandy/)
 
 #### Design Rules Check.
 
@@ -385,11 +385,11 @@ the schematics.
 
 #### Quotations.
 
-![link to OSH Park fabrication services](purchase/OSH_Park/fabrication_services.md)
+[link to OSH Park fabrication services](purchase/OSH_Park/fabrication_services.md)
 
 #### OSH Park.
 
-![link to OSH Park directory](purchase/OSH_Park/)
+[link to OSH Park directory](purchase/OSH_Park/)
 
 #### QA/QC Testing.
 
