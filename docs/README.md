@@ -217,17 +217,17 @@ as to investigate the power up of the input stage.
 
 ![Main board - Input stage - Transient response @ 31.5 Hz (detail)](../ecad/gnucap/26.003.00.01.01.02.png)
 
-![Main board - Input stage - Transient response @ 16 kHz](../ecad/gnucap/26.000.00.02.03-1.png)
+![Main board - Input stage - Transient response @ 16 kHz](../ecad/gnucap/26.003.00.01.02.01.png)
 
-![Main board - Input stage - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.000.00.02.03-2.png)
+![Main board - Input stage - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.003.00.01.02.02.png)
 
-![Main board - Input stage - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.000.00.02.03-3.png)
+![Main board - Input stage - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.003.00.01.02.03.png)
 
-![Main board - Input stage - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.000.00.02.03-4.png)
+![Main board - Input stage - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.003.00.01.02.04.png)
 
-![Main board - Input stage - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.000.00.02.03-5.png)
+![Main board - Input stage - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.003.00.01.02.05.png)
 
-![Main board - Input stage - Transient response @ 1 kHz](../ecad/gnucap/26.0003.00.02.04-1.png)
+![Main board - Input stage - Transient response @ 1 kHz](../ecad/gnucap/26.000.00.02.04-1.png)
 
 ![Main board - Input stage - Transient response @ 1 kHz (detail)](../ecad/gnucap/26.000.00.02.04-2.png)
 

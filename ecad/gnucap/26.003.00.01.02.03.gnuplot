@@ -2,7 +2,7 @@
 set term png
 
 # setup graph
-set output "26.000.00.02.03-5.png"
+set output "26.003.00.01.02.03.png"
 set title "Main board - Input stage - Transient response @ 16 kHz"
 
 # setup Y-axis
@@ -14,15 +14,15 @@ set ylabel "Voltage [V]"
 # setup X-axis
 set grid xtics lt 1 lw 1 lc rgb "#bbbbbb"
 set mxtics
-set xrange [0.006:0.008]
+set xrange [0.002:0.004]
 set xlabel "Time [sec]"
 
 # setup plot style
 set style data lines
-plot '26.000.00.02.03.dat' using 1:2 title "Vin", \
-     '26.000.00.02.03.dat' using 1:3 title "Vout", \
-     '26.000.00.02.03.dat' using 1:4 title "Vcc", \
-     '26.000.00.02.03.dat' using 1:5 title "Vee"
+plot '26.003.00.01.02.dat' using 1:2 title "Vin", \
+     '26.003.00.01.02.dat' using 1:3 title "Vout", \
+     '26.003.00.01.02.dat' using 1:4 title "Vcc", \
+     '26.003.00.01.02.dat' using 1:5 title "Vee"
 
 # set output back to default
 set output
