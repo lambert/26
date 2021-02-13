@@ -1,5 +1,5 @@
 # PcbXY Version 1.0
-# Date: Sat 11 Aug 2018 09:36:14 AM GMT UTC
+# Date: za 13 feb 2021 13:51:22 GMT UTC
 # Author: Bert Timmerman
 # Title: 26.001.00.01.01.pcb - PCB X-Y
 # RefDes, Description, Value, X, Y, rotation, top/bottom
@@ -15,4 +15,4 @@ B,"MTG370____.fp","unknown",35.25,35.00,0,top
 S102,"MTG650____pad.fp","unknown",25.25,106.00,0,bottom
 S101,"MTG650____pad.fp","unknown",45.25,106.00,0,bottom
 R101,"MTG1050-1250____pad.fp","unknown",45.25,76.00,0,bottom
-D104,"MTG508____","(unknown)",35.25,106.00,0,top
+D104,"MTG508____.fp","unknown",35.25,106.00,0,top

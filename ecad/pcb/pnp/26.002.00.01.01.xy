@@ -1,5 +1,5 @@
 # PcbXY Version 1.0
-# Date: Sat 11 Aug 2018 09:36:14 AM GMT UTC
+# Date: za 13 feb 2021 13:51:22 GMT UTC
 # Author: Bert Timmerman
 # Title: 26.002.00.01.01.pcb - PCB X-Y
 # RefDes, Description, Value, X, Y, rotation, top/bottom
@@ -16,8 +16,8 @@ S201,"SW_Apem_5546A__.fp","Apem 5546A",38.00,87.50,90,top
 D204,"LED254-500_Temic_TLLG5400__green.fp","GREEN",28.00,87.50,180,top
 R211,"RES1270-635X229____0.6W.fp","680",38.00,78.00,0,top
 J206,"CON-BNC__UG290__flange-modded.fp","UG290U",39.59,29.09,90,top
-R201,"POT-3N_Weltron_WP20CS-08-60F1-100K-20%-LIN__","100k lin",38.06,40.56,270,top
 C201,"CAPA508____.fp","680nF",26.50,34.50,90,top
 P202,"CON-SIL-254P-31N____front.fp","unknown",11.50,57.50,0,top
 J207,"CON-HDR-254P-17C-2R-34N____.fp","unknown",18.00,39.50,0,top
 R207,"RES1780-1500X400____2W","150 / 2W",38.00,73.25,180,top
+R201,"POT-3N_Weltron_WP20CS-08-60F1-100K-20%-LIN__","100k lin",38.00,40.74,270,top

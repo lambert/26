@@ -1,4 +1,8 @@
 (gerbv-file-version! "2.0A")
+(define-layer! 9 (cons 'filename "26.002.00.01.01.GBO")
+	(cons 'visible #t)
+	(cons 'color #(29555 29555 57054))
+)
 (define-layer! 8 (cons 'filename "26.002.00.01.01.GBS")
 	(cons 'visible #t)
 	(cons 'color #(65535 32639 29555))

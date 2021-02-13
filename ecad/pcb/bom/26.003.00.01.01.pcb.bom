@@ -1,5 +1,5 @@
 # PcbBOM Version 1.0
-# Date: Sat 11 Aug 2018 09:36:14 AM GMT UTC
+# Date: za 13 feb 2021 13:51:22 GMT UTC
 # Author: Bert Timmerman
 # Title: 26.003.00.01.01.pcb - PCB BOM
 # Quantity, Description, Value, RefDes
@@ -22,3 +22,4 @@
 1,"TRIM_Piher_PT-15LH05__.fp","10k",R310 
 1,"RES1270-635X229____0.6W.fp","47k",R303 
 2,"DIO1016-425X185_Diotec_1N4148_DO35_C1A2","1N4148",D303 D302 
+1,"CC-BY-SA.fp","(unknown)",(unknown) 
