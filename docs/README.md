@@ -213,9 +213,9 @@ as to investigate the power up of the input stage.
 
 ![Main board - Input stage - Frequency response](../ecad/gnucap/26.003.00.00.01.png)
 
-![Main board - Input stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.000.00.02.02-1.png)
+![Main board - Input stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.003.00.01.01.01.png)
 
-![Main board - Input stage - Transient response @ 31.5 Hz (detail)](../ecad/gnucap/26.000.00.02.02-2.png)
+![Main board - Input stage - Transient response @ 31.5 Hz (detail)](../ecad/gnucap/26.003.00.01.01.02.png)
 
 ![Main board - Input stage - Transient response @ 16 kHz](../ecad/gnucap/26.000.00.02.03-1.png)
 
