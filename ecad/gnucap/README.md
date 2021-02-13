@@ -56,7 +56,7 @@ cc = subpage number
 010 = 8 kHz and 16 kHz Filter Module PCB
 
 
-### Revion number (zz):
+### Revision number (zz):
 
 00 = First issue
 
