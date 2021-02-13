@@ -211,7 +211,7 @@ The transient responses are simulated with a ramp up (step) of 0.01
 seconds in the power supply (+/- 15 V DC) for the operational amplifier,
 as to investigate the power up of the input stage.
 
-![Main board - Input stage - Frequency response](../ecad/gnucap/26.000.00.02.01.png)
+![Main board - Input stage - Frequency response](../ecad/gnucap/26.003.00.00.01.png)
 
 ![Main board - Input stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.000.00.02.02-1.png)
 
