@@ -178,7 +178,7 @@ Detailed graphs were made where required.
 ##### Discussion of results.
 
 All input files were processed with gnucap version 0.35 and all data
-files were processed with gnuplot version 4.2 patchlevel 6.
+files were processed with gnuplot version 5.2 patchlevel 8.
 
 ###### 26.003 main board.
 
@@ -227,9 +227,9 @@ as to investigate the power up of the input stage.
 
 ![Main board - Input stage - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.003.00.01.02.05.png)
 
-![Main board - Input stage - Transient response @ 1 kHz](../ecad/gnucap/26.000.00.02.04-1.png)
+![Main board - Input stage - Transient response @ 1 kHz](../ecad/gnucap/26.003.00.01.03.01.png)
 
-![Main board - Input stage - Transient response @ 1 kHz (detail)](../ecad/gnucap/26.000.00.02.04-2.png)
+![Main board - Input stage - Transient response @ 1 kHz (detail)](../ecad/gnucap/26.003.00.01.03.02.png)
 
 ----
 
