@@ -6,7 +6,7 @@ set output "26.003.00.01.02.03.png"
 set title "Main board - Input stage - Transient response @ 16 kHz"
 
 # setup Y-axis
-set yrange [-15:15]
+set yrange [-16:16]
 set grid ytics lt 1 lw 1 lc rgb "#bbbbbb"
 set mytics
 set ylabel "Voltage [V]"

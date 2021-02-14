@@ -20,7 +20,7 @@ Where:
 
 xx = unit number = 26
 
-yyy = part number
+yyy = function block number
 
 zz = revision number
 
@@ -31,29 +31,53 @@ bb = page number
 cc = subpage number
 
 
-### Part numbers (yyy):
+### Function numbers (yyy):
 
-000 = Octave Filter
+000 = Octave Filter (complete)
 
-001 = Front Panel
+001 = Pre-amplifier
 
-002 = Front PCB
+002 = 31.5 Hz band pass filter
 
-003 = Main PCB
+003 = Detector
 
-004 = Shielding PCB
+004 = 63 Hz band pass filter
 
-005 = Strut
+005 = Detector
 
-006 = 32.5 Hz and 63 Hz Filter Module PCB
+006 = 125 Hz band pass filter
 
-007 = 125 Hz and 250 Hz Filter Module PCB
+007 = Detector
 
-008 = 500 Hz and 1 kHz Filter Module PCB
+008 = 250 Hz band pass filter
 
-009 = 2 kHz and 4 kHz Filter Module PCB
+009 = Detector
 
-010 = 8 kHz and 16 kHz Filter Module PCB
+010 = 500 Hz band pass filter
+
+011 = Detector
+
+012 = 1 kHz band pass filter
+
+013 = Detector
+
+014 = 2 kHz band pass filter
+
+015 = Detector
+
+016 = 4 kHz band pass filter
+
+017 = Detector
+
+018 = 8 kHz band pass filter
+
+019 = Detector
+
+020 = 16 kHz band pass filter
+
+021 = Detector
+
+
 
 
 ### Revision number (zz):

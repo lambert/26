@@ -6,7 +6,7 @@ set output "26.006.00.01.01.02.png"
 set title "31.5 Hz section - BPF stage - Transient response @ 31.5 Hz"
 
 # setup Y-axis
-set yrange [-15:15]
+set yrange [-16:16]
 set grid ytics lt 1 lw 1 lc rgb "#bbbbbb"
 set mytics
 set ylabel "Voltage [V]"
