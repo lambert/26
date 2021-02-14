@@ -242,11 +242,11 @@ Detector sections.
 
 ![31.5 Hz section - BPF stage - Frequency response](../ecad/gnucap/26.006.00.00.01.png)
 
-![31.5 Hz section - BPF stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.000.00.02.06-1.png)
+![31.5 Hz section - BPF stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.006.00.01.01.01.png)
 
-![31.5 Hz section - BPF stage - Transient response @ 31.5 Hz(detail)](../ecad/gnucap/26.000.00.02.06-2.png)
+![31.5 Hz section - BPF stage - Transient response @ 31.5 Hz(detail)](../ecad/gnucap/26.006.00.01.01.02.png)
 
-![31.5 Hz section - BPF stage - Transient response @ 31.5 Hz(detail)](../ecad/gnucap/26.000.00.02.06-3.png)
+![31.5 Hz section - BPF stage - Transient response @ 31.5 Hz(detail)](../ecad/gnucap/26.006.00.01.01.03.png)
 
 ![31.5 Hz section - BPF stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.000.00.02.07.png)
 

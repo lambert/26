@@ -2,7 +2,7 @@
 set term png
 
 # setup graph
-set output "26.000.00.02.06-3.png"
+set output "26.006.00.01.01.01.png"
 set title "31.5 Hz section - BPF stage - Transient response @ 31.5 Hz"
 
 # setup Y-axis
@@ -14,15 +14,14 @@ set ylabel "Voltage [V]"
 # setup X-axis
 set grid xtics lt 1 lw 1 lc rgb "#bbbbbb"
 set mxtics
-set xrange [0:0.02]
 set xlabel "Time [sec]"
 
 # setup plot style
 set style data lines
-plot '26.000.00.02.06.dat' using 1:2 title "Vin", \
-     '26.000.00.02.06.dat' using 1:3 title "Vout", \
-     '26.000.00.02.06.dat' using 1:4 title "Vcc", \
-     '26.000.00.02.06.dat' using 1:5 title "Vee"
+plot '26.006.00.01.01.dat' using 1:2 title "Vin", \
+     '26.006.00.01.01.dat' using 1:3 title "Vout", \
+     '26.006.00.01.01.dat' using 1:4 title "Vcc", \
+     '26.006.00.01.01.dat' using 1:5 title "Vee"
 
 # set output back to default
 set output
