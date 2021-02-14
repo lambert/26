@@ -2,7 +2,7 @@
 set term png
 
 # setup graph
-set output "26.000.00.02.05.png"
+set output "26.006.00.00.01.png"
 set title "31.5 Hz section - BPF stage - Frequency response"
 
 # setup Y-axis
@@ -17,7 +17,7 @@ set xlabel "Frequency [Hz]"
 
 # setup plot style
 set style data lines
-plot '26.000.00.02.05.dat' using 1:2 title "Vout"
+plot '26.006.00.00.01.dat' using 1:2 title "Vout"
 
 # set output back to default
 set output
