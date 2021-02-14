@@ -213,25 +213,25 @@ The transient responses are simulated with a ramp up (step) of 0.01
 seconds in the power supply (+/- 15 V DC) for the operational amplifier,
 as to investigate the power up of the input stage.
 
-![Main board - Input stage - Frequency response](../ecad/gnucap/26.003.00.00.01.png)
+![Function 001: Pre-amplifier - Frequency response](../ecad/gnucap/26.001.00.00.01.png)
 
-![Main board - Input stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.003.00.01.01.01.png)
+![Function 001: Pre-amplifier - Transient response @ 31.5 Hz](../ecad/gnucap/26.001.00.01.01.01.png)
 
-![Main board - Input stage - Transient response @ 31.5 Hz (detail)](../ecad/gnucap/26.003.00.01.01.02.png)
+![Function 001: Pre-amplifier - Transient response @ 31.5 Hz (detail)](../ecad/gnucap/26.001.00.01.01.02.png)
 
-![Main board - Input stage - Transient response @ 16 kHz](../ecad/gnucap/26.003.00.01.02.01.png)
+![Function 001: Pre-amplifier - Transient response @ 16 kHz](../ecad/gnucap/26.001.00.01.02.01.png)
 
-![Main board - Input stage - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.003.00.01.02.02.png)
+![Function 001: Pre-amplifier - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.001.00.01.02.02.png)
 
-![Main board - Input stage - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.003.00.01.02.03.png)
+![Function 001: Pre-amplifier - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.001.00.01.02.03.png)
 
-![Main board - Input stage - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.003.00.01.02.04.png)
+![Function 001: Pre-amplifier - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.001.00.01.02.04.png)
 
-![Main board - Input stage - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.003.00.01.02.05.png)
+![Function 001: Pre-amplifier - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.001.00.01.02.05.png)
 
-![Main board - Input stage - Transient response @ 1 kHz](../ecad/gnucap/26.003.00.01.03.01.png)
+![Function 001: Pre-amplifier - Transient response @ 1 kHz](../ecad/gnucap/26.001.00.01.03.01.png)
 
-![Main board - Input stage - Transient response @ 1 kHz (detail)](../ecad/gnucap/26.003.00.01.03.02.png)
+![Function 001: Pre-amplifier - Transient response @ 1 kHz (detail)](../ecad/gnucap/26.001.00.01.03.02.png)
 
 ----
 
