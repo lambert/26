@@ -180,18 +180,20 @@ Detailed graphs were made where required.
 All input files were processed with gnucap version 0.35 and all data
 files were processed with gnuplot version 5.2 patchlevel 8.
 
-###### 26.003 main board.
+###### Function 000: Octave filter (complete).
 
-The main board consists of an input stage, five sockets for
+The main board consists of an input stage (pre-amplifier), five sockets for
 filter+detector modules, and a voltage divider with diodes for a
 reference voltage.
 
 The sockets and voltage divider for a reference voltage were not
 simulated.
 
+![Octave filter](../ecad/gnucap/26.000.00.00.01.png)
+
 ----
 
-Input stage.
+###### Function 001: Pre-amplifier.
 
 The input stage consists of a single CA3140E operational amplifier with
 feedback loop and DC filtering with a capacitor.
@@ -233,12 +235,8 @@ as to investigate the power up of the input stage.
 
 ----
 
-26.006 31.5 and 63 Hz filter and detector module.
+###### Function 002: 31.5 Hz Band-pass Filter.
 
-This module consist of both a 31.5 Hz and a 63 Hz Band Pass Filter and
-Detector sections.
-
-**31.5 Hz Band Pass Filter and Detector section.**
 
 ![31.5 Hz section - BPF stage - Frequency response](../ecad/gnucap/26.006.00.00.01.png)
 
@@ -260,6 +258,10 @@ Detector sections.
 
 ![31.5 Hz section - BPF stage - Transient response @ 16 kHz](../ecad/gnucap/26.000.00.02.11.png)
 
+----
+
+###### Function 003: Detector.
+
 ![31.5 Hz section - Detector stage - Frequency response](../ecad/gnucap/26.000.00.02.12.png)
 
 ![31.5 Hz section - Detector stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.000.00.02.13-1.png)
@@ -274,7 +276,9 @@ Detector sections.
 
 ![31.5 Hz section - Detector stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.000.00.02.15.png)
 
-**63 Hz Band Pass Filter and Detector section.**
+----
+
+###### Function 004: 63 Hz Band-pass Filter.
 
 ![63 Hz module - BPF stage - Frequency response](../ecad/gnucap/26.000.00.02.16.png)
 
@@ -294,6 +298,10 @@ Detector sections.
 
 ![63 Hz module - BPF stage - Frequency response @ 16 kHz](../ecad/gnucap/26.000.00.02.22.png)
 
+----
+
+###### Function 005: Detector.
+
 ![63 Hz module - Detector stage - Frequency response](../ecad/gnucap/26.000.00.02.23.png)
 
 ![63 Hz module - Detector stage - Transient response @ 63 Hz](../ecad/gnucap/26.000.00.02.24-1.png)
@@ -308,12 +316,11 @@ Detector sections.
 
 ![63 Hz module - Detector stage - Transient response @ 63 Hz](../ecad/gnucap/26.000.00.02.26.png)
 
-![63 Hz module - Detector stage - Frequency response](../ecad/gnucap/26.006.00.53.03.png)
+----
 
-![63 Hz module - Detector stage - Frequency response](../ecad/gnucap/26.006.00.53.04.png)
+###### Function 006: 125 Hz Band Pass Filter.
 
 ----
-125 Hz Band Pass Filter and Detector section.
 
 #### ktechlab simulations.
 
