@@ -2,25 +2,25 @@
 set term png
 
 # setup graph
-set output "26.000.00.02.07.png"
-set title "31.5 Hz section - BPF stage - Transient response @ 31.5 Hz"
+set output "26.002.00.03.02.png"
+set title "Function 002: 31.5 Hz Band-pass Filter - Transient response (16 kHz)"
 
 # setup Y-axis
-# set yrange [-15:15]
 set grid ytics lt 1 lw 1 lc rgb "#bbbbbb"
 set mytics
-set ylabel "Current [A]"
+set ylabel "Power [W]"
 
 # setup X-axis
 set grid xtics lt 1 lw 1 lc rgb "#bbbbbb"
 set mxtics
+set xrange [0:0.001]
 set xlabel "Time [sec]"
 
 # setup plot style
 set style data lines
-plot '26.000.00.02.07.dat' using 1:2 title "R1", \
-     '26.000.00.02.07.dat' using 1:3 title "R2", \
-     '26.000.00.02.07.dat' using 1:4 title "R3"
+plot '26.002.00.03.02.dat' using 1:2 title "R1", \
+     '26.002.00.03.02.dat' using 1:3 title "R2", \
+     '26.002.00.03.02.dat' using 1:4 title "R3"
 
 # set output back to default
 set output

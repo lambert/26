@@ -238,25 +238,25 @@ as to investigate the power up of the input stage.
 ###### Function 002: 31.5 Hz Band-pass Filter.
 
 
-![31.5 Hz section - BPF stage - Frequency response](../ecad/gnucap/26.006.00.00.01.png)
+![31.5 Hz Band-pass Filter - Frequency response](../ecad/gnucap/26.0026.00.00.01.png)
 
-![31.5 Hz section - BPF stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.006.00.01.01.01.png)
+![31.5 Hz Band-pass Filter - Transient response @ 31.5 Hz](../ecad/gnucap/26.002.00.01.01.01.png)
 
-![31.5 Hz section - BPF stage - Transient response @ 31.5 Hz(detail)](../ecad/gnucap/26.006.00.01.01.02.png)
+![31.5 Hz Band-pass Filter - Transient response @ 31.5 Hz(detail)](../ecad/gnucap/26.002.00.01.01.02.png)
 
-![31.5 Hz section - BPF stage - Transient response @ 31.5 Hz(detail)](../ecad/gnucap/26.006.00.01.01.03.png)
+![31.5 Hz Band-pass Filter - Transient response @ 31.5 Hz(detail)](../ecad/gnucap/26.002.00.01.01.03.png)
 
-![31.5 Hz section - BPF stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.000.00.02.07.png)
+![31.5 Hz Band-pass Filter - Transient response @ 31.5 Hz](../ecad/gnucap/26.002.00.02.01.png)
 
-![31.5 Hz section - BPF stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.000.00.02.08.png)
+![31.5 Hz Band-pass Filter - Transient response @ 31.5 Hz](../ecad/gnucap/26.002.00.03.01.png)
 
-![31.5 Hz section - BPF stage - Transient response @ 16 kHz](../ecad/gnucap/26.000.00.02.09-1.png)
+![31.5 Hz Band-pass Filter - Transient response @ 16 kHz](../ecad/gnucap/26.002.00.01.02.01.png)
 
-![31.5 Hz section - BPF stage - Transient response @ 16 kHz(detail)](../ecad/gnucap/26.000.00.02.09-2.png)
+![31.5 Hz Band-pass Filter - Transient response @ 16 kHz(detail)](../ecad/gnucap/26.002.00.01.02.02.png)
 
-![31.5 Hz section - BPF stage - Transient response @ 16 kHz](../ecad/gnucap/26.000.00.02.10.png)
+![31.5 Hz Band-pass Filter - Transient response @ 16 kHz](../ecad/gnucap/26.002.00.02.02.png)
 
-![31.5 Hz section - BPF stage - Transient response @ 16 kHz](../ecad/gnucap/26.000.00.02.11.png)
+![31.5 Hz Band-pass Filter - Transient response @ 16 kHz](../ecad/gnucap/26.002.00.03.02.png)
 
 ----
 

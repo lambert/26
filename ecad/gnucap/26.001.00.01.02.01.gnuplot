@@ -3,7 +3,7 @@ set term png
 
 # setup graph
 set output "26.001.00.01.02.01.png"
-set title "Function 001: Pre-amplifier - Transient response @ 16 kHz"
+set title "Function 001: Pre-amplifier - Transient response (16 kHz)"
 
 # setup Y-axis
 set yrange [-16:16]
