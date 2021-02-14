@@ -238,7 +238,7 @@ as to investigate the power up of the input stage.
 ###### Function 002: 31.5 Hz Band-pass Filter.
 
 
-![31.5 Hz Band-pass Filter - Frequency response](../ecad/gnucap/26.0026.00.00.01.png)
+![31.5 Hz Band-pass Filter - Frequency response](../ecad/gnucap/26.002.00.00.01.png)
 
 ![31.5 Hz Band-pass Filter - Transient response @ 31.5 Hz](../ecad/gnucap/26.002.00.01.01.01.png)
 
