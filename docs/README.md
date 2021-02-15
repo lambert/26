@@ -270,19 +270,19 @@ as to investigate the power up of the input stage.
 
 ###### Function 003: Detector.
 
-![31.5 Hz section - Detector stage - Frequency response](../ecad/gnucap/26.000.00.02.12.png)
+![31.5 Hz Detector - Frequency response](../ecad/gnucap/26.003.00.00.01.png)
 
-![31.5 Hz section - Detector stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.000.00.02.13-1.png)
+![31.5 Hz Detector - Transient response @ 31.5 Hz](../ecad/gnucap/26.003.00.01.01.01.png)
 
-![31.5 Hz section - Detector stage - Transient response @ 31.5 Hz (detail)](../ecad/gnucap/26.000.00.02.13-2.png)
+![31.5 Hz Detector - Transient response @ 31.5 Hz (detail)](../ecad/gnucap/26.003.00.01.01.02.png)
 
-![31.5 Hz section - Detector stage - Transient response @ 31.5 Hz (detail)](../ecad/gnucap/26.000.00.02.13-3.png)
+![31.5 Hz Detector - Transient response @ 31.5 Hz (detail)](../ecad/gnucap/26.003.00.01.01.03.png)
 
-![31.5 Hz section - Detector stage - Transient response @ 31.5 Hz (detail)](../ecad/gnucap/26.000.00.02.13-4.png)
+![31.5 Hz Detector - Transient response @ 31.5 Hz (detail)](../ecad/gnucap/26.003.00.01.01.04.png)
 
-![31.5 Hz section - Detector stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.000.00.02.14.png)
+![31.5 Hz Detector - Transient response @ 31.5 Hz](../ecad/gnucap/26.003.00.02.01.png)
 
-![31.5 Hz section - Detector stage - Transient response @ 31.5 Hz](../ecad/gnucap/26.000.00.02.15.png)
+![31.5 Hz Detector - Transient response @ 31.5 Hz](../ecad/gnucap/26.003.00.03.01.png)
 
 ----
 
