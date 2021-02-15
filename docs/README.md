@@ -268,7 +268,7 @@ as to investigate the power up of the input stage.
 
 ----
 
-###### Function 003: Detector.
+###### Function 003: 31.5 Hz Detector.
 
 ![31.5 Hz Detector - Frequency response](../ecad/gnucap/26.003.00.00.01.png)
 
