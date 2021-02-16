@@ -298,11 +298,13 @@ as to investigate the power up of the input stage.
 
 ![63 Hz Band-pass Filter - Frequency response @ 63 Hz](../ecad/gnucap/26.004.00.03.01.png)
 
-![63 Hz module - BPF stage - Frequency response @ 16 kHz](../ecad/gnucap/26.000.00.02.20-1.png)
+![63 Hz Band-pass Filter - Frequency response @ 16 kHz](../ecad/gnucap/26.004.01.02.01.01.png)
 
-![63 Hz module - BPF stage - Frequency response @ 16 kHz (detail)](../ecad/gnucap/26.000.00.02.20-2.png)
+![63 Hz Band-pass Filter - Frequency response @ 16 kHz (detail)](../ecad/gnucap/26.004.00.01.02.02.png)
 
-![63 Hz module - BPF stage - Frequency response @ 16 kHz](../ecad/gnucap/26.000.00.02.21.png)
+![63 Hz Band-pass Filter - Frequency response @ 16 kHz (detail)](../ecad/gnucap/26.004.00.01.02.03.png)
+
+![63 Hz Band-pass Filter - Frequency response @ 16 kHz](../ecad/gnucap/26.004.00.02.02.png)
 
 ![63 Hz module - BPF stage - Frequency response @ 16 kHz](../ecad/gnucap/26.000.00.02.22.png)
 
