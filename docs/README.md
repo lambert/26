@@ -290,9 +290,9 @@ as to investigate the power up of the input stage.
 
 ![63 Hz Band-pass Filter - Frequency response](../ecad/gnucap/26.004.00.00.01.png)
 
-![63 Hz module - BPF stage - Transient response @ 63 Hz](../ecad/gnucap/26.000.00.02.17-1.png)
+![63 Hz Band-pass Filter - Transient response @ 63 Hz](../ecad/gnucap/26.004.00.01.01.01.png)
 
-![63 Hz module - BPF stage - Transient response @ 63 Hz (detail)](../ecad/gnucap/26.000.00.02.17-2.png)
+![63 Hz Band-pass Filter - Transient response @ 63 Hz (detail)](../ecad/gnucap/26.004.00.01.01.02.png)
 
 ![63 Hz module - BPF stage - Transient response @ 63 Hz](../ecad/gnucap/26.000.00.02.18.png)
 
