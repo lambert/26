@@ -312,7 +312,7 @@ as to investigate the power up of the input stage.
 
 ###### Function 005: Detector.
 
-![63 Hz module - Detector stage - Frequency response](../ecad/gnucap/26.000.00.02.23.png)
+![63 Hz Detector - Frequency response](../ecad/gnucap/26.005.00.00.01.png)
 
 ![63 Hz module - Detector stage - Transient response @ 63 Hz](../ecad/gnucap/26.000.00.02.24-1.png)
 
