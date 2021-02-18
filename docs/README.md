@@ -322,9 +322,9 @@ as to investigate the power up of the input stage.
 
 ![63 Hz Detector - Transient response @ 63 Hz (detail)](../ecad/gnucap/26.005.00.01.01.04.png)
 
-![63 Hz module - Detector stage - Transient response @ 63 Hz](../ecad/gnucap/26.000.00.02.25.png)
+![63 Hz Detector - Transient response @ 63 Hz](../ecad/gnucap/26.005.00.02.01.png)
 
-![63 Hz module - Detector stage - Transient response @ 63 Hz](../ecad/gnucap/26.000.00.02.26.png)
+![63 Hz Detector - Transient response @ 63 Hz](../ecad/gnucap/26.005.00.03.01.png)
 
 ----
 
