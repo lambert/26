@@ -2,11 +2,11 @@
 set term png
 
 # set graph
-set output "26.000.00.02.28-1.png"
-set title "125 Hz section - BPF stage - Transient response @ 125 Hz"
+set output "26.006.00.01.01.01.png"
+set title "Function 006: 125 Hz Band-pass Filter - Transient response (125 Hz)"
 
 # setup Y-axis
-set yrange [-15:15]
+set yrange [-16:16]
 set grid ytics lt 1 lw 1 lc rgb "#bbbbbb"
 set mytics
 set ylabel "Voltage [V]"
@@ -19,10 +19,10 @@ set xlabel "Time [sec]"
 
 # setup plot style
 set style data lines
-plot '26.000.00.02.28.dat' using 1:2 title "Vin", \
-     '26.000.00.02.28.dat' using 1:3 title "Vout", \
-     '26.000.00.02.28.dat' using 1:4 title "Vcc", \
-     '26.000.00.02.28.dat' using 1:5 title "Vee"
+plot '26.006.00.01.01.dat' using 1:2 title "Vin", \
+     '26.006.00.01.01.dat' using 1:3 title "Vout", \
+     '26.006.00.01.01.dat' using 1:4 title "Vcc", \
+     '26.006.00.01.01.dat' using 1:5 title "Vee"
 
 # set output back to default
 set output
