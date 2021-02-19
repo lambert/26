@@ -362,6 +362,12 @@ as to investigate the power up of the input stage.
 
 ![250 Hz Band-pass Filter - Frequency response](../ecad/gnucap/26.008.00.00.01.png)
 
+![250 Hz Band-pass Filter - Transient response @ 250 Hz](../ecad/gnucap/26.008.00.01.01.01.png)
+
+![250 Hz Band-pass Filter - Transient response @ 250 Hz (detail)](../ecad/gnucap/26.008.00.01.01.02.png)
+
+![250 Hz Band-pass Filter - Transient response @ 250 Hz (detail)](../ecad/gnucap/26.008.00.01.01.03.png)
+
 ----
 
 #### ktechlab simulations.
