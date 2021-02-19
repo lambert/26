@@ -358,6 +358,12 @@ as to investigate the power up of the input stage.
 
 ----
 
+###### Function 008: 250 Hz Band-pass Filter.
+
+![250 Hz Band-pass Filter - Frequency response](../ecad/gnucap/26.008.00.00.01.png)
+
+----
+
 #### ktechlab simulations.
 
 ### Breadboard prototyping.
