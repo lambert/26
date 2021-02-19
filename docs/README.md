@@ -356,6 +356,14 @@ as to investigate the power up of the input stage.
 
 ![125 Hz Detector - Frequency response](../ecad/gnucap/26.007.00.00.01.png)
 
+![125 Hz Detector - Transient response @ 125 Hz](../ecad/gnucap/26.007.00.01.01.01.png)
+
+![125 Hz Detector - Transient response @ 125 Hz (detail)](../ecad/gnucap/26.007.00.01.01.02.png)
+
+![125 Hz Detector - Transient response @ 125 Hz (detail)](../ecad/gnucap/26.007.00.01.01.03.png)
+
+![125 Hz Detector - Transient response @ 125 Hz (detail)](../ecad/gnucap/26.007.00.01.01.04.png)
+
 ----
 
 ###### Function 008: 250 Hz Band-pass Filter.
