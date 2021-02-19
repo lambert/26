@@ -2,8 +2,8 @@
 set term png
 
 # setup graph
-set output "26.000.00.02.34.png"
-set title "125 Hz section Detector Stage - Frequency response"
+set output "26.007.00.00.01.png"
+set title "Function 007: 125 Hz Detector - Frequency response"
 
 # setup Y-axis
 set grid ytics lt 1 lw 1 lc rgb "#bbbbbb"
@@ -17,8 +17,8 @@ set xlabel "Frequency [Hz]"
 
 # setup plot style
 set style data lines
-plot '26.000.00.02.34.dat' using 1:2 title "Vout1", \
-     '26.000.00.02.34.dat' using 1:3 title "Vout2"
+plot '26.007.00.00.01.dat' using 1:2 title "Vout1", \
+     '26.007.00.00.01.dat' using 1:3 title "Vout2"
 
 # set output back to default
 set output
