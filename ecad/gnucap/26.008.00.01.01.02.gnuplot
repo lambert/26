@@ -3,7 +3,7 @@ set term png
 
 #set graph
 set output "26.008.00.01.01.02.png"
-set title "Function 008: 250 Hz Band-pass Filter - Transient response (250)"
+set title "Function 008: 250 Hz Band-pass Filter - Transient response (250 Hz)"
 
 # setup Y-axis
 set yrange [-16:16]
