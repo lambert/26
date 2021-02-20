@@ -396,6 +396,12 @@ as to investigate the power up of the input stage.
 
 ----
 
+###### Function 009: 250 Hz Detector.
+
+![250 Hz Detector - Frequency response](../ecad/gnucap/26.009.00.00.01.png)
+
+----
+
 #### ktechlab simulations.
 
 ### Breadboard prototyping.
