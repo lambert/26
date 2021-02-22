@@ -2,7 +2,7 @@
 set term png
 
 # setup graph
-set output "26.009.00.02.01.png"
+set output "26.009.00.02.01.01.png"
 set title "Function 009: 250 Hz Detector - Transient response (250 Hz)"
 
 # setup Y-axis
