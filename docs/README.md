@@ -408,6 +408,8 @@ as to investigate the power up of the input stage.
 
 ![250 Hz Detector - Transient response @ 250 Hz (detail)](../ecad/gnucap/26.009.00.01.01.04.png)
 
+![250 Hz Detector - Transient response @ 250 Hz](../ecad/gnucap/26.009.00.02.01.png)
+
 ----
 
 #### ktechlab simulations.
