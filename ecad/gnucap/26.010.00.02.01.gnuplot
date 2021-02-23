@@ -2,25 +2,25 @@
 set term png
 
 # set graph
-set output "26.008.00.03.01.png"
-set title "Function 008: 250 Hz Band-pass Filter - Transient response (250 Hz)"
+set output "26.010.00.02.01.png"
+set title "Function 010: 500 Hz Band-pass Filter - Transient response (500 Hz)"
 
 # setup Y-axis
 set grid ytics lt 1 lw 1 lc rgb "#bbbbbb"
 set mytics
-set ylabel "Power [W]"
+set ylabel "Current [A]"
 
 # setup X-axis
 set grid xtics lt 1 lw 1 lc rgb "#bbbbbb"
 set mxtics
-set xrange [0:0.05]
+set xrange [0:0.02]
 set xlabel "Time [sec]"
 
 # setup plot style
 set style data lines
-plot '26.008.00.03.01.dat' using 1:2 title "R1", \
-     '26.008.00.03.01.dat' using 1:3 title "R2", \
-     '26.008.00.03.01.dat' using 1:4 title "R3"
+plot '26.010.00.02.01.dat' using 1:2 title "R1", \
+     '26.010.00.02.01.dat' using 1:3 title "R2", \
+     '26.010.00.02.01.dat' using 1:4 title "R3"
 
 # set output back to default
 set output

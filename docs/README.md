@@ -380,7 +380,7 @@ as to investigate the power up of the input stage.
 
 ![250 Hz Band-pass Filter - Transient response @ 250 Hz (detail)](../ecad/gnucap/26.008.00.01.01.03.png)
 
-![125 Hz Band-pass Filter - Transient response @ 250 Hz](../ecad/gnucap/26.008.00.02.01.png)
+![250 Hz Band-pass Filter - Transient response @ 250 Hz](../ecad/gnucap/26.008.00.02.01.png)
 
 ![250 Hz Band-pass Filter - Frequency response @ 250 Hz](../ecad/gnucap/26.008.00.03.01.png)
 
@@ -427,6 +427,10 @@ as to investigate the power up of the input stage.
 ![500 Hz Band-pass Filter - Transient response @ 500 Hz (detail)](../ecad/gnucap/26.010.00.01.01.02.png)
 
 ![500 Hz Band-pass Filter - Transient response @ 500 Hz (detail)](../ecad/gnucap/26.010.00.01.01.03.png)
+
+![500 Hz Band-pass Filter - Transient response @ 500 Hz](../ecad/gnucap/26.010.00.02.01.png)
+
+![500 Hz Band-pass Filter - Frequency response @ 500 Hz](../ecad/gnucap/26.010.00.03.01.png)
 
 ----
 
