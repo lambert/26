@@ -418,6 +418,18 @@ as to investigate the power up of the input stage.
 
 ----
 
+###### Function 010: 500 Hz Band-pass Filter.
+
+![500 Hz Band-pass Filter - Frequency response](../ecad/gnucap/26.010.00.00.01.png)
+
+![500 Hz Band-pass Filter - Transient response @ 500 Hz](../ecad/gnucap/26.010.00.01.01.01.png)
+
+![500 Hz Band-pass Filter - Transient response @ 500 Hz (detail)](../ecad/gnucap/26.010.00.01.01.02.png)
+
+![500 Hz Band-pass Filter - Transient response @ 500 Hz (detail)](../ecad/gnucap/26.010.00.01.01.03.png)
+
+----
+
 #### ktechlab simulations.
 
 ### Breadboard prototyping.
