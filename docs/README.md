@@ -454,7 +454,7 @@ as to investigate the power up of the input stage.
 
 ![500 Hz Detector - Transient response @ 500 Hz (detail)](../ecad/gnucap/26.011.00.01.01.03.png)
 
-![500 Hz Detector - Transient response @ 500 Hz (detail)](../ecad/gnucap/26.01.00.01.01.04.png)
+![500 Hz Detector - Transient response @ 500 Hz (detail)](../ecad/gnucap/26.011.00.01.01.04.png)
 
 ![500 Hz Detector - Transient response @ 500 Hz](../ecad/gnucap/26.011.00.02.01.01.png)
 
