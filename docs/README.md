@@ -466,6 +466,12 @@ as to investigate the power up of the input stage.
 
 ----
 
+###### Function 012: 1 kHz Band-pass Filter.
+
+![1 kHz Band-pass Filter - Frequency response](../ecad/gnucap/26.012.00.00.01.png)
+
+----
+
 #### ktechlab simulations.
 
 ### Breadboard prototyping.
