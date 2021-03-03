@@ -480,6 +480,14 @@ as to investigate the power up of the input stage.
 
 ![1 kHz Band-pass Filter - Frequency response @ 1 kHz](../ecad/gnucap/26.012.00.03.01.png)
 
+![1 kHz Band-pass Filter - Frequency response @ 16 kHz](../ecad/gnucap/26.012.00.01.02.01.png)
+
+![1 kHz Band-pass Filter - Frequency response @ 16 kHz (detail)](../ecad/gnucap/26.012.00.01.02.02.png)
+
+![1 kHz Band-pass Filter - Frequency response @ 16 kHz (detail)](../ecad/gnucap/26.012.00.01.02.03.png)
+
+![1 kHz Band-pass Filter - Frequency response @ 16 kHz (detail)](../ecad/gnucap/26.012.00.01.02.04.png)
+
 ----
 
 #### ktechlab simulations.
