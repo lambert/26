@@ -504,6 +504,12 @@ as to investigate the power up of the input stage.
 
 ----
 
+###### Function 013: 1 kHz Detector.
+
+![1 kHz Detector - Frequency response](../ecad/gnucap/26.013.00.00.01.png)
+
+----
+
 #### ktechlab simulations.
 
 ### Breadboard prototyping.
