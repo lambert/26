@@ -516,6 +516,14 @@ as to investigate the power up of the input stage.
 
 ![1 kHz Detector - Transient response @ 1 kHz (detail)](../ecad/gnucap/26.013.00.01.01.04.png)
 
+![1 kHz Detector - Transient response @ 1 kHz](../ecad/gnucap/26.013.00.02.01.01.png)
+
+![1 kHz Detector - Transient response @ 1 kHz (detail)](../ecad/gnucap/26.013.00.02.01.02.png)
+
+![1 kHz Detector - Transient response @ 1 kHz (detail)](../ecad/gnucap/26.013.00.02.01.03.png)
+
+![1 kHz Detector - Transient response @ 1 kHz](../ecad/gnucap/26.013.00.03.01.png)
+
 ----
 
 #### ktechlab simulations.
