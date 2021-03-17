@@ -564,6 +564,12 @@ as to investigate the power up of the input stage.
 
 ----
 
+###### Function 015: 2 kHz Detector.
+
+![2 kHz Detector - Frequency response](../ecad/gnucap/26.015.00.00.01.png)
+
+----
+
 #### ktechlab simulations.
 
 ### Breadboard prototyping.
