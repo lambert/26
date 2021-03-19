@@ -586,6 +586,12 @@ as to investigate the power up of the input stage.
 
 ----
 
+###### Function 016: 4 kHz Band-pass Filter.
+
+![4 kHz Band-pass Filter - Frequency response](../ecad/gnucap/26.016.00.00.01.png)
+
+----
+
 #### ktechlab simulations.
 
 ### Breadboard prototyping.
