@@ -590,6 +590,12 @@ as to investigate the power up of the input stage.
 
 ![4 kHz Band-pass Filter - Frequency response](../ecad/gnucap/26.016.00.00.01.png)
 
+![4 kHz Band-pass Filter - Transient response @ 4 kHz](../ecad/gnucap/26.016.00.01.01.01.png)
+
+![4 kHz Band-pass Filter - Transient response @ 4 Hkz (detail)](../ecad/gnucap/26.016.00.01.01.02.png)
+
+![4 kHz Band-pass Filter - Transient response @ 4 kHz (detail)](../ecad/gnucap/26.016.00.01.01.03.png)
+
 ----
 
 #### ktechlab simulations.
