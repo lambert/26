@@ -624,6 +624,20 @@ as to investigate the power up of the input stage.
 
 ----
 
+###### Function 017: 4 kHz Detector.
+
+![4 kHz Detector - Frequency response](../ecad/gnucap/26.017.00.00.01.png)
+
+![4 kHz Detector - Transient response @ 4 kHz](../ecad/gnucap/26.017.00.01.01.01.png)
+
+![4 kHz Detector - Transient response @ 4 kHz (detail)](../ecad/gnucap/26.017.00.01.01.02.png)
+
+![4 kHz Detector - Transient response @ 4 kHz (detail)](../ecad/gnucap/26.017.00.01.01.03.png)
+
+![4 kHz Detector - Transient response @ 4 kHz (detail)](../ecad/gnucap/26.017.00.01.01.04.png)
+
+----
+
 #### ktechlab simulations.
 
 ### Breadboard prototyping.
