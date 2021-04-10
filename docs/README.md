@@ -636,6 +636,14 @@ as to investigate the power up of the input stage.
 
 ![4 kHz Detector - Transient response @ 4 kHz (detail)](../ecad/gnucap/26.017.00.01.01.04.png)
 
+![4 kHz Detector - Transient response @ 4 kHz](../ecad/gnucap/26.017.00.02.01.01.png)
+
+![4 kHz Detector - Transient response @ 4 kHz (detail)](../ecad/gnucap/26.017.00.02.01.02.png)
+
+![4 kHz Detector - Transient response @ 4 kHz (detail)](../ecad/gnucap/26.017.00.02.01.03.png)
+
+![4 kHz Detector - Transient response @ 4 kHz](../ecad/gnucap/26.017.00.03.01.png)
+
 ----
 
 #### ktechlab simulations.
