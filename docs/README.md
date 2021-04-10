@@ -646,6 +646,12 @@ as to investigate the power up of the input stage.
 
 ----
 
+###### Function 018: 8 kHz Band-pass Filter.
+
+![8 kHz Band-pass Filter - Frequency response](../ecad/gnucap/26.018.00.00.01.png)
+
+----
+
 #### ktechlab simulations.
 
 ### Breadboard prototyping.
