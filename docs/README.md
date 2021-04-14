@@ -658,6 +658,8 @@ as to investigate the power up of the input stage.
 
 ![8 kHz Band-pass Filter - Transient response @ 8 kHz (detail)](../ecad/gnucap/26.018.00.01.01.04.png)
 
+![8 kHz Band-pass Filter - Transient response @ 8 kHz](../ecad/gnucap/26.018.00.02.01.png)
+
 ----
 
 #### ktechlab simulations.
