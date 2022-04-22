@@ -1,4 +1,4 @@
-v 20110115 2
+v 20130925 2
 C 40000 40000 0 0 0 title-B.sym
 T 50000 40400 5 10 1 1 0 0 1
 file=26.004.00.01.01.sch
@@ -7,7 +7,7 @@ page=01
 T 51500 40100 5 10 1 1 0 0 1
 pages=01
 T 54000 40400 5 10 1 1 0 0 1
-revision=20200203
+revision=20220422
 T 54000 40100 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 50000 40700 5 10 1 1 0 0 1
@@ -73,17 +73,19 @@ refdes=D
 T 48300 45300 5 10 0 0 0 0 1
 footprint=MTG370-700____.fp
 }
-C 48300 41100 1 0 0 CC-BY-SA.sym
+C 45700 46000 1 0 0 CC-BY-SA.sym
 {
-T 48400 42100 5 10 0 0 0 0 1
+T 45800 47000 5 10 0 0 0 0 1
 symversion=20180915
-T 48400 42300 5 10 0 0 0 0 1
+T 45800 47200 5 10 0 0 0 0 1
 footprint=CC-BY-SA.fp
 }
-C 48300 40800 1 0 0 Made_in_NL.sym
+C 45700 45700 1 0 0 Made_in_NL.sym
 {
-T 48400 41800 5 10 0 0 0 0 1
+T 45800 46700 5 10 0 0 0 0 1
 symversion=20180915
-T 48400 42000 5 10 0 0 0 0 1
+T 45800 46900 5 10 0 0 0 0 1
 footprint=NL_contour_filled_150x188.fp
 }
+G 47900 40860 1300 454 0 0 0
+/home/bert/workspace/git/projects/31_Power_Supply_Unit/cc-by-sa.png

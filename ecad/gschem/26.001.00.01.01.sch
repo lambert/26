@@ -1,4 +1,4 @@
-v 20110115 2
+v 20130925 2
 C 500 500 0 0 0 A3-sheet.sym
 {
 T 15900 2200 5 10 0 0 0 0 1
@@ -12,7 +12,7 @@ page=01
 T 11500 600 5 10 1 1 0 0 1
 pages=01
 T 13900 900 5 10 1 1 0 0 1
-revision=20200203
+revision=20220422
 T 13900 600 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 10000 1400 5 10 1 1 0 0 1
@@ -140,17 +140,19 @@ footprint=MTG1050-1250____pad.fp
 N 13500 4800 14100 4800 4
 N 14100 4800 14100 6100 4
 N 14100 6100 13300 6100 4
-C 8300 1600 1 0 0 CC-BY-SA.sym
+C 12700 4200 1 0 0 CC-BY-SA.sym
 {
-T 8400 2600 5 10 0 0 0 0 1
+T 12800 5200 5 10 0 0 0 0 1
 symversion=20180915
-T 8400 2800 5 10 0 0 0 0 1
+T 12800 5400 5 10 0 0 0 0 1
 footprint=CC-BY-SA.fp
 }
-C 8300 1300 1 0 0 Made_in_NL.sym
+C 12700 3900 1 0 0 Made_in_NL.sym
 {
-T 8400 2300 5 10 0 0 0 0 1
+T 12800 4900 5 10 0 0 0 0 1
 symversion=20180915
-T 8400 2500 5 10 0 0 0 0 1
+T 12800 5100 5 10 0 0 0 0 1
 footprint=NL_contour_filled_150x188.fp
 }
+G 7900 1360 1300 454 0 0 0
+/home/bert/workspace/git/projects/31_Power_Supply_Unit/cc-by-sa.png

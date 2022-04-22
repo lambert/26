@@ -1,4 +1,4 @@
-v 20110115 2
+v 20130925 2
 C 9700 14400 1 0 0 amp.sym
 {
 T 9900 15300 5 10 1 1 0 0 1
@@ -279,7 +279,7 @@ comment=block diagram
 T 26200 1300 5 10 1 1 0 0 1
 description=Octave Filter
 T 30100 600 5 10 1 1 0 0 1
-revision=20180603
+revision=20220422
 T 30100 300 5 10 1 1 0 0 1
 author=Bert Timmerman
 }
@@ -334,3 +334,5 @@ symversion=20090227
 }
 C 15900 5400 1 0 0 15V-minus.sym
 C 15900 2600 1 0 0 15V-plus.sym
+G 24000 1060 1300 454 0 0 0
+/home/bert/workspace/git/projects/31_Power_Supply_Unit/cc-by-sa.png

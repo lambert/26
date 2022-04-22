@@ -1,4 +1,4 @@
-v 20110115 2
+v 20130925 2
 N 1800 16100 3900 16100 4
 {
 T 2000 16200 5 10 1 1 0 0 1
@@ -773,7 +773,7 @@ N 7900 9700 7900 11400 4
 C 100 100 0 0 0 A1-sheet.sym
 {
 T 30200 500 5 10 1 1 0 0 1
-revision=20180514
+revision=20220422
 T 30200 200 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 26300 200 5 10 1 1 0 0 1
@@ -1569,3 +1569,5 @@ vendor_PN=142107
 T 20900 7400 5 10 0 0 180 6 1
 symversion=20090414
 }
+G 24100 960 1300 454 0 0 0
+/home/bert/workspace/git/projects/31_Power_Supply_Unit/cc-by-sa.png

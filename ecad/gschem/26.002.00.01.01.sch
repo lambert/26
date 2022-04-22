@@ -1,4 +1,4 @@
-v 20110115 2
+v 20130925 2
 N 12100 15800 11500 15800 4
 C 12100 15600 1 0 0 capacitor-1.sym
 {
@@ -148,7 +148,7 @@ pages=01
 T 26400 600 5 10 1 1 0 0 1
 file=26.002.00.01.01.sch
 T 30300 600 5 10 1 1 0 0 1
-revision=20200203
+revision=20220422
 T 30300 300 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 26400 900 5 10 1 1 0 0 1
@@ -582,17 +582,19 @@ N 17900 8900 16800 8900 4
 T 18700 8900 5 10 1 1 0 1 1
 netname=IN
 }
-C 24600 1300 1 0 0 CC-BY-SA.sym
+C 28700 3900 1 0 0 CC-BY-SA.sym
 {
-T 24700 2300 5 10 0 0 0 0 1
+T 28800 4900 5 10 0 0 0 0 1
 symversion=20180915
-T 24700 2500 5 10 0 0 0 0 1
+T 28800 5100 5 10 0 0 0 0 1
 footprint=CC-BY-SA.fp
 }
-C 24600 1000 1 0 0 Made_in_NL.sym
+C 28700 3600 1 0 0 Made_in_NL.sym
 {
-T 24700 2000 5 10 0 0 0 0 1
+T 28800 4600 5 10 0 0 0 0 1
 symversion=20180915
-T 24700 2200 5 10 0 0 0 0 1
+T 28800 4800 5 10 0 0 0 0 1
 footprint=NL_contour_filled_150x188.fp
 }
+G 24200 1060 1300 454 0 0 0
+/home/bert/workspace/git/projects/31_Power_Supply_Unit/cc-by-sa.png

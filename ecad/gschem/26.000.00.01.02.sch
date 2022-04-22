@@ -1,4 +1,4 @@
-v 20110115 2
+v 20130925 2
 N 8700 14800 8300 14800 4
 {
 T 7400 14800 5 10 1 1 0 7 1
@@ -617,7 +617,7 @@ pages=07
 T 26400 600 5 10 1 1 0 0 1
 file=26.000.00.01.02.sch
 T 30300 600 5 10 1 1 0 0 1
-revision=20190513
+revision=20220422
 T 30300 300 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 26400 900 5 10 1 1 0 0 1
@@ -816,3 +816,5 @@ device=none
 V 27700 9100 50 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 C 10100 9300 1 0 0 15V-minus.sym
 C 10100 8500 1 0 0 15V-plus.sym
+G 24200 1060 1300 454 0 0 0
+/home/bert/workspace/git/projects/31_Power_Supply_Unit/cc-by-sa.png

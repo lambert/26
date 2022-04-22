@@ -1,11 +1,11 @@
-v 20110115 2
+v 20130925 2
 C 0 0 0 0 0 A3-sheet.sym
 {
 T 15400 1700 15 10 0 0 0 0 1
 device=none
 }
 T 13400 400 5 10 1 1 0 0 1
-revision=20200206
+revision=20220422
 T 13400 100 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 9500 100 5 10 1 1 0 0 1
@@ -200,3 +200,5 @@ XOP1 0 6 0 4 5 3 UA741
 .TRAN 0     0.2  0.00001 TRACE ALL
 
 .END
+G 7400 860 1300 454 0 0 0
+/home/bert/workspace/git/projects/31_Power_Supply_Unit/cc-by-sa.png

@@ -1,4 +1,4 @@
-v 20110115 2
+v 20130925 2
 C 500 500 0 0 0 A3-sheet_000.sym
 {
 T 15900 2200 5 10 0 0 0 0 1
@@ -12,7 +12,7 @@ page=01
 T 11500 600 5 10 1 1 0 0 1
 pages=01
 T 13900 900 5 10 1 1 0 0 1
-revision=20180513
+revision=20220422
 T 13900 600 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 10000 1400 5 10 1 1 0 0 1
@@ -58,3 +58,5 @@ limitation.
 No warranties are given. The license may not give you all of the permissions
 necessary for your intended use. For example, other rights such as publicity,
 privacy, or moral rights may limit how you use the material.
+G 7900 1360 1300 454 0 0 0
+/home/bert/workspace/git/projects/31_Power_Supply_Unit/cc-by-sa.png
