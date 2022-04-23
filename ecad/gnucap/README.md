@@ -20,17 +20,17 @@ xx.yyy.zz.aa.bb-cc.png
 
 Where:
 
-xx = unit number = 26
+xx = unit number (26)
 
 yyy = function block number
 
 zz = revision number
 
-aa = document number
+aa = simulation type number
 
-bb = page number
+bb = simulation number
 
-cc = subpage number
+cc = sub number
 
 
 ### Function numbers (yyy):
@@ -89,7 +89,7 @@ cc = subpage number
 etc.
 
 
-### Document numbers (aa):
+### Simulation type numbers (aa):
 
 00 = Frequency response
 
@@ -100,12 +100,12 @@ etc.
 03 = Transient response, Power
 
 
-### Page number (bb):
+### Simulation number (bb):
 
-A page number for every simulation.
+A number for every simulation.
 
 
-### Sub page number (cc):
+### Sub number (cc):
 
-Sub pages of the simulation may have different time scales and time
+Sub numbers of the simulation may have different time scales and time
 domains to give a clear presentation of simulation results.
