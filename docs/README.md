@@ -149,14 +149,18 @@ resulting connectivity of nets in a structured list.
 
 ##### Schematic files (graphic representation only).
 
-Schematic representations of circuits for simulation were prepared with
-gschem.
+Schematics are prepared with gschem version 1.6.2.20110115, a schematic
+entry application part of the GPL'd EDA suite of tools "gschem and
+friends" (geda-gaf).
+
+Attributes for symbols are managed either from within gschem, or with
+gattrib, the attribute editing application from the same suite of tools.
 
 ##### Input files.
 
-Various circuit files (*.ckt) contain subcircuits (operational
-amplifier) and calls to (diode and transistor) models included in the
-gnucap software package.
+Various circuit files (*.ckt) contain subcircuits (*.subckt) a.o.
+operational amplifier, and calls to (diode and transistor) models
+included in the gnucap software package.
 
 ##### Data files.
 
@@ -702,7 +706,13 @@ Visualization was done with Fritzing version 0.6.3 (b08.16).
 
 #### Schematic files.
 
-...
+Schematics are prepared with gschem version 1.6.2.20110115, a schematic
+entry application part of the GPL'd EDA suite of tools "gschem and
+friends" (geda-gaf).
+
+Attributes for symbols are managed either from within gschem, or with
+gattrib, the attribute editing application from the same suite of tools.
+
 
 #### Design Rule Check.
 
