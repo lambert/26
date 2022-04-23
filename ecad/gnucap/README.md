@@ -5,6 +5,8 @@ Requires gnucap version 0.35.
 
 ### Filename examples:
 
+xx.yyy.zz.aa.bb.sch
+
 xx.yyy.zz.aa.bb.ckt
 
 xx.yyy.zz.aa.bb.dat
