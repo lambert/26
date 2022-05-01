@@ -476,7 +476,7 @@ as to investigate the power up of the input stage.
 
 ![1 kHz Band-pass Filter - Transient response @ 1 kHz](../ecad/gnucap/26.012.00.01.01.01.png)
 
-![1 kHz Band-pass Filter - Transient response @ 1 Hkz (detail)](../ecad/gnucap/26.012.00.01.01.02.png)
+![1 kHz Band-pass Filter - Transient response @ 1 kHz (detail)](../ecad/gnucap/26.012.00.01.01.02.png)
 
 ![1 kHz Band-pass Filter - Transient response @ 1 kHz (detail)](../ecad/gnucap/26.012.00.01.01.03.png)
 
@@ -536,7 +536,7 @@ as to investigate the power up of the input stage.
 
 ![2 kHz Band-pass Filter - Transient response @ 2 kHz](../ecad/gnucap/26.014.00.01.01.01.png)
 
-![2 kHz Band-pass Filter - Transient response @ 2 Hkz (detail)](../ecad/gnucap/26.014.00.01.01.02.png)
+![2 kHz Band-pass Filter - Transient response @ 2 kHz (detail)](../ecad/gnucap/26.014.00.01.01.02.png)
 
 ![2 kHz Band-pass Filter - Transient response @ 2 kHz (detail)](../ecad/gnucap/26.014.00.01.01.03.png)
 
@@ -596,7 +596,7 @@ as to investigate the power up of the input stage.
 
 ![4 kHz Band-pass Filter - Transient response @ 4 kHz](../ecad/gnucap/26.016.00.01.01.01.png)
 
-![4 kHz Band-pass Filter - Transient response @ 4 Hkz (detail)](../ecad/gnucap/26.016.00.01.01.02.png)
+![4 kHz Band-pass Filter - Transient response @ 4 kHz (detail)](../ecad/gnucap/26.016.00.01.01.02.png)
 
 ![4 kHz Band-pass Filter - Transient response @ 4 kHz (detail)](../ecad/gnucap/26.016.00.01.01.03.png)
 
@@ -656,7 +656,7 @@ as to investigate the power up of the input stage.
 
 ![8 kHz Band-pass Filter - Transient response @ 8 kHz](../ecad/gnucap/26.018.00.01.01.01.png)
 
-![8 kHz Band-pass Filter - Transient response @ 8 Hkz (detail)](../ecad/gnucap/26.018.00.01.01.02.png)
+![8 kHz Band-pass Filter - Transient response @ 8 kHz (detail)](../ecad/gnucap/26.018.00.01.01.02.png)
 
 ![8 kHz Band-pass Filter - Transient response @ 8 kHz (detail)](../ecad/gnucap/26.018.00.01.01.03.png)
 
@@ -687,6 +687,78 @@ as to investigate the power up of the input stage.
 ![8 kHz Band-pass Filter - Transient response @ 31.5 Hz](../ecad/gnucap/26.018.00.02.03.png)
 
 ![8 kHz Band-pass Filter - Transient response @ 31.5 Hz](../ecad/gnucap/26.018.00.03.03.png)
+
+----
+
+###### Function 019: 8 kHz Detector.
+
+![8 kHz Detector - Frequency response](../ecad/gnucap/26.019.00.00.01.png)
+
+![8 kHz Detector - Transient response @ 8 kHz](../ecad/gnucap/26.019.00.01.01.01.png)
+
+![8 kHz Detector - Transient response @ 8 kHz (detail)](../ecad/gnucap/26.019.00.01.01.02.png)
+
+![8 kHz Detector - Transient response @ 8 kHz (detail)](../ecad/gnucap/26.019.00.01.01.03.png)
+
+![8 kHz Detector - Transient response @ 8 kHz (detail)](../ecad/gnucap/26.019.00.01.01.04.png)
+
+![8 kHz Detector - Transient response @ 8 kHz](../ecad/gnucap/26.019.00.02.01.01.png)
+
+![8 kHz Detector - Transient response @ 8 kHz (detail)](../ecad/gnucap/26.019.00.02.01.02.png)
+
+![8 kHz Detector - Transient response @ 8 kHz (detail)](../ecad/gnucap/26.019.00.02.01.03.png)
+
+![8 kHz Detector - Transient response @ 8 kHz](../ecad/gnucap/26.019.00.03.01.png)
+
+----
+
+###### Function 020: 16 kHz Band-pass Filter.
+
+![16 kHz Band-pass Filter - Frequency response](../ecad/gnucap/26.020.00.00.01.png)
+
+![16 kHz Band-pass Filter - Transient response @ 16 kHz](../ecad/gnucap/26.020.00.01.01.01.png)
+
+![16 kHz Band-pass Filter - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.020.00.01.01.02.png)
+
+![16 kHz Band-pass Filter - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.020.00.01.01.03.png)
+
+![16 kHz Band-pass Filter - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.020.00.01.01.04.png)
+
+![16 kHz Band-pass Filter - Transient response @ 16 kHz](../ecad/gnucap/26.020.00.02.01.png)
+
+![16 kHz Band-pass Filter - Transient response @ 16 kHz](../ecad/gnucap/26.020.00.03.01.png)
+
+![16 kHz Band-pass Filter - Transient response @ 31.5 Hz](../ecad/gnucap/26.020.00.01.02.01.png)
+
+![16 kHz Band-pass Filter - Transient response @ 31.5 Hz (detail)](../ecad/gnucap/26.020.00.01.02.02.png)
+
+![16 kHz Band-pass Filter - Transient response @ 31.5 Hz](../ecad/gnucap/26.020.00.02.02.png)
+
+![16 kHz Band-pass Filter - Transient response @ 31.5 Hz](../ecad/gnucap/26.020.00.03.02.png)
+
+----
+
+###### Function 021: 16 kHz Detector.
+
+![16 kHz Detector - Frequency response](../ecad/gnucap/26.021.00.00.01.png)
+
+![16 kHz Detector - Transient response @ 16 kHz](../ecad/gnucap/26.021.00.01.01.01.png)
+
+![16 kHz Detector - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.021.00.01.01.02.png)
+
+![16 kHz Detector - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.021.00.01.01.03.png)
+
+![16 kHz Detector - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.021.00.01.01.04.png)
+
+![16 kHz Detector - Transient response @ 16 kHz](../ecad/gnucap/26.021.00.02.01.01.png)
+
+![16 kHz Detector - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.021.00.02.01.02.png)
+
+![16 kHz Detector - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.021.00.02.01.03.png)
+
+![16 kHz Detector - Transient response @ 16 kHz (detail)](../ecad/gnucap/26.021.00.02.01.04.png)
+
+![16 kHz Detector - Transient response @ 16 kHz](../ecad/gnucap/26.021.00.03.01.png)
 
 ----
 

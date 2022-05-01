@@ -8,9 +8,13 @@ ckt_SOURCES := $(wildcard *.ckt)
 
 gnuplot_SOURCES := $(wildcard *.gnuplot)
 
+sch_SOURCES := $(wildcard *.sch)
+
 png_TARGETS := $(patsubst %.gnuplot,%.png,$(gnuplot_SOURCES))
 
 dat_TARGETS := $(patsubst %.ckt,%.dat,$(ckt_SOURCES))
+
+pdf_TARGETS := $(patsubst %.sch,%.pdf,$(sch_SOURCES))
 
 %.dat : %.ckt
 	gnucap -b $< \
@@ -27,7 +31,11 @@ dat_TARGETS := $(patsubst %.ckt,%.dat,$(ckt_SOURCES))
 %.png : %.gnuplot
 	gnuplot $<
 
+%.pdf : %.sch
+	gschem -q -o $@ -s/usr/share/gEDA/scheme/print.scm $<;
+
 all: \
 	$(dat_TARGETS) \
 	$(png_TARGETS) \
+	$(pdf_TARGETS)
 
