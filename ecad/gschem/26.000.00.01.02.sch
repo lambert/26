@@ -617,15 +617,15 @@ pages=07
 T 26400 600 5 10 1 1 0 0 1
 file=26.000.00.01.02.sch
 T 30300 600 5 10 1 1 0 0 1
-revision=20220422
+revision=20240522
 T 30300 300 5 10 1 1 0 0 1
 author=Bert Timmerman
-T 26400 900 5 10 1 1 0 0 1
-device=OCTAVE_FILTER
-T 26400 1100 5 10 1 1 0 0 1
-comment=schematic
 T 26400 1300 5 10 1 1 0 0 1
-description=Octave Filter
+device=OCTAVE_FILTER
+T 26400 900 5 10 1 1 0 0 1
+comment=Schematic
+T 26400 1100 5 10 1 1 0 0 1
+description=Overall
 }
 C 13600 11100 1 0 0 CA3140_pwr.sym
 {

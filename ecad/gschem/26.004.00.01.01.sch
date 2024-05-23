@@ -7,15 +7,15 @@ page=01
 T 51500 40100 5 10 1 1 0 0 1
 pages=01
 T 54000 40400 5 10 1 1 0 0 1
-revision=20220422
+revision=20240523
 T 54000 40100 5 10 1 1 0 0 1
 author=Bert Timmerman
-T 50000 40700 5 10 1 1 0 0 1
-device=OCTAVE_FILTER
-T 50000 40900 5 10 1 1 0 0 1
-comment=schematic
 T 50000 41100 5 10 1 1 0 0 1
-description=Octave Filter - Shielding pcb (DFM)
+device=OCTAVE_FILTER
+T 50000 40700 5 10 1 1 0 0 1
+comment=Schematic
+T 50000 40900 5 10 1 1 0 0 1
+description=Shielding pcb
 B 44800 44000 7300 3200 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 C 48000 46600 1 0 0 MTG_hole.sym
 {

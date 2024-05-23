@@ -56,7 +56,7 @@ page=01
 T 51500 40100 5 10 1 1 0 0 1
 pages=01
 T 54000 40400 5 10 1 1 0 0 1
-revision=20220422
+revision=20240523
 T 54000 40100 5 10 1 1 0 0 1
 author=Bert Timmerman
 L 49700 44200 47600 44200 3 0 0 0 -1 -1
@@ -64,12 +64,12 @@ L 47400 44400 47600 44200 3 0 0 0 -1 -1
 L 47400 44400 47400 46500 3 0 0 0 -1 -1
 L 47400 46500 49700 44200 3 0 0 0 -1 -1
 C 47800 45100 1 90 0 gnd-1.sym
-T 50000 40700 5 10 1 1 0 0 1
-device=OCTAVE_FILTER
-T 50000 40900 5 10 1 1 0 0 1
-comment=schematic
 T 50000 41100 5 10 1 1 0 0 1
-description=Octave Filter - Strut pcb (DFM)
+device=OCTAVE_FILTER
+T 50000 40700 5 10 1 1 0 0 1
+comment=Schematic
+T 50000 40900 5 10 1 1 0 0 1
+description=Strut pcb
 C 47800 44600 1 0 0 CC-BY-SA.sym
 {
 T 47900 45600 5 10 0 0 0 0 1

@@ -7,15 +7,15 @@ page=01
 T 51500 40100 5 10 1 1 0 0 1
 pages=01
 T 54000 40400 5 10 1 1 0 0 1
-revision=20220422
+revision=20240523
 T 54000 40100 5 10 1 1 0 0 1
 author=Bert Timmerman
-T 50000 40700 5 10 1 1 0 0 1
-device=OCTAVE_FILTER
-T 50000 40900 5 10 1 1 0 0 1
-comment=schematic
 T 50000 41100 5 10 1 1 0 0 1
-description=Octave Filter - CA3140M breakout pcb (DFM)
+device=OCTAVE_FILTER
+T 50000 40700 5 10 1 1 0 0 1
+comment=Schematic (DFM)
+T 50000 40900 5 10 1 1 0 0 1
+description=CA3140M breakout pcb (PTH+SMT)
 N 49700 46800 50100 46800 4
 N 47500 47000 48700 47000 4
 N 47500 46600 48700 46600 4

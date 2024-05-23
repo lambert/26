@@ -589,15 +589,15 @@ pages=01
 T 26400 600 5 10 1 1 0 0 1
 file=26.003.00.01.01.sch
 T 30300 600 5 10 1 1 0 0 1
-revision=20220422
+revision=20240522
 T 30300 300 5 10 1 1 0 0 1
 author=Bert Timmerman
-T 26400 900 5 10 1 1 0 0 1
-device=OCTAVE_FILTER
-T 26400 1100 5 10 1 1 0 0 1
-comment=schematic
 T 26400 1300 5 10 1 1 0 0 1
-description=Octave Filter - Main pcb (DFM)
+device=OCTAVE_FILTER
+T 26400 900 5 10 1 1 0 0 1
+comment=Schematic (DFM)
+T 26400 1100 5 10 1 1 0 0 1
+description=Main pcb
 }
 N 28700 13200 29800 13200 4
 {

@@ -456,7 +456,7 @@ N 7900 9900 7900 11400 4
 C 100 100 0 0 0 A1-sheet.sym
 {
 T 30200 500 5 10 1 1 0 0 1
-revision=20220422
+revision=20240522
 T 30200 200 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 26300 200 5 10 1 1 0 0 1
@@ -465,12 +465,12 @@ T 26300 500 5 10 1 1 0 0 1
 file=26.000.00.01.06.sch
 T 27800 200 5 10 1 1 0 0 1
 pages=07
-T 26300 800 5 10 1 1 0 0 1
-device=OCTAVE_FILTER
-T 26300 1000 5 10 1 1 0 0 1
-comment=schematic
 T 26300 1200 5 10 1 1 0 0 1
-description=Octave Filter 2 kHz and 4 kHz module
+device=OCTAVE_FILTER
+T 26300 800 5 10 1 1 0 0 1
+comment=Schematic
+T 26300 1000 5 10 1 1 0 0 1
+description=2 kHz & 4 kHz module
 }
 C 10300 18900 1 180 1 CA3140.sym
 {
