@@ -5,21 +5,21 @@ T 15400 1700 15 10 0 0 0 0 1
 device=none
 }
 T 13400 400 5 10 1 1 0 0 1
-revision=20220423
+revision=20240609
 T 13400 100 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 9500 100 5 10 1 1 0 0 1
 page=01
 T 9500 400 5 10 1 1 0 0 1
-file=26.000.00.02.12.sch
+file=gnucap/26.003.00.00.01.sch
 T 11000 100 5 10 1 1 0 0 1
 pages=01
-T 9500 700 5 10 1 1 0 0 1
-device=OCTAVE_FILTER
-T 9500 900 5 10 1 1 0 0 1
-comment=schematic
 T 9500 1100 5 10 1 1 0 0 1
-description=Octave Filter - Detector of the 31.5 Hz module (for simulation)
+device=OCTAVE_FILTER
+T 9500 700 5 10 1 1 0 0 1
+comment=Schematic (DFS)
+T 9500 900 5 10 1 1 0 0 1
+description=31.5 Hz Detector - Frequency response
 N 6400 5900 6400 6100 4
 N 6400 6100 6800 6100 4
 {

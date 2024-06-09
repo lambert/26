@@ -5,7 +5,7 @@ T 15400 1700 15 10 0 0 0 0 1
 device=none
 }
 T 13400 400 5 10 1 1 0 0 1
-revision=20220427
+revision=20240605
 T 13400 100 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 9500 100 5 10 1 1 0 0 1
@@ -14,12 +14,12 @@ T 9500 400 5 10 1 1 0 0 1
 file=gnucap/26.016.00.01.03.sch
 T 11000 100 5 10 1 1 0 0 1
 pages=01
-T 9500 700 5 10 1 1 0 0 1
-device=OCTAVE_FILTER
-T 9500 900 5 10 1 1 0 0 1
-comment=schematic
 T 9500 1100 5 10 1 1 0 0 1
-description=Octave Filter - Band Pass Filter of the 4 kHz module (for simulation)
+device=OCTAVE_FILTER
+T 9500 700 5 10 1 1 0 0 1
+comment=Schematic (DFS)
+T 9500 900 5 10 1 1 0 0 1
+description=4 kHz Band-pass Filter - Transient response (31.5 Hz)
 T 200 11400 9 10 1 0 0 2 25
 .TITLE OCTAVE FILTER - FUNCTION 016: 4 KHZ BAND-PASS FILTER - TRANSIENT RESPONSE
 

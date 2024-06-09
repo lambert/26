@@ -5,13 +5,13 @@ T 15400 1700 15 10 0 0 0 0 1
 device=none
 }
 T 13400 400 5 10 1 1 0 0 1
-revision=20240604
+revision=20240609
 T 13400 100 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 9500 100 5 10 1 1 0 0 1
 page=01
 T 9500 400 5 10 1 1 0 0 1
-file=gnucap/26.014.00.03.03.sch
+file=gnucap/26.020.00.03.01.sch
 T 11000 100 5 10 1 1 0 0 1
 pages=01
 T 9500 1100 5 10 1 1 0 0 1
@@ -19,9 +19,9 @@ device=OCTAVE_FILTER
 T 9500 700 5 10 1 1 0 0 1
 comment=Schematic (DFS)
 T 9500 900 5 10 1 1 0 0 1
-description=2 kHz Band-pass Filter - Transient response (31.5 Hz)
+description=16 kHz Band-pass Filter - Transient response (16 kHz)
 T 200 11400 9 10 1 0 0 2 25
-.TITLE OCTAVE FILTER - FUNCTION 014: 2 KHZ BAND-PASS FILTER - TRANSIENT RESPONSE
+.TITLE OCTAVE FILTER - FUNCTION 020: 16 KHZ BAND-PASS FILTER - TRANSIENT RESPONSE
 
 .INCLUDE UA741.subckt
 
@@ -29,12 +29,12 @@ T 200 11400 9 10 1 0 0 2 25
 VCC 4 0 pulse(iv=0 pv=15 rise=0.01)
 VEE 5 0 pulse(iv=0 pv=-15 rise=0.01)
 
-VS 1 0 AC 1 SIN(0 1.41 31.5)
-R1 1 2 22.7k
-R2 3 6 227K
-R3 0 2 8900
-C1 2 6 2.2nF
-C2 3 2 2.2nF
+VS 1 0 AC 1 SIN(0 1.41 16k)
+R1 1 2 28k
+R2 3 6 280K
+R3 0 2 14700
+C1 2 6 220pF
+C2 3 2 220pF
 XOP1 0 6 0 4 5 3 UA741
 
 
@@ -43,7 +43,7 @@ XOP1 0 6 0 4 5 3 UA741
 .PRINT TRAN P(R1) P(R2) P(R3)
 
 *     FROM  TO   STEP
-.TRAN 0     0.1  0.00001 TRACE ALL
+.TRAN 0     0.02  0.00001 TRACE ALL
 
 .END
 N 9000 6000 9000 6200 4
@@ -68,7 +68,7 @@ device=RESISTOR
 T 9600 6400 5 10 1 1 0 0 1
 refdes=R1
 T 9600 5900 5 10 1 1 0 0 1
-value=22.7k
+value=28k
 }
 C 8700 4800 1 0 0 vac-1.sym
 {
@@ -79,7 +79,7 @@ device=vac
 T 9400 5850 5 10 0 0 0 0 1
 footprint=none
 T 9400 5200 5 10 1 1 0 0 1
-value=f = 31.5 Hz
+value=f = 16 kHz
 }
 N 10300 6200 11500 6200 4
 {
@@ -95,7 +95,7 @@ device=RESISTOR
 T 13600 7900 5 10 1 1 0 0 1
 refdes=R2
 T 13600 7400 5 10 1 1 0 0 1
-value=227k
+value=280k
 }
 N 14300 6000 15100 6000 4
 {
@@ -129,7 +129,7 @@ device=RESISTOR
 T 10600 5200 5 10 1 1 90 0 1
 refdes=R3
 T 11100 5200 5 10 1 1 90 0 1
-value=8900
+value=14700
 }
 N 10800 5900 10800 6200 4
 N 10800 5000 10800 4600 4
@@ -142,7 +142,7 @@ refdes=C1
 T 11700 6900 5 10 0 0 0 0 1
 symversion=0.1
 T 11800 5800 5 10 1 1 0 0 1
-value=2.2nF
+value=470pF
 }
 N 12400 6200 13300 6200 4
 {
@@ -162,7 +162,7 @@ refdes=C2
 T 12600 9000 5 10 0 0 0 0 1
 symversion=0.1
 T 12700 7900 5 10 1 1 0 0 1
-value=2.2nF
+value=470pF
 }
 N 11200 6200 11200 8300 4
 N 11200 8300 12400 8300 4

@@ -5,7 +5,7 @@ T 15400 1700 15 10 0 0 0 0 1
 device=none
 }
 T 13400 400 5 10 1 1 0 0 1
-revision=20220422
+revision=20240524
 T 13400 100 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 9500 100 5 10 1 1 0 0 1
@@ -14,12 +14,12 @@ T 9500 400 5 10 1 1 0 0 1
 file=gnucap/26.001.00.01.03.sch
 T 11000 100 5 10 1 1 0 0 1
 pages=01
-T 9500 700 5 10 1 1 0 0 1
-device=OCTAVE_FILTER
-T 9500 900 5 10 1 1 0 0 1
-comment=schematic
 T 9500 1100 5 10 1 1 0 0 1
-description=Octave Filter - Main board - Input stage (for simulation)
+device=OCTAVE_FILTER
+T 9500 700 5 10 1 1 0 0 1
+comment=Schematic (DFS)
+T 9500 900 5 10 1 1 0 0 1
+description=Pre-amplifier - Transient response (1 kHz)
 N 9300 6000 9300 6200 4
 N 9300 6200 9700 6200 4
 {
