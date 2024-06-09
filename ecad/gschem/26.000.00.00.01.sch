@@ -6,13 +6,13 @@ device=none
 T 10000 1600 5 10 1 1 0 0 1
 device=OCTAVE_FILTER
 T 10000 900 5 10 1 1 0 0 1
-file=26.000.00.00.01.sch
+file=gschem/26.000.00.00.01.sch
 T 10000 600 5 10 1 1 0 0 1
 page=01
 T 11500 600 5 10 1 1 0 0 1
 pages=01
 T 13900 900 5 10 1 1 0 0 1
-revision=20240523
+revision=20240609
 T 13900 600 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 10000 1200 5 10 1 1 0 0 1
@@ -149,39 +149,30 @@ doc_nr=26.003.00.01.01
 T 11400 8900 5 10 1 1 0 0 1
 status=FINAL
 }
-C 9400 8500 1 0 0 list_entry.sym
-{
-T 12300 8600 5 10 1 1 0 0 1
-description=Shielding pcb - Schematic (DFM)
-T 9500 8600 5 10 1 1 0 0 1
-doc_nr=26.004.00.01.01
-T 11400 8600 5 10 1 1 0 0 1
-status=FINAL
-}
 C 9400 8200 1 0 0 list_entry.sym
 {
 T 12300 8300 5 10 1 1 0 0 1
-description=Strut pcb - Schematic (DFM)
+description=Shielding pcb - Schematic (DFM)
 T 9500 8300 5 10 1 1 0 0 1
-doc_nr=26.005.00.01.01
+doc_nr=26.004.00.01.01
 T 11400 8300 5 10 1 1 0 0 1
 status=FINAL
 }
 C 9400 7900 1 0 0 list_entry.sym
 {
 T 12300 8000 5 10 1 1 0 0 1
-description=31.5 Hz & 63 Hz module (PTH) - Schematic (DFM)
+description=Strut pcb - Schematic (DFM)
 T 9500 8000 5 10 1 1 0 0 1
-doc_nr=26.006.00.01.01
+doc_nr=26.005.00.01.01
 T 11400 8000 5 10 1 1 0 0 1
-status=VOID
+status=FINAL
 }
 C 9400 7600 1 0 0 list_entry.sym
 {
 T 12300 7700 5 10 1 1 0 0 1
-description=31.5 Hz & 63 Hz module (PTH+SMT) - Schematic (DFM)
+description=31.5 Hz & 63 Hz module (PTH) - Schematic (DFM)
 T 9500 7700 5 10 1 1 0 0 1
-doc_nr=26.006.01.01.01
+doc_nr=26.006.00.01.01
 T 11400 7700 5 10 1 1 0 0 1
 status=VOID
 }
@@ -190,61 +181,79 @@ C 9400 7300 1 0 0 list_entry.sym
 T 12300 7400 5 10 1 1 0 0 1
 description=31.5 Hz & 63 Hz module (PTH+SMT) - Schematic (DFM)
 T 9500 7400 5 10 1 1 0 0 1
-doc_nr=26.006.02.01.01
+doc_nr=26.006.01.01.01
 T 11400 7400 5 10 1 1 0 0 1
-status=FINAL
+status=VOID
 }
 C 9400 7000 1 0 0 list_entry.sym
 {
 T 12300 7100 5 10 1 1 0 0 1
-description=125 Hz & 250 Hz module (PTH+SMT) - Schematic (DFM)
+description=31.5 Hz & 63 Hz module (PTH+SMT) - Schematic (DFM)
 T 9500 7100 5 10 1 1 0 0 1
-doc_nr=26.007.01.01.01
+doc_nr=26.006.02.01.01
 T 11400 7100 5 10 1 1 0 0 1
 status=FINAL
 }
 C 9400 6700 1 0 0 list_entry.sym
 {
 T 12300 6800 5 10 1 1 0 0 1
-description=500 Hz & 1 kHz module (PTH+SMT) - Schematic (DFM)
+description=125 Hz & 250 Hz module (PTH+SMT) - Schematic (DFM)
 T 9500 6800 5 10 1 1 0 0 1
-doc_nr=26.008.01.01.01
+doc_nr=26.007.01.01.01
 T 11400 6800 5 10 1 1 0 0 1
 status=FINAL
 }
-C 9400 5800 1 0 0 list_entry.sym
+C 9400 6400 1 0 0 list_entry.sym
 {
-T 12300 5900 5 10 1 1 0 0 1
-description=CA3140M breakout pcb (PTH+SMT) - Schematic (DFM)
-T 9500 5900 5 10 1 1 0 0 1
-doc_nr=26.999.00.01.01
-T 11400 5900 5 10 1 1 0 0 1
-status=VOID
+T 12300 6500 5 10 1 1 0 0 1
+description=500 Hz & 1 kHz module (PTH+SMT) - Schematic (DFM)
+T 9500 6500 5 10 1 1 0 0 1
+doc_nr=26.008.01.01.01
+T 11400 6500 5 10 1 1 0 0 1
+status=FINAL
 }
 C 9400 5500 1 0 0 list_entry.sym
 {
 T 12300 5600 5 10 1 1 0 0 1
 description=CA3140M breakout pcb (PTH+SMT) - Schematic (DFM)
 T 9500 5600 5 10 1 1 0 0 1
-doc_nr=26.999.01.01.01
+doc_nr=26.999.00.01.01
 T 11400 5600 5 10 1 1 0 0 1
-status=FINAL
+status=VOID
 }
-C 9400 6400 1 0 0 list_entry.sym
+C 9400 5200 1 0 0 list_entry.sym
 {
-T 12300 6500 5 10 1 1 0 0 1
-description=2 kHz & 4 kHz module (PTH+SMT) - Schematic (DFM)
-T 9500 6500 5 10 1 1 0 0 1
-doc_nr=26.009.01.01.01
-T 11400 6500 5 10 1 1 0 0 1
-status=TBD
+T 12300 5300 5 10 1 1 0 0 1
+description=CA3140M breakout pcb (PTH+SMT) - Schematic (DFM)
+T 9500 5300 5 10 1 1 0 0 1
+doc_nr=26.999.01.01.01
+T 11400 5300 5 10 1 1 0 0 1
+status=FINAL
 }
 C 9400 6100 1 0 0 list_entry.sym
 {
 T 12300 6200 5 10 1 1 0 0 1
-description=8 kHz & 16 kHz module (PTH+SMT) - Schematic (DFM)
+description=2 kHz & 4 kHz module (PTH+SMT) - Schematic (DFM)
 T 9500 6200 5 10 1 1 0 0 1
-doc_nr=26.010.01.01.01
+doc_nr=26.009.01.01.01
 T 11400 6200 5 10 1 1 0 0 1
+status=TBD
+}
+C 9400 5800 1 0 0 list_entry.sym
+{
+T 12300 5900 5 10 1 1 0 0 1
+description=8 kHz & 16 kHz module (PTH+SMT) - Schematic (DFM)
+T 9500 5900 5 10 1 1 0 0 1
+doc_nr=26.010.01.01.01
+T 11400 5900 5 10 1 1 0 0 1
+status=TBD
+}
+C 9400 8500 1 0 0 list_entry.sym
+{
+T 12300 8600 5 10 1 1 0 0 1
+description=Main pcb (PTH + SMT) - Schematic (DFM)
+T 9500 8600 5 10 1 1 0 0 1
+doc_nr=26.003.01.01.01
+T 11400 8600 5 10 1 1 0 0 1
 status=TBD
 }

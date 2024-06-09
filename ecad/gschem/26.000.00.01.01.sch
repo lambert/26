@@ -271,7 +271,7 @@ page=01
 T 27600 300 5 10 1 1 0 0 1
 pages=07
 T 26200 600 5 10 1 1 0 0 1
-file=26.000.00.01.01.sch
+file=gschem/26.000.00.01.01.sch
 T 26200 1300 5 10 1 1 0 0 1
 device=OCTAVE_FILTER
 T 26200 900 5 10 1 1 0 0 1
@@ -279,7 +279,7 @@ comment=Block diagram
 T 26200 1100 5 10 1 1 0 0 1
 description=Overall
 T 30100 600 5 10 1 1 0 0 1
-revision=20240522
+revision=20240609
 T 30100 300 5 10 1 1 0 0 1
 author=Bert Timmerman
 }

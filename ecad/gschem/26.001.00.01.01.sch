@@ -6,13 +6,13 @@ device=none
 T 10000 1600 5 10 1 1 0 0 1
 device=OCTAVE_FILTER
 T 10000 900 5 10 1 1 0 0 1
-file=26.001.00.01.01.sch
+file=gschem/26.001.00.01.01.sch
 T 10000 600 5 10 1 1 0 0 1
 page=01
 T 11500 600 5 10 1 1 0 0 1
 pages=01
 T 13900 900 5 10 1 1 0 0 1
-revision=20240522
+revision=20240609
 T 13900 600 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 10000 1200 5 10 1 1 0 0 1
